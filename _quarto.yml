@@ -12,7 +12,7 @@ website:
   favicon: "favicon.png"
   open-graph: true
   twitter-card: false
-  site-url: https://lanal-ufg.github.io/lanal-ufg
+  site-url: "https://lanal-ufg.github.io/lanal-ufg"
   repo-url: https://github.com/lanal-ufg/lanal-ufg
   issue-url: https://github.com/lanal-ufg/lanal-ufg/issues/new/choose
   repo-actions: [edit, issue]
@@ -26,27 +26,27 @@ website:
       analytics-events: true
       show-logo: true
   page-footer:
-    left: |
-      Este é um laboratório da UFG
+    # left: |
+      # Este é um laboratório da UFG
     center:
       - text: "Sobre"
         href: about.qmd
-      - text: "FAQ"
+      - text: "Perguntas frequentes"
         href: pages/faq/index.qmd
-      - text: "Licença"
-        href: license.qmd
+      # - text: "Licença"
+        # href: license.qmd
       - text: "Acesso à informação"
         href: informação.qmd
-    right:
-      - icon: instagram
-        href: https://www.instagram.com/lanal.ufg
-        aria-label: Instagram LANAL
-      - icon: github
-        href: https://github.com/lanal-ufg/lanal-ufg
-        aria-label: GitHub LANAL
-      - icon: rss
-        href: https://lanal-ufg.github.io/lanal-ufg/docs/blog/index.xml
-        aria-label: Feed RSS do Blog do LANAL        
+    # right:
+      # - icon: instagram
+        # href: https://www.instagram.com/lanal.ufg
+        # aria-label: Instagram LANAL
+      # - icon: github
+        # href: https://github.com/lanal-ufg/lanal-ufg
+        # aria-label: GitHub LANAL
+      # - icon: rss
+        # href: https://lanal-ufg.github.io/lanal-ufg/docs/pages/blog/index.xml
+        # aria-label: Feed RSS do Blog do LANAL        
   navbar:
     background: light
     logo: logo_LANAL.png
@@ -70,25 +70,28 @@ website:
         href: pages/blog/index.qmd
       - text: "Ajuda"
         menu:
-          - text: "Informe um incidente"
-            icon: "bug"
-            href: "https://github.com/quarto-dev/quarto-cli/issues"
-          - text: "Faça uma pergunta"
-            icon: "chat-right-text"
-            href: "https://github.com/quarto-dev/quarto-cli/discussions"
-          - text: "FAQ"
+          - text: "Perguntas frequentes"
             icon: "question-circle"
-            href: docs/faq/index.qmd
+            href: pages/faq/index.qmd
+          - text: "Envie-nos um e-mail"
+            icon: "Envelope"
+            href: "mailto://lanal.fanut@ufg.br"
+          ## - text: "Informe um incidente"
+            ## icon: "bug"
+            ## href: "https://github.com/lanal-ufg/lanal-ufg/issues"
+          ## - text: "Faça uma pergunta"
+            ## icon: "chat-right-text"
+            ## href: https://github.com/lanal-ufg/lanal-ufg/discussions"
     tools:
       - icon: instagram
         href: https://www.instagram.com/lanal.ufg
         text: Instagram LANAL
-      - icon: github
-        href: https://github.com/quarto-dev/quarto-cli
-        text: Quarto GitHub
-      - icon: rss
-        href: https://quarto.org/docs/blog/index.xml
-        text: Quarto Blog RSS        
+      # - icon: github
+        # href: https://github.com/lanal-ufg/lanal-ufg
+        # text: GitHub do LANAL
+      # - icon: rss
+        # href: https://lanal-ufg.github.io/lanal-ufg/docs/pages/blog/index.xml
+        # text: RSS Blog do LANAL        
 
   sidebar:
     - id: apresentação
@@ -114,7 +117,7 @@ website:
         - section: "Procedimentos"
           href: pages/procedimentos/index.qmd
           contents:
-          - section: "Procedimentos analíticos"
+          - section: "Analíticos"
             contents:
               - section: "Composição centesimal"
                 contents:
@@ -133,7 +136,7 @@ website:
                   - pages/procedimentos/analíticos/PAN 009 - Compostos fenólicos totais.qmd
                   - pages/procedimentos/analíticos/PAN 010 - Flavonoides totais.qmd
                   - pages/procedimentos/analíticos/PAN 011 - Carotenoides totais.qmd
-          - section: "Procedimentos operacionais"
+          - section: "Operacionais"
             contents:
               - docs/computations/python.qmd
               - docs/computations/r.qmd
@@ -141,7 +144,7 @@ website:
               - docs/computations/ojs.qmd
               - docs/computations/execution-options.qmd
               - docs/computations/parameters.qmd
-          - section: "Procedimentos administrativos"
+          - section: "Administrativos"
             contents:
               - section: "JupyterLab"
                 contents:
@@ -174,143 +177,6 @@ website:
                 
               - docs/tools/neovim.qmd
               - docs/tools/text-editors.qmd
-          - section: "Documents"
-            contents:
-              - section: "HTML"
-                contents:
-                  - docs/output-formats/html-basics.qmd
-                  - docs/output-formats/html-code.qmd
-                  - docs/output-formats/html-themes.qmd
-                  - docs/output-formats/html-multi-format.qmd
-                  - docs/output-formats/html-publishing.qmd
-              - section: "PDF"
-                contents:
-                  - docs/output-formats/pdf-basics.qmd
-                  - docs/output-formats/pdf-engine.qmd
-              - section: "MS Word"
-                contents:
-                  - docs/output-formats/ms-word.qmd
-                  - docs/output-formats/ms-word-templates.qmd
-              - section: "Markdown"
-                contents:
-                  - docs/output-formats/gfm.qmd
-                  - docs/output-formats/hugo.qmd
-                  - docs/output-formats/docusaurus.qmd
-              - docs/output-formats/all-formats.qmd
-          - section: "Presentations"
-            contents:
-              - text: "Overview"
-                href: docs/presentations/index.qmd
-              - section: docs/presentations/revealjs/index.qmd
-                contents:
-                  - text: "Reveal Basics"
-                    href: docs/presentations/revealjs/index.qmd
-                  - docs/presentations/revealjs/presenting.qmd
-                  - docs/presentations/revealjs/advanced.qmd
-                  - docs/presentations/revealjs/themes.qmd
-              - docs/presentations/powerpoint.qmd
-              - docs/presentations/beamer.qmd
-          - section: "Websites"
-            href: docs/websites/website-basics.qmd
-            contents:
-              - docs/websites/website-basics.qmd
-              - docs/websites/website-navigation.qmd
-              - docs/websites/website-blog.qmd
-              - docs/websites/website-search.qmd
-              - docs/websites/website-tools.qmd
-              - docs/websites/website-about.qmd
-              - section: "Listing Pages"
-                href: docs/websites/website-listings.qmd
-                contents:
-                  - docs/websites/website-listings.qmd
-                  - docs/websites/website-listings-custom.qmd
-          - section: "Books"
-            href: docs/books/book-basics.qmd
-            contents:
-              - docs/books/book-basics.qmd
-              - docs/books/book-structure.qmd
-              - docs/books/book-crossrefs.qmd
-              - text: "Customizing Output"
-                href: docs/books/book-output.qmd
-          - section: "Interactivity"
-            contents:
-              - text: "Overview"
-                href: docs/interactive/index.qmd
-              - section: docs/interactive/ojs/index.qmd
-                contents:
-                  - text: "Introduction"
-                    href: docs/interactive/ojs/index.qmd
-                  - docs/interactive/ojs/libraries.qmd
-                  - docs/interactive/ojs/data-sources.qmd
-                  - docs/interactive/ojs/ojs-cells.qmd
-                  - docs/interactive/ojs/shiny.qmd
-                  - docs/interactive/ojs/code-reuse.qmd
-                  - section: "Examples"
-                    contents:
-                      - docs/interactive/ojs/examples/penguins.qmd
-                      - docs/interactive/ojs/examples/sunburst.qmd
-                      - docs/interactive/ojs/examples/arquero.qmd
-                      - docs/interactive/ojs/examples/population.qmd
-                      - docs/interactive/ojs/examples/noaa-co2.qmd
-                      - docs/interactive/ojs/examples/github.qmd
-                      - docs/interactive/ojs/examples/layout.qmd
-                      - section: "Shiny"
-                        contents:
-                          - text: "K-Means"
-                            href: https://jjallaire.shinyapps.io/kmeans-shiny-ojs/
-                          - text: "Binning"
-                            href: https://jjallaire.shinyapps.io/binning-shiny-ojs/
-                          - text: "Data Binding"
-                            href: https://jjallaire.shinyapps.io/data-shiny-ojs/
-                          - text: "Covid Map"
-                            href: https://jjallaire.shinyapps.io/covid19-bicartogram/
-              - section: docs/interactive/shiny/index.qmd
-                contents:
-                  - text: "Introduction"
-                    href: docs/interactive/shiny/index.qmd
-                  - docs/interactive/shiny/running.qmd
-                  - docs/interactive/shiny/execution.qmd
-                  - docs/interactive/shiny/resources.qmd
-                  - section: "Examples"
-                    contents:
-                      - text: "Old Faithful"
-                        href: https://jjallaire.shinyapps.io/shiny-old-faithful/
-                      - text: "K-Means"
-                        href: https://jjallaire.shinyapps.io/shiny-k-means/
-                      - text: "Diamonds"
-                        href: https://jjallaire.shinyapps.io/shiny-diamonds/
-              - section: "Widgets"
-                contents:
-                  - docs/interactive/widgets/jupyter.qmd
-                  - docs/interactive/widgets/htmlwidgets.qmd
-              - docs/interactive/layout.qmd
-          - section: "Publishing"
-            contents:
-              - docs/publishing/index.qmd
-              - docs/publishing/quarto-pub.qmd
-              - docs/publishing/github-pages.qmd
-              - docs/publishing/rstudio-connect.qmd
-              - docs/publishing/netlify.qmd
-              - docs/publishing/confluence.qmd
-              - docs/publishing/other.qmd
-              - text: "Publishing with CI"
-                href: docs/publishing/ci.qmd
-          - section: "Projects"
-            contents:
-              - docs/projects/quarto-projects.qmd
-              - docs/projects/code-execution.qmd
-              - docs/projects/profiles.qmd
-              - docs/projects/environment.qmd
-              - docs/projects/scripts.qmd
-              - docs/projects/virtual-environments.qmd
-          - section: "Advanced"
-            contents:
-              - docs/authoring/includes.qmd
-              - docs/authoring/variables.qmd
-              - docs/output-formats/page-layout.qmd
-              - docs/authoring/language.qmd
-              - docs/authoring/conditional.qmd
-              - docs/extensions/nbfilter.qmd
     - id: atividades
       title: "Atividades"
       contents:
@@ -324,8 +190,6 @@ website:
             - text: "Extensão"
               href: pages/atividades/listing-formats.qmd
             - text: "Gestão"
-              href: pages/atividades/listing-revealjs.qmd
-            - pages/atividades/managing.qmd
         - "---"
         - section: pages/atividades/creating.qmd
           contents:

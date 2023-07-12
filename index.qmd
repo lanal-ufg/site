@@ -1,5 +1,6 @@
 ---
 title: "LANAL/UFG"
+css: index.css
 ---
 
 Este site contem a documentação do Laboratório de Nutrição e Análise de Alimentos.
