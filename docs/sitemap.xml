@@ -1,71 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/about.html</loc>
-    <lastmod>2023-07-12T20:17:14.268Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PPS 002.html</loc>
+    <lastmod>2023-07-12T23:41:58.586Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 005 - Proteínas totais.html</loc>
-    <lastmod>2023-07-12T20:08:24.388Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PEQ 005.html</loc>
+    <lastmod>2023-07-12T23:41:53.806Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 010 - Flavonoides totais.html</loc>
-    <lastmod>2023-07-12T20:08:23.484Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PEQ 003.html</loc>
+    <lastmod>2023-07-12T23:41:49.025Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 001 - Umidade a 105C.html</loc>
-    <lastmod>2023-07-12T20:08:22.496Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PEQ 001.html</loc>
+    <lastmod>2023-07-12T23:41:44.237Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 004 - Lipídeos por Bligh e Dyer.html</loc>
-    <lastmod>2023-07-12T20:08:21.592Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PDR 001.html</loc>
+    <lastmod>2023-07-12T23:41:39.446Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 006 - Capacidade antioxidante por DPPH.html</loc>
-    <lastmod>2023-07-12T20:08:20.704Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 011.html</loc>
+    <lastmod>2023-07-12T23:41:34.644Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 008 - Capacidade antioxidante por ABTS.html</loc>
-    <lastmod>2023-07-12T20:08:19.776Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 009.html</loc>
+    <lastmod>2023-07-12T23:41:29.765Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 007.html</loc>
+    <lastmod>2023-07-12T23:41:24.933Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 005.html</loc>
+    <lastmod>2023-07-12T23:41:20.130Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 003.html</loc>
+    <lastmod>2023-07-12T23:41:15.322Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 001.html</loc>
+    <lastmod>2023-07-12T23:41:10.555Z</lastmod>
   </url>
   <url>
     <loc>https://lanal-ufg.github.io/lanal-ufg/pages/blog/index.html</loc>
-    <lastmod>2023-07-12T20:17:00.784Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/license.html</loc>
-    <lastmod>2023-07-12T20:08:17.312Z</lastmod>
+    <lastmod>2023-07-12T23:41:00.874Z</lastmod>
   </url>
   <url>
     <loc>https://lanal-ufg.github.io/lanal-ufg/informação.html</loc>
-    <lastmod>2023-07-12T20:08:16.744Z</lastmod>
+    <lastmod>2023-07-12T23:40:50.888Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/about.html</loc>
+    <lastmod>2023-07-12T23:40:46.116Z</lastmod>
   </url>
   <url>
     <loc>https://lanal-ufg.github.io/lanal-ufg/index.html</loc>
-    <lastmod>2023-07-12T20:29:28.223Z</lastmod>
+    <lastmod>2023-07-12T23:42:54.100Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/license.html</loc>
+    <lastmod>2023-07-12T23:40:53.469Z</lastmod>
   </url>
   <url>
     <loc>https://lanal-ufg.github.io/lanal-ufg/pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html</loc>
-    <lastmod>2023-07-12T20:08:18.476Z</lastmod>
+    <lastmod>2023-07-12T23:41:03.427Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 009 - Compostos fenólicos totais.html</loc>
-    <lastmod>2023-07-12T20:08:20.248Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 002.html</loc>
+    <lastmod>2023-07-12T23:41:12.943Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 011 - Carotenoides totais.html</loc>
-    <lastmod>2023-07-12T20:08:21.148Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 004.html</loc>
+    <lastmod>2023-07-12T23:41:17.748Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 007 - Capacidade antioxidante por FRAP.html</loc>
-    <lastmod>2023-07-12T20:08:22.052Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 006.html</loc>
+    <lastmod>2023-07-12T23:41:22.544Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 003 - Lipídeos por Soxhlet.html</loc>
-    <lastmod>2023-07-12T20:08:22.952Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 008.html</loc>
+    <lastmod>2023-07-12T23:41:27.334Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 002 - Resíduo mineral fixo.html</loc>
-    <lastmod>2023-07-12T20:08:23.936Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 010.html</loc>
+    <lastmod>2023-07-12T23:41:32.220Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PDR 002.html</loc>
+    <lastmod>2023-07-12T23:41:41.840Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PEQ 002.html</loc>
+    <lastmod>2023-07-12T23:41:46.635Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PEQ 004.html</loc>
+    <lastmod>2023-07-12T23:41:51.414Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PPS 001.html</loc>
+    <lastmod>2023-07-12T23:41:56.171Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PPS 003.html</loc>
+    <lastmod>2023-07-12T23:42:00.961Z</lastmod>
   </url>
 </urlset>

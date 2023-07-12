@@ -121,29 +121,40 @@ website:
             contents:
               - section: "Composição centesimal"
                 contents:
-                  - pages/procedimentos/analíticos/PAN 001 - Umidade a 105C.qmd
-                  - pages/procedimentos/analíticos/PAN 002 - Resíduo mineral fixo.qmd
-                  - pages/procedimentos/analíticos/PAN 003 - Lipídeos por Soxhlet.qmd
-                  - pages/procedimentos/analíticos/PAN 004 - Lipídeos por Bligh e Dyer.qmd
-                  - pages/procedimentos/analíticos/PAN 005 - Proteínas totais.qmd
+                  - pages/procedimentos/analíticos/PAN 001.qmd
+                  - pages/procedimentos/analíticos/PAN 002.qmd
+                  - pages/procedimentos/analíticos/PAN 003.qmd
+                  - pages/procedimentos/analíticos/PAN 004.qmd
+                  - pages/procedimentos/analíticos/PAN 005.qmd
               - section: "Capacidade antioxidante"
                 contents:
-                  - pages/procedimentos/analíticos/PAN 006 - Capacidade antioxidante por DPPH.qmd
-                  - pages/procedimentos/analíticos/PAN 007 - Capacidade antioxidante por FRAP.qmd
-                  - pages/procedimentos/analíticos/PAN 008 - Capacidade antioxidante por ABTS.qmd
+                  - pages/procedimentos/analíticos/PAN 006.qmd
+                  - pages/procedimentos/analíticos/PAN 007.qmd
+                  - pages/procedimentos/analíticos/PAN 008.qmd
               - section: "Compostos bioativos"
                 contents:
-                  - pages/procedimentos/analíticos/PAN 009 - Compostos fenólicos totais.qmd
-                  - pages/procedimentos/analíticos/PAN 010 - Flavonoides totais.qmd
-                  - pages/procedimentos/analíticos/PAN 011 - Carotenoides totais.qmd
+                  - pages/procedimentos/analíticos/PAN 009.qmd
+                  - pages/procedimentos/analíticos/PAN 010.qmd
+                  - pages/procedimentos/analíticos/PAN 011.qmd
           - section: "Operacionais"
             contents:
-              - docs/computations/python.qmd
-              - docs/computations/r.qmd
-              - docs/computations/julia.qmd
-              - docs/computations/ojs.qmd
-              - docs/computations/execution-options.qmd
-              - docs/computations/parameters.qmd
+              - section: "Operação de equipamentos"
+                contents:
+                  - pages/procedimentos/operacionais/PEQ 001.qmd
+                  - pages/procedimentos/operacionais/PEQ 002.qmd
+                  - pages/procedimentos/operacionais/PEQ 003.qmd
+                  - pages/procedimentos/operacionais/PEQ 004.qmd
+                  - pages/procedimentos/operacionais/PEQ 005.qmd
+              - section: "Preparo de soluções"
+                contents:
+                  - pages/procedimentos/operacionais/PPS 001.qmd
+                  - pages/procedimentos/operacionais/PPS 002.qmd
+                  - pages/procedimentos/operacionais/PPS 003.qmd
+              - section: "Disposição de resíduos"
+                contents:
+                  - pages/procedimentos/operacionais/PDR 001.qmd
+                  - pages/procedimentos/operacionais/PDR 002.qmd
+                  - pages/procedimentos/operacionais/PDR 003.qmd
           - section: "Administrativos"
             contents:
               - section: "JupyterLab"
@@ -174,13 +185,11 @@ website:
                     href: docs/visual-editor/vscode/index.qmd
                   - text: "Notebook Editor"
                     href: docs/tools/vscode-notebook.qmd
-                
               - docs/tools/neovim.qmd
               - docs/tools/text-editors.qmd
     - id: atividades
       title: "Atividades"
       contents:
-        - "---"
         - section: pages/atividades/index.qmd
           contents: 
             - text: "Ensino"
@@ -190,30 +199,6 @@ website:
             - text: "Extensão"
               href: pages/atividades/listing-formats.qmd
             - text: "Gestão"
-        - "---"
-        - section: pages/atividades/creating.qmd
-          contents:
-            - text: "Overview"
-              href: pages/extensions/creating.qmd
-            - docs/extensions/lua.qmd
-            - docs/extensions/lua-api.qmd
-            - text: "Distribution"
-              href: docs/extensions/distributing.qmd
-            - "---"
-            - text: "Shortcodes"
-              href: docs/extensions/shortcodes.qmd
-            - text: "Filters"
-              href: docs/extensions/filters.qmd
-            - section: "Journal Articles"
-              href: docs/journals/formats.qmd
-              contents:
-                - docs/journals/formats.qmd
-                - docs/journals/templates.qmd
-                - docs/journals/authors.qmd
-            - docs/extensions/formats.qmd
-            - docs/extensions/revealjs.qmd
-            - docs/extensions/project-types.qmd
-            - docs/extensions/starter-templates.qmd
     - id: manuscripts
       title: "Manuscripts"
       style: "floating"
