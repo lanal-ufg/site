@@ -1,0 +1,22 @@
+---
+title: Conheça o LANAL/UFG
+subtitle: "Criação, ampliação e manutenção do LANAL: passado, presente e futuro"
+description: |
+  Conheça o LANAL, Laboratório de Nutrição e Análise de Alimentos onde são realizadas atividades de ensino, pesquisa e extensão na área de alimentos.
+categories:
+  - Laboratório
+  - História
+author: Tânia Aparecida
+date: 8/10/2020
+image: post1.png
+image-alt: "Montagem contendo cinco fotos mostrando as bancadas e equipamentos do Laboratório de Nutrição e Análise de Alimentos da UFG"
+---
+
+O LANAL e a sede atual da FANUT/FEN foram construídos em 1990 (Ministério da Educação). Em 2007 foi reestruturado (verba CT-INFRA 2007) e hoje é mantido pela FANUT/UFG e pesquisadores. É destinado às análises físico-químicas de alimentos que incluem composição centesimal (umidade, cinzas, proteínas, lipídeos e carboidratos totais), fibras alimentares, amido, açúcares redutores e não-redutores; análises tecnológicas (índice de absorção de água, óleo, solubilidade, pH, sólidos solúveis totais e acidez); pesquisa de compostos bioativos e capacidade antioxidante, dentre outras.
+
+Possui equipamentos, materiais e condições de segurança de um laboratório com grau de risco 2. Apresenta-se equipado com dispositivos de segurança, como capela para exaustão de gases, chuveiro lava-olhos, extintor de incêndio, container de areia, mapa de risco, formulários de segurança de produtos químicos de todos os reagentes e EPI’s para docentes e funcionários.
+
+O laboratório é constituído por três salas: uma para armazenamento de amostras, estufa e apoio didático, outra para analises e armazenamento de reagentes e uma terceira sala, para balanças e dessecadores. O mesmo é utilizado para aulas práticas da disciplina de Bromatologia (graduação) e também para pesquisas, atendendo demandas dos Programas de Iniciação Científica e Tecnológica da UFG e Programas de Pós-Graduação níveis mestrado e doutorado (Nutrição e Saúde/FANUT-UFG, Ciência e Tecnologia de Alimentos/Escola de Agronomia e Engenharia de Alimentos-UFG).
+Como atividades futuras, estão previstas a prestação de serviços, aquisição de novos equipamentos, participação em ações de extensão na universidade e uso do laboratório como campo de estágio em alimentos.
+Quer saber mais sobre o LANAL? Acompanhe nossas próximas postagens.
+

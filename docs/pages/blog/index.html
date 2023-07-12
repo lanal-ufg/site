@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>LANAL/UFG – index</title>
+<title>LANAL/UFG - Blog do LANAL</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,6 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/autocomplete-preset-algolia.umd.js"></script>
 <meta name="quarto:offset" content="../../">
 <link href="../../favicon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -83,9 +85,52 @@ i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/autocomplete-plugin-algolia-insights">
 
 </script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+<style>
+
+      .quarto-title-block .quarto-title-banner {
+        background: #EDF3F9;
+      }
+</style>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../../styles.css">
+<link rel="alternate" type="application/rss+xml" title="LANAL/UFG" href="index.xml"><meta property="og:title" content="LANAL/UFG - Blog do LANAL">
+<meta property="og:description" content="Notícias, dicas e comentários sobre o que acontece no LANAL/UFG">
+<meta property="og:image" content="https://lanal-ufg.github.io/lanal-ufg/pages/blog/quarto-blog-v2.png">
+<meta property="og:site-name" content="LANAL/UFG">
+<meta property="og:image:height" content="630">
+<meta property="og:image:width" content="1200">
 </head>
 
 <body class="nav-fixed">
@@ -130,7 +175,7 @@ i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
  <span class="menu-text">Galeria</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../pages/blog/index.html" rel="" target="">
+    <a class="nav-link active" href="../../pages/blog/index.html" rel="" target="" aria-current="page">
  <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -166,21 +211,84 @@ i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Blog do LANAL</h1>
+            <p class="subtitle lead">Notícias, dicas e comentários sobre o que acontece no LANAL/UFG</p>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="História">História <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Laboratório">Laboratório <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
 
 
 
 
-</main> <!-- /main -->
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Laboratório,História" data-listing-date-sort="1597028400000" data-listing-file-modified-sort="1689184762774" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="thumbnail">
+<p><a href="../../pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html"> <img src="../../pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/post1.png" class="thumbnail-image" alt="Montagem contendo cinco fotos mostrando as bancadas e equipamentos do Laboratório de Nutrição e Análise de Alimentos da UFG"> </a></p>
+</div>
+<div class="body">
+<a href="../../pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html">
+<h3 class="no-anchor listing-title">
+Conheça o LANAL/UFG
+</h3>
+<div class="listing-subtitle">
+Criação, ampliação e manutenção do LANAL: passado, presente e futuro
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Laboratório'); return false;">
+Laboratório
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('História'); return false;">
+História
+</div>
+</div>
+<a href="../../pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html">
+<div class="listing-description">
+<p>Conheça o LANAL, Laboratório de Nutrição e Análise de Alimentos onde são realizadas atividades de ensino, pesquisa e extensão na área de alimentos.</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../../pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html">
+<div class="listing-date">
+Aug 10, 2020
+</div>
+<div class="listing-author">
+Tânia Aparecida
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script type="text/javascript">
 
     // replace cmd keyboard shortcut w/ control on non-Mac platforms
@@ -436,7 +544,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <a class="nav-link" href="../../about.html">Sobre</a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link active" href="../../pages/faq/index.html" aria-current="page">FAQ</a>
+    <a class="nav-link" href="../../pages/faq/index.html">FAQ</a>
   </li>  
     <li class="nav-item">
     <a class="nav-link" href="../../license.html">Licença</a>
@@ -445,7 +553,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <a class="nav-link" href="../../informação.html">Acesso à informação</a>
   </li>  
 </ul>
-    <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/lanal-ufg/lanal-ufg/edit/main/pages/faq/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/lanal-ufg/lanal-ufg/issues/new/choose" class="toc-action">Report an issue</a></p></div></div></div>
+    <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/lanal-ufg/lanal-ufg/edit/main/pages/blog/index.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/lanal-ufg/lanal-ufg/issues/new/choose" class="toc-action">Report an issue</a></p></div></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">

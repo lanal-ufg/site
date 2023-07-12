@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>LANAL/UFG</title>
+<link>https://lanal-ufg.github.io/lanal-ufg/pages/blog/index.html</link>
+<atom:link href="https://lanal-ufg.github.io/lanal-ufg/pages/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<image>
+<url>https://lanal-ufg.github.io/lanal-ufg/quarto-blog-v2.png</url>
+<title>LANAL/UFG</title>
+<link>https://lanal-ufg.github.io/lanal-ufg/pages/blog/index.html</link>
+</image>
+<generator>quarto-1.3.433</generator>
+<lastBuildDate>Mon, 10 Aug 2020 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Conheça o LANAL/UFG</title>
+  <dc:creator>Tânia Aparecida</dc:creator>
+  <link>https://lanal-ufg.github.io/lanal-ufg/pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>O LANAL e a sede atual da FANUT/FEN foram construídos em 1990 (Ministério da Educação). Em 2007 foi reestruturado (verba CT-INFRA 2007) e hoje é mantido pela FANUT/UFG e pesquisadores. É destinado às análises físico-químicas de alimentos que incluem composição centesimal (umidade, cinzas, proteínas, lipídeos e carboidratos totais), fibras alimentares, amido, açúcares redutores e não-redutores; análises tecnológicas (índice de absorção de água, óleo, solubilidade, pH, sólidos solúveis totais e acidez); pesquisa de compostos bioativos e capacidade antioxidante, dentre outras.</p>
+<p>Possui equipamentos, materiais e condições de segurança de um laboratório com grau de risco 2. Apresenta-se equipado com dispositivos de segurança, como capela para exaustão de gases, chuveiro lava-olhos, extintor de incêndio, container de areia, mapa de risco, formulários de segurança de produtos químicos de todos os reagentes e EPI’s para docentes e funcionários.</p>
+<p>O laboratório é constituído por três salas: uma para armazenamento de amostras, estufa e apoio didático, outra para analises e armazenamento de reagentes e uma terceira sala, para balanças e dessecadores. O mesmo é utilizado para aulas práticas da disciplina de Bromatologia (graduação) e também para pesquisas, atendendo demandas dos Programas de Iniciação Científica e Tecnológica da UFG e Programas de Pós-Graduação níveis mestrado e doutorado (Nutrição e Saúde/FANUT-UFG, Ciência e Tecnologia de Alimentos/Escola de Agronomia e Engenharia de Alimentos-UFG). Como atividades futuras, estão previstas a prestação de serviços, aquisição de novos equipamentos, participação em ações de extensão na universidade e uso do laboratório como campo de estágio em alimentos. Quer saber mais sobre o LANAL? Acompanhe nossas próximas postagens.</p>
+
+
+
+ ]]></description>
+  <category>Laboratório</category>
+  <category>História</category>
+  <guid>https://lanal-ufg.github.io/lanal-ufg/pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html</guid>
+  <pubDate>Mon, 10 Aug 2020 03:00:00 GMT</pubDate>
+  <media:content url="https://lanal-ufg.github.io/lanal-ufg/pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/post1.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+</channel>
+</rss>
