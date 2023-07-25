@@ -130,8 +130,8 @@ website:
           contents:
           - text: "Diretrizes de segurança"
             href: pages/seguranca/diretrizes/index.qmd
-          - text: "Mapas de riscos"
-            href: pages/seguranca/mapas de riscos/index.qmd
+          - text: "Mapa de riscos"
+            href: pages/seguranca/mapa de riscos/index.qmd
           - text: "Fichas de segurança (FDS)"
             href: pages/seguranca/fds/index.qmd
 

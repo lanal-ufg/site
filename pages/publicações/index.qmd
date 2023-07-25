@@ -1,14 +1,13 @@
 ---
 title: "Publicações realizadas pelos membros do LANAL/UFG"
 author: Tiago Dias
+description: "Nesta seção estão listadas as principais publicações dos trabalhos realizados, total ou parcialmente no LANAL, com autoria ou co-autoria de um ou mais integrantes da equipe."
 bibliography: bibliografia-lanal.json
 csl: csl/nature-publishing-group-vancouver.csl
 date: last-modified
 date-format: DD/MM/YYYY
 lang: pt-br
 ---
-
-A seguir estão listadas as principais publicações dos trabalhos realizados, total ou parcialmente no LANAL, com autoria ou co-autoria de um ou mais integrantes da equipe:
 
 ---
 nocite: |

@@ -14,5 +14,7 @@ listing:
         subtitle: "Procedimento"
         title: "Solução"
         volume: "Volume"
+        categories: "Análise"
     sort: title
+    categories: false
 ---

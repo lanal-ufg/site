@@ -1,0 +1,10 @@
+---
+title: "Mapa de riscos do LANAL/UFG"
+author: Tiago Dias
+date: last-modified
+date-format: DD/MM/YYYY
+lang: pt-br
+description: "O mapa de riscos é uma representação visual dos níveis de riscos para os perigos presentes no laboratório"
+---
+
+![Mapa de riscos do LANAL/UFG](img/mapa1.jpg)

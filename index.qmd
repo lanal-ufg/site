@@ -1,6 +1,7 @@
 ---
 title: "LANAL/UFG"
 css: index.css
+lang: pt-br
 ---
 
 ## Apresentação

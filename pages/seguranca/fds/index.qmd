@@ -1,6 +1,7 @@
 ---
 title: "Fichas com dados de segurança (FDS)"
 author: Tiago Dias
+description: "As FDS são regulamentadas pela norma ABNT/NBR 14725/2023, essa seção contém um resumo das FDS do LANAL/UFG, para informações detalhadas, consulte as FDS completas dos produtos."
 date: last-modified
 date-format: DD/MM/YYYY
 lang: pt-br
