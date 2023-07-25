@@ -1,0 +1,21 @@
+---
+title: "Procedimentos Operacionais dos Equipamentos do LANAL/UFG"
+subtitle: PEQ
+author: Tiago Dias
+lang: pt-br
+date: last-modified
+date-format: DD/MM/YYYY
+listing:
+    contents:
+        - "*.md"
+    type: table
+    fields: [title, marca, modelo, cidade, pais]
+    field-display-names:
+        title: "Equipamento"
+        marca: "Marca"
+        modelo: "Modelo"
+        cidade: "Cidade"
+        pais: "País"
+    sort: title
+    categories: true
+---

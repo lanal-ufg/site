@@ -1,0 +1,16 @@
+---
+title: "Instalações do LANAL/UFG"
+date: last-modified
+date-format: DD/MM/YYYY
+lang: pt-br
+---
+
+O LANAL/UFG está instalado em um espaço com aproximadamente 90 m^2^ dispostos em três ambientes. O ambiente principal possui quatro bancadas, com capacidade para acomodar durante as aulas práticas até 16 alunos, divididos em grupos de 4 pessoas. A sala principal ainda possui duas pias, três geladeiras, uma capela de exaustão de gases, prateleras para armazenar reagentes e soluções e armários dispostos na parte inferior das bancadas, nos quais estão guardadas as vidrarias e acessórios de pequeno porte. Na parte superior das bancadas estão equipamentos, como fornos mufla, destiladores de nitrogênio, refratômetro, banho ultratermostático, banhos maria e banho ultrassônico. No ambiente principal ainda há um armário disponível para armazenamento temporário de resíduos.
+
+O laboratório dispõe ainda de dois ambientes menores: a sala de balanças, onde há uma bancada com três balanças analíticas, uma balança semi analítica, uma termobalança e uma balança comercial, nasta sala há também duas mesas com dessecadores e uma bomba de vácuo. A outra sala do laboratório é onde ficam as estufas de secagem os freezers, o espectrofotômetro, uma mesa de estudos e uma mesa com computador, e um armário vertical para guardar documentos. As bancadas desta sala também possuem armários na parte inferior, onde estão guardadas vidrarias em estoque, equipamentos de proteção individual frascos vazios e pertences pessoais dos usuários do laboratório.
+
+## Layout do LANAL/UFG
+
+```{=html}
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vR7aOWYOThEJfsRgD7tC7J37TR9MFtolIG7ee5Lw7O2426edhBCFDKcOLdKbl0LwA1SqWoKQRyCy-XU/pub?w=529&amp">
+```

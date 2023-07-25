@@ -1,0 +1,22 @@
+---
+title: Principais equipamentos e análises realizadas no LANAL/UFG
+# subtitle: " "
+description: |
+  Conheça as principais análises realizadas no LANAL/UFG e os equipamentos disponíveis no laboratório
+categories:
+  - Laboratório
+  - Equipamentos
+  - Análises
+author: Tiago Dias
+date: 8/25/2020
+date-format: DD/MM/YYYY
+image: post3.png
+image-alt: "Montagem contendo cinco fotos mostrando as bancadas e equipamentos do Laboratório de Nutrição e Análise de Alimentos da UFG"
+lang: pt-br
+---
+
+As análises físico-químicas realizadas no LANAL/UFG permitem determinar a composição e o valor calórico dos alimentos. Quer saber quais análises fazemos e os equipamentos que utilizamos? Continue lendo este post.
+
+As principais análises realizadas no LANAL/UFG são as determinações de composição química percentual (análise centesimal), de compostos bioativos e a determinação de capacidade antioxidante dos alimentos. Na análise centesimal são determinados os porcentuais de proteínas, lipídeos, carboidratos, umidade e minerais totais presentes no alimento. Com base nesses resultados é possível calcular o valor calórico do alimento e elaborar a sua tabela de composição nutricional. Já as análises de compostos bioativos e de capacidade antioxidante permitem estabelecer se o alimento possui substâncias, tais como compostos fenólicos e carotenoides, os quais podem apresentar propriedades funcionais benéficas à saúde.
+
+Para a realização dessas análises o laboratório conta com diversos equipamentos, que foram adquiridos com recursos públicos, e estão à disposição para uso dos alunos e pesquisadores. Dentre os principais equipamentos, destacam-se o espectrofotômetro UV/Visível, utilizado nas análises de compostos bioativos e de capacidade antioxidante, fornos mufla, estufas, extratores de lipídeos, capela de exaustão de gases, homogeneizador de amostras, refratômetros, rotoevaporador, banhos maria e banho termostático, além de balanças, refrigeradores e freezers. Conheça mais sobre o LANAL/UFG em: https://bit.ly/lanal-ufg

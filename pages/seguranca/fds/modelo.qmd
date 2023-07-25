@@ -1,0 +1,75 @@
+---
+title: "Modelo de FDS"
+CAS: 
+Classes de perigos: 
+Estado físico: 
+Advertência: 
+Aplicação: 
+NFPA:
+---
+
+## Ficha com dados de segurança
+
+Substância: **--**
+
+Fórmula: 
+
+Peso molecular: 
+
+CAS: 
+
+### Perigo
+
+### Atenção
+
+### Não é classificada como uma substância perigosa
+
+![Bomba explodindo](pic/GHS01.png)
+
+![Chama](pic/GHS02.png)
+
+![Chama sobre círculo](pic/GHS03.png)
+
+![Corrosão](pic/GHS05.png) 
+
+![Crânio e ossos cruzados](pic/GHS06.png) 
+
+![Ponto de exclamação](pic/GHS07.png) 
+
+![Perigo à saúde](pic/GHS08.png) 
+
+![Meio ambiente](pic/GHS09.png)
+
+#### Perigos físicos
+
+- 
+
+#### Perigos à saúde
+
+- 
+
+#### Perigos ao meio ambiente
+
+- 
+
+### Frases de perigo
+
+- 
+
+### Frases de precaução
+
+#### Prevenção
+
+- 
+
+#### Resposta de emergência
+
+- 
+
+#### Armazenamento
+
+- 
+
+### Referência
+
+Para informações completas, consulte a [FDS](--) do produto.

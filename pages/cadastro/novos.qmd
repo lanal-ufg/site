@@ -1,0 +1,10 @@
+---
+title: "Cadastro de novos alunos"
+date: last-modified
+date-format: DD/MM/YYYY
+lang: pt-br
+---
+
+```{=html}
+<p style="text-align: left;"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSepbQtPEeHLa1345KhBodlbKM735BRIqxkV950iU9lXBMvrqg/viewform?embedded=true" width="720" height="3000" frameborder="0">Carregando…</iframe></p>
+```

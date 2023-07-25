@@ -1,0 +1,8 @@
+---
+title: Diretrizes de segurança no LANAL/UFG
+author: Tiago Dias
+date: last-modified
+date-format: DD/MM/YYYY
+lang: pt-br
+---
+

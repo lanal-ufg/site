@@ -1,8 +1,0 @@
----
-title: Capacidade antioxidante por ABTS
-format: html
----
-
-## Materiais
-
-## Procedimento

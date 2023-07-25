@@ -1,0 +1,14 @@
+---
+title: "Equipamentos do LANAL/UFG"
+date: last-modified
+date-format: DD/MM/YYYY
+lang: pt-br
+---
+Os principais equipamentos do LANAL/UFG são balanças analíticas, estufas (de secagem simples, com ventilação e a vácuo), blocos digestores, destiladores de nitrogênio, banhos-maria, centrífuga refrigerada, espectrofotômetro, evaporador rotativo, banho ultrassônico, capela de exaustão. 
+
+Consulte abaixo a relação completa de equipamentos do laboratório:
+
+## Relação de equipamentos do LANAL/UFG
+```{=html}
+<iframe referrerpolicy="no-referrer-when-downgrade" height="3360px" width="100%" style="border:none;" src="https://view-awesome-table.com/-Lh6v9KdKvDPzXi93OES/view"></iframe>
+```

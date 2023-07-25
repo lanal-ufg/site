@@ -1,0 +1,121 @@
+---
+title: "Normas de uso do LANAL/UFG"
+date: last-modified
+date-format: DD/MM/YYYY
+lang: pt-br
+---
+
+## Responsáveis pelo laboratório
+
+-   Coordenadora: Profa. Dra. Tânia Aparecida Pinto de Castro Ferreira.
+
+-   Vice coordenador: Prof. Dr. Rodrigo Barbosa Monteiro Cavalcante.
+
+-   Técnico: MSc. Tiago Dias (Químico).
+
+## Dias e horário de funcionamento
+
+Segunda a sexta-feira de 08:00 as 18:00h[^1]
+
+[^1]: O horário de trabalho do técnico do laboratório é de 08:00 as 12:00h e de 13:00 as 17:00h. Na sua ausência, o aluno de graduação só poderá utilizar o laboratório sob supervisão do professor orientador / "professor solidário" da FANUT.
+
+## Condições para utilização do laboratório
+
+1.  Ser aluno ou servidor da UFG;
+2.  Conhecer e concordar com as normas de segurança e as normas de utilização do laboratório;
+3.  Realizar o cadastro na web página do laboratório;
+4.  Entregar ao coordenador ou vice coordenador do laboratório o formulário de cadastro, bem como, o termo de responsabilidade do orientador, devidamente assinados pelo aluno / professor orientador / coordenador do laboratório;
+5.  Preencher o formulário de reserva na web página do laboratório;
+6.  Cadastrar uma senha de acesso ao laboratório. A senha permanecerá ativa apenas na duração prevista pelo aluno para a realização de seus experimentos, conforme informado no formulário de cadastro.
+
+## Acesso
+
+-   O acesso ao laboratório é permitido apenas aos (às) alunos (as) cadastrados (as), aos (às) professores (as) que realizam atividades no local, à direção / coordenação, aos (às) técnicos (as) da FANUT e outros servidores (as) da UFG ou de empresas terceirizadas pela universidade que se dirigirem ao local para tratar de assuntos de interesse do laboratório. Pessoas externas somente poderão entrar no laboratório mediante autorização / convite dos responsáveis pelo LANAL.
+
+-   Para utilizar o laboratório, é necessário fazer agendamento prévio (reserva) com antecedência mínima de 24 horas. A reserva é exclusiva dos usuários cadastrados. As solicitações de reserva são realizadas em um formulário online disponível na página do laboratório na internet.
+
+-   As reservas são automaticamente inseridas na agenda do laboratório. O cancelamento da reserva, por motivos diversos, deve ser realizado com antecedência mínima de 1 hora ao horário agendado através de comunicado por e-mail, pessoalmente ou por telefone. O não cumprimento de uma reserva que tenha sido confirmada implicará no cancelamento da próxima.
+
+-   A senha possibilita o acesso ao laboratório somente nos horários previamente reservados. O laboratório permanecerá trancado nos finais de semana e nos horários em que não houver reserva para uso do local.
+
+## Atividades no laboratório
+
+-   Alunos de graduação / iniciação científica que não tenham domínio da metodologia e/ou rotina de laboratório devem estar acompanhados dos seus respectivos professores / orientadores "solidários" ou de alunos de pós-graduação devidamente treinados e com domínio das metodologias e da rotina do laboratório.
+
+-   É de responsabilidade do usuário lavar toda vidraria utilizada (o último enxague deve ser com água destilada) e guardá-la depois de seca (deve-se guardar a vidraria em até 3 dias após as análises). Caso haja necessidade, os usuários podem ser convocados pelos responsáveis do laboratório para lavar / guardar vidrarias.
+
+-   Durante a permanência no laboratório é proibido receber pessoas não autorizadas no local. Caso o (a) aluno (a) receba visitas no local, as mesmas deverão ser atendidas fora do laboratório.
+
+-   É proibido o consumo de alimentos no laboratório. O consumo de água deverá ser feito em garrafas apropriadas que deverão ser armazenadas junto aos pertences do usuário em prateleira apropriada. As garrafas não poderão ficar nas bancadas, durante ou após as atividades.
+
+-   Evitar o uso de jogos eletrônicos, aparelhos de som ou outras fontes de barulho no laboratório.
+
+-   O usuário será o responsável pelo bom acondicionamento e identificação das amostras que serão analisadas no laboratório. Após o fim da data de término das análises, as amostras devem ser retiradas em até seis meses da data de defesa do trabalho, as que não forem retiradas, serão descartadas.
+
+-   Após utilizar o laboratório, o (a) aluno (a) deverá deixar o local em perfeitas condições de uso. Não é permitido deixar materiais sobre as bancadas, reagentes e soluções fora das prateleiras, equipamentos ligados, vidrarias, bancadas, balanças ou outros equipamentos sujos.
+
+-   A última pessoa a sair do laboratório no dia é responsável por verificar as condições de organização e segurança do local. As janelas deverão ser fechadas, os aparelhos de ar condicionado e outros equipamentos desligados (exceto geladeiras e freezers), as balanças devem ser deixadas em "Stand By", as luzes devem ser apagadas e a porta trancada.
+
+-   O (a) aluno (a) deverá fazer a compra e reposição de vidrarias / equipamentos que tenha quebrado / danificado durante suas atividades no local.
+
+-   O não cumprimento de qualquer um desses itens acarretará em uma advertência escrita. A soma de 3 advertências, resultará na impossibilidade do uso do laboratório pelo usuário.
+
+-   É exigido para alunos / servidores de outras unidades acadêmicas a co-orientação / participação / cooperação no trabalho de um professor da Faculdade de Nutrição (FANUT/UFG). O mesmo se responsabilizará pelo aluno / servidor nas dependências do laboratório (Responsabilidade solidária).
+
+## Responsabilidade solidária
+
+-   Cabe ao professor "solidário" da unidade (FANUT/UFG):
+
+-   Contribuir na orientação do trabalho e com o desenvolvimento / aprimoramento do aluno.
+
+-   Reposição de vidrarias quebradas ou consertos de equipamentos danificados pelo usuário de sua responsabilidade.
+
+-   Contribuir para a segurança laboratorial do usuário (manejo e descarte correto dos reagentes, armazenamento de soluções, alertar sobre os riscos e precauções de cada reagente que será utilizado e que estão sendo utilizados no laboratório para evitar o risco cruzado).
+
+## Controle de materiais do laboratório
+
+### Entrada
+
+-   A entrada de reagentes que serão utilizados nas pesquisas só será possível após aprovação da quantidade pelo técnico. Após o fim da data de término das análises, os reagentes / materiais que não forem retirados, serão de propriedade do laboratório.
+
+-   Caso haja disponibilidade, o reagente / material pode ser fornecido pelo laboratório, desde que o custo correspondente seja repassado ao mesmo sob a forma de outros reagentes ou materiais que sejam de interesse do laboratório.
+
+-   Os reagentes / soluções armazenados no laboratório devem estar devidamente identificados (descrição / concentração / aluno / orientador / data).
+
+-   Toda a entrada de materiais no laboratório (reagentes, vidrarias, equipamentos, amostras) deverão ser registrados em livros de ata próprios, nos quais devem ser descritas as informações a respeito dos materiais, tais como, nome, marca, modelo, quantidade, validade, finalidade (ensino, pesquisa), responsável.
+
+-   As informações sobre entrada de materiais serão transcritas dos livros atas para um banco de dados informatizado de controle de estoque do laboratório.
+
+-   Para fins de monitoramento no banco de dados, cada frasco de reagente será identificado com um número sequencial individual (ID) composto por cinco dígitos no formato "AA.NNN" no qual "AA" indica o ano de entrada do reagente no laboratório, com dois dígitos e "NNN" a ordem de entrada do reagente naquele ano, iniciando em "001" e terminando em "999". As vidrarias não serão identificadas pelo ID e sim pelo nome e quantidade em um livro ata específico.
+
+### Armazenamento
+
+-   O armazenamento de qualquer material no laboratório somente poderá ser feito após o registro de entrada no caderno de ata apropriado.
+
+-   Deve-se observar no rótulo dos reagentes as condições de armazenamento recomendadas (temperatura, ventilação, etc.). Reagentes armazenados em temperatura ambiente devem ficar nas prateleiras de reagentes do laboratório (ensino ou pesquisa). Não é permitido o armazenamento de reagentes dentro de armários ou gavetas.
+
+-   As vidrarias e acessórios do laboratório serão armazenados nos armários apropriados, identificados com o nome do material. Caso o armário esteja cheio, poderão ser guardados em caixas de papelão em armários destinados para guardar vidrarias em estoque. As vidrarias em estoque serão utilizadas para repor as vidrarias que forem quebradas em uso no laboratório, devendo ser feito o controle de quebra de vidrarias para substituição.
+
+-   Amostras de alimentos deverão ser acondicionadas em frascos ou embalagens em local apropriado, com identificação completa da amostra, sem códigos, com nome, responsável e data de armazenamento. Alimentos perecíveis ou que se decompõem não poderão ser guardados em armários, devendo ser armazenados sob refrigeração, em geladeira ou freezer, de acordo com as condições requeridas pelo alimento e o tempo de armazenamento.
+
+-   Soluções preparadas deverão ser armazenadas em frascos de vidro ou de plástico limpos. O frasco deverá ser rotulado com o nome da solução, concentração, responsável e data de preparo. Não é permitido o armazenamento permanente de soluções em quaisquer vidrarias (béqueres, Erlenmeyers, balões volumétricos, tubos de ensaio, etc.). As soluções deverão ser acondicionadas em temperatura apropriada de acordo com a estabilidade. O tempo máximo de armazenamento é o de uso da solução. O frasco utilizado para armazenamento deverá ser limpo, podendo ser reutilizado, ou descartado como vidro de laboratório, dependendo do estado de conservação.
+
+-   Resíduos gerados no laboratório serão acondicionados em recipientes identificados e classificados de acordo com o procedimento de gestão de resíduos do laboratório. Os frascos serão tampados e armazenados no armário de resíduos por curto período, quando deverá ser providenciada, pelo técnico, a sua remoção do laboratório.
+
+-   Os equipamentos do laboratório serão dispostos no piso ou nas bancadas, de acordo com o porte e finalidade dos mesmos. Para liberar espaço nas bancadas, equipamentos de pequeno porte poderão ser guardados em armários, quando não estiverem em uso.
+
+### Saída
+
+-   Os equipamentos do laboratório não estão disponíveis para empréstimo e não podem ser retirados do laboratório para essa finalidade. Pessoas que tenham interesse de utilizar equipamentos do laboratório devem cadastrar-se como usuários e fazer o devido agendamento para uso.
+
+-   Equipamentos que apresentarem defeitos serão encaminhados para manutenção no CEMEQ (Centro de Manutenção de Equipamentos da UFG) acompanhados da ordem de serviço previamente cadastrada no sistema de ordens de serviço da UFG e da guia de movimentação de materiais emitida pela coordenação administrativa da FANUT. Uma cópia da guia de movimentação deverá ser entregue ao vigilante em serviço no momento da saída do equipamento. Não é permitida a saída de equipamento para manutenção sem a ordem de serviço e a guia de movimentação. A guia de movimentação e a ordem de serviço deverão ser devolvidas junto com o equipamento após a manutenção.
+
+-   Caso o equipamento não possa ser consertado pelo CEMEQ e a empresa de assistência técnica não faça o serviço no laboratório e o equipamento tenha que ser enviado para manutenção fora da UFG, deve-se entrar em contato com a divisão de patrimônio do DMP para solicitar o procedimento de retirada do equipamento para manutenção.
+
+-   O consumo de reagentes do laboratório deverá ser registrado no livro de ata de consumo de reagentes, onde se indicará o "ID" do frasco e a data final de uso do reagente.
+
+-   As vidrarias quebradas no laboratório deverão ser registradas no livro de ata de quebra de vidrarias, indicando a data, o nome da vidraria (de acordo com a descrição padrão de materiais do laboratório) e a quantidade.
+
+-   Não é permitido deixar alimentos que se decompõem rapidamente nos lixos do laboratório. Os mesmos devem ser removidos imediatamente.
+
+-   Os resíduos armazenados no laboratório serão removidos para o armazém de resíduos químicos do campus universitário que se localiza no IPTSP. Antes de sua retirada do laboratório, os frascos devem ser identificados e pesados, e uma relação com nome dos resíduos e peso deve ser elaborada para entrega no IPTSP, conforme o procedimento de gestão de resíduos do laboratório.

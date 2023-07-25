@@ -1,0 +1,18 @@
+---
+title: "Procedimentos de Preparo de Soluções"
+subtitle: PPS
+author: Tiago Dias
+lang: pt-br
+date: last-modified
+date-format: DD/MM/YYYY
+listing:
+    contents:
+        - "*.md"
+    type: table
+    fields: [title, volume]
+    field-display-names:
+        subtitle: "Procedimento"
+        title: "Solução"
+        volume: "Volume"
+    sort: title
+---

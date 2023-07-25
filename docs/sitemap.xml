@@ -1,111 +1,287 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PPS 002.html</loc>
-    <lastmod>2023-07-12T23:41:58.586Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PEQ 005.html</loc>
-    <lastmod>2023-07-12T23:41:53.806Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PEQ 003.html</loc>
-    <lastmod>2023-07-12T23:41:49.025Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PEQ 001.html</loc>
-    <lastmod>2023-07-12T23:41:44.237Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PDR 001.html</loc>
-    <lastmod>2023-07-12T23:41:39.446Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 011.html</loc>
-    <lastmod>2023-07-12T23:41:34.644Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 009.html</loc>
-    <lastmod>2023-07-12T23:41:29.765Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 007.html</loc>
-    <lastmod>2023-07-12T23:41:24.933Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 005.html</loc>
-    <lastmod>2023-07-12T23:41:20.130Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 003.html</loc>
-    <lastmod>2023-07-12T23:41:15.322Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 001.html</loc>
-    <lastmod>2023-07-12T23:41:10.555Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/blog/index.html</loc>
-    <lastmod>2023-07-12T23:41:00.874Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/informação.html</loc>
-    <lastmod>2023-07-12T23:40:50.888Z</lastmod>
-  </url>
-  <url>
     <loc>https://lanal-ufg.github.io/lanal-ufg/about.html</loc>
-    <lastmod>2023-07-12T23:40:46.116Z</lastmod>
+    <lastmod>2023-07-25T17:30:35.827Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/index.html</loc>
-    <lastmod>2023-07-12T23:42:54.100Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/faq/index.html</loc>
+    <lastmod>2023-07-25T17:30:35.115Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/license.html</loc>
-    <lastmod>2023-07-12T23:40:53.469Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/fds/fds-008.html</loc>
+    <lastmod>2023-07-25T17:30:33.655Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/fds/modelo.html</loc>
+    <lastmod>2023-07-25T17:30:32.875Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/fds/fds-015.html</loc>
+    <lastmod>2023-07-25T17:30:32.095Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/fds/fds-013.html</loc>
+    <lastmod>2023-07-25T17:30:31.343Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/fds/index.html</loc>
+    <lastmod>2023-07-25T17:31:51.955Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/fds/fds-002.html</loc>
+    <lastmod>2023-07-25T17:30:29.579Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/fds/fds-003.html</loc>
+    <lastmod>2023-07-25T17:30:28.799Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/fds/fds-005.html</loc>
+    <lastmod>2023-07-25T17:30:27.903Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/fds/fds-007.html</loc>
+    <lastmod>2023-07-25T17:30:27.115Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/diretrizes/index.html</loc>
+    <lastmod>2023-07-25T17:31:47.699Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analiticos/pan001.html</loc>
+    <lastmod>2023-07-25T17:30:25.479Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analiticos/pan010.html</loc>
+    <lastmod>2023-07-25T17:30:24.735Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analiticos/pan002.html</loc>
+    <lastmod>2023-07-25T17:30:23.739Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analiticos/pan009.html</loc>
+    <lastmod>2023-07-25T17:30:22.619Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analiticos/pan011.html</loc>
+    <lastmod>2023-07-25T17:30:21.891Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analiticos/pan007.html</loc>
+    <lastmod>2023-07-25T17:30:21.183Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/peq/peq004.html</loc>
+    <lastmod>2023-07-25T17:30:20.139Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/peq/peq001.html</loc>
+    <lastmod>2023-07-25T17:30:19.463Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/peq/peq005.html</loc>
+    <lastmod>2023-07-25T17:30:18.475Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/pps/pps002.html</loc>
+    <lastmod>2023-07-25T17:30:12.675Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/pps/index.html</loc>
+    <lastmod>2023-07-25T17:30:11.911Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/pdr/index.html</loc>
+    <lastmod>2023-07-25T17:30:11.007Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/pdr/pdr002.html</loc>
+    <lastmod>2023-07-25T17:30:10.155Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/administrativos/pae001.html</loc>
+    <lastmod>2023-07-25T17:30:09.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/administrativos/pap001.html</loc>
+    <lastmod>2023-07-25T17:30:08.411Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/atividades/index.html</loc>
+    <lastmod>2023-07-25T17:30:07.731Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/blog/posts/2020-08-20-equipe-responsavel/index.html</loc>
+    <lastmod>2023-07-25T17:30:06.339Z</lastmod>
   </url>
   <url>
     <loc>https://lanal-ufg.github.io/lanal-ufg/pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html</loc>
-    <lastmod>2023-07-12T23:41:03.427Z</lastmod>
+    <lastmod>2023-07-25T17:30:05.419Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 002.html</loc>
-    <lastmod>2023-07-12T23:41:12.943Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/cadastro/atualiza.html</loc>
+    <lastmod>2023-07-25T17:30:04.447Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 004.html</loc>
-    <lastmod>2023-07-12T23:41:17.748Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/apresentação/normas/index.html</loc>
+    <lastmod>2023-07-25T17:30:03.759Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 006.html</loc>
-    <lastmod>2023-07-12T23:41:22.544Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/apresentação/infraestrutura/instalacoes.html</loc>
+    <lastmod>2023-07-25T17:30:02.619Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 008.html</loc>
-    <lastmod>2023-07-12T23:41:27.334Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/apresentação/infraestrutura/reagentes.html</loc>
+    <lastmod>2023-07-25T17:30:01.795Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analíticos/PAN 010.html</loc>
-    <lastmod>2023-07-12T23:41:32.220Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/equipe.html</loc>
+    <lastmod>2023-07-25T17:30:00.883Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PDR 002.html</loc>
-    <lastmod>2023-07-12T23:41:41.840Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/informação.html</loc>
+    <lastmod>2023-07-25T17:29:59.507Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PEQ 002.html</loc>
-    <lastmod>2023-07-12T23:41:46.635Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/license.html</loc>
+    <lastmod>2023-07-25T17:30:00.143Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PEQ 004.html</loc>
-    <lastmod>2023-07-12T23:41:51.414Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/index.html</loc>
+    <lastmod>2023-07-25T17:31:35.911Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PPS 001.html</loc>
-    <lastmod>2023-07-12T23:41:56.171Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/apresentação/infraestrutura/equipamentos.html</loc>
+    <lastmod>2023-07-25T17:30:02.219Z</lastmod>
   </url>
   <url>
-    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/PPS 003.html</loc>
-    <lastmod>2023-07-12T23:42:00.961Z</lastmod>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/apresentação/segurança/index.html</loc>
+    <lastmod>2023-07-25T17:30:02.967Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/agenda/index.html</loc>
+    <lastmod>2023-07-25T17:30:04.091Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/cadastro/novos.html</loc>
+    <lastmod>2023-07-25T17:30:04.811Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/blog/posts/2020-08-25-principais-equipamentos-e-analises/index.html</loc>
+    <lastmod>2023-07-25T17:30:05.891Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/blog/index.html</loc>
+    <lastmod>2023-07-25T17:30:07.371Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/atividades/ensino/index.html</loc>
+    <lastmod>2023-07-25T17:30:08.059Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/administrativos/pax001.html</loc>
+    <lastmod>2023-07-25T17:30:09.043Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/index.html</loc>
+    <lastmod>2023-07-25T17:30:09.759Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/pdr/pdr001.html</loc>
+    <lastmod>2023-07-25T17:30:10.531Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/pps/pps003.html</loc>
+    <lastmod>2023-07-25T17:30:11.427Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/pps/pps001.html</loc>
+    <lastmod>2023-07-25T17:30:12.295Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/pps/PPS.html</loc>
+    <lastmod>2023-07-25T17:30:18.079Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/peq/index.html</loc>
+    <lastmod>2023-07-25T17:30:19.123Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/peq/peq002.html</loc>
+    <lastmod>2023-07-25T17:30:19.795Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/peq/peq003.html</loc>
+    <lastmod>2023-07-25T17:30:20.819Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analiticos/pan005.html</loc>
+    <lastmod>2023-07-25T17:30:21.551Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analiticos/pan004.html</loc>
+    <lastmod>2023-07-25T17:30:22.255Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analiticos/pan003.html</loc>
+    <lastmod>2023-07-25T17:30:23.295Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analiticos/index.html</loc>
+    <lastmod>2023-07-25T17:30:24.383Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analiticos/pan006.html</loc>
+    <lastmod>2023-07-25T17:30:25.083Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/analiticos/pan008.html</loc>
+    <lastmod>2023-07-25T17:30:25.907Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/fds/fds-006.html</loc>
+    <lastmod>2023-07-25T17:30:26.703Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/fds/fds-010.html</loc>
+    <lastmod>2023-07-25T17:30:27.479Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/fds/fds-017.html</loc>
+    <lastmod>2023-07-25T17:32:26.218Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/fds/fds-004.html</loc>
+    <lastmod>2023-07-25T17:30:29.155Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/fds/fds-011.html</loc>
+    <lastmod>2023-07-25T17:30:29.959Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/fds/fds-001.html</loc>
+    <lastmod>2023-07-25T17:30:31.011Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/fds/fds-014.html</loc>
+    <lastmod>2023-07-25T17:30:31.731Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/fds/fds-012.html</loc>
+    <lastmod>2023-07-25T17:30:32.491Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/fds/fds-016.html</loc>
+    <lastmod>2023-07-25T17:30:33.243Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/seguranca/fds/fds-009.html</loc>
+    <lastmod>2023-07-25T17:30:33.991Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lanal-ufg.github.io/lanal-ufg/pages/publicações/index.html</loc>
+    <lastmod>2023-07-25T17:30:35.515Z</lastmod>
   </url>
 </urlset>

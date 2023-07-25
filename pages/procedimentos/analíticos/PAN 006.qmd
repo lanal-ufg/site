@@ -1,8 +1,0 @@
----
-title: Capacidade antioxidante por DPPH
-format: html
----
-
-## Materiais
-
-## Procedimento

@@ -3,5 +3,46 @@ title: "LANAL/UFG"
 css: index.css
 ---
 
-Este site contem a documentação do Laboratório de Nutrição e Análise de Alimentos.
+## Apresentação
 
+O Laboratório de Nutrição e Análise de Alimentos da Faculdade de Nutrição da UFG (LANAL/UFG) atende desde sua implantação, em 1995, à demanda do curso de Nutrição, com as atividades de ensino e pesquisa relacionadas às análises químicas e físicas de alimentos e dietas. A partir de 2007 as aulas práticas da disciplina Bromatologia, do curso de graduação em Nutrição, passaram a ser ministradas no LANAL/UFG, sob a responsabilidade de docente do curso de Nutrição. Em 2009, os projetos da linha de pesquisa Qualidade de Alimentos e Dietas e Segurança Alimentar e Nutricional do Mestrado em Nutrição e Saúde da Faculdade de Nutrição (FANUT/UFG) começaram a ser desenvolvidos total ou parcialmente no LANAL/UFG.
+
+A partir de 2010, o LANAL/UFG foi reestruturado em sua área física e recursos humanos e materiais com o propósito de melhorar a qualidade dos serviços e atender a um maior público interno da UFG. Atualmente, além das atividades de ensino e pesquisa da graduação e pós-graduação lato e stricto sensu da FANUT/UFG, o LANAL disponibiliza a sua estrutura para o desenvolvimento de pesquisas de alunos de graduação e pós-graduação e docentes de outras unidades da UFG. Acadêmicos do Programa de Pós-graduação em Ciência e Tecnologia de Alimentos da Escola de Agronomia -- UFG também têm utilizado o suporte do LANAL para a realização de análises de alimentos.
+
+As pesquisas são desenvolvidas no LANAL com a participação de alunos bolsistas e voluntários dos Programas de Iniciação Científica - PIBIC-PIVIC e BIBIT-PIVIT do CNPq, alunos de pós-graduação, docentes e servidores. A produção científica das equipes que trabalham no LANAL é significativa com a divulgação de resumos em Anais de eventos da área e artigos científicos publicados em periódicos especializados.
+
+## Serviços oferecidos
+
+O LANAL/UFG disponibiliza apoio profissional e infraestrutura para a realização de atividades práticas de ensino e pesquisa em análise de alimentos. No laboratório, são realizadas aulas experimentais da disciplina de Bromatologia do curso de Nutrição e atividades de pesquisa sobre composição química dos alimentos. As atividades de pesquisa são realizadas por alunos de iniciação científica, mestrado e doutorado, sob orientação ou supervisão de professores vinculados ao LANAL/UFG, com o apoio do servidor técnico do laboratório. O laboratório não realiza análises por meio de prestação de serviços para empresas.
+
+A infraestrutura do LANAL/UFG é adequada para realizar análises de:
+
+-   Determinação da composição química centesimal dos alimentos (umidade, cinzas, lipídeos, proteínas, fibras);
+-   Determinação de compostos bioativos e antioxidantes, por métodos espectrofotométricos;
+-   Realização de análises fiscais para avaliação da qualidade físico-química de alimentos como méis, carnes, óleos e gorduras, bebidas açucaradas, e outros.
+-   Determinação de propriedades físicas em alimentos, tais como índices de absorção de água ou óleo, índice de formação de espuma, densidade e outras.
+
+Além dessas análises, dispomos de conhecimento e estrutura que possibilitam a implantação de outros métodos analíticos de acordo com a necessidade, considerando a aplicabilidade dos equipamentos do laboratório e a disponibilidade de reagentes e acessórios. Realizamos constantemente estudos para a implementação de novas metodologias no laboratório.
+
+## Atendimento
+
+O expediente do laboratório é de segunda a sexta, das 8:00h às 12:00h e das 13:00h às 17:00h
+
+**Para utilizar o laboratório, o aluno deverá ser cadastrado e solicitar a reserva antecipadamente.**
+
+1.  Preencha o cadastro para utilização do laboratório
+2.  Verifique a agenda do laboratório e faça sua reserva aqui
+
+**O atendimento pessoal com um membro da equipe deverá ser agendado, pessoalmente ou por telefone.**
+
+## Localização
+
+Rua 227, Qd. 68. SN - Setor Leste Universitário - Goiânia/GO. CEP: 74610-070 Faculdade de Nutrição -- Universidade Federal de Goiás
+
+## Contatos
+
+Telefone: (62)3209-6270 Ramal 217
+
+e-mail: [lanal.fanut\@ufg.br](mailto:lanal.fanut@ufg.br "e-mail")
+
+instagram: <https://www.instagram.com/lanal.ufg>

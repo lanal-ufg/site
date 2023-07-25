@@ -1,0 +1,1686 @@
+---
+title: Procedimentos de preparo de soluções para a disciplina de Bromatologia
+subtitle: PPS
+author: Tiago Dias
+date: 01/07/2022
+date-format: DD/MM/YYYY
+lang: pt-br
+institution: Universidade Federal de Goiás
+college: Faculdade de Nutrição
+laboratory: Laboratório de Nutrição e Análise de Alimentos
+---
+
+## Soluções necessárias por procedimentos
+
+### Aula prática 4. Controle de qualidade de alimentos ricos em carboidrato - Mel
+
+  ------------------------------------------------------------------------------------------
+  **Procedimento**   **Solução**                   **Quantidade   **Ensaios   **Quantidade
+                                                   por ensaio**   por ano**   por ano**
+  ------------------ ------------- --------------- -------------- ----------- --------------
+  Atividade          15            Amido 1%        5 mL           32          160 mL
+  Diastásica                                                                  
+
+                     33            Lugol           0,15 mL        32          4,8 mL
+
+  Reação de Lugol    33            Lugol           0,15 mL        20          3,0 mL
+
+  Prova de Acidez    23            Fenolftaleína   0,15 mL        40          6,0 mL
+                                   1%                                         
+
+                     25            Hidróxido de    50 mL          20          1000 mL
+                                   sódio 0,01N                                
+
+  Reação de Lund     12            Ácido tânico    5 mL           16          80 mL
+                                   0,5%                                       
+
+  Reação de Fiehe    R             Ácido           0,25 mL        20          5,0 mL
+                                   clorídrico P.A                             
+
+                     R             Clorofórmio     5 mL           20          100 mL
+                                   P.A.                                       
+
+                     R             Resorcinol P.A. 0,5 g          20          10 g
+
+  Padronização NaOH  23            Fenolftaleína   0,2 mL         3           0,6 ML
+  0,01 N                           1%                                         
+  
+  ------------------------------------------------------------------------------------------
+
+
+### Aula prática 5. Controle de qualidade físico químico da água
+
+  ------------------------------------------------------------------------------------------
+  **Procedimento**   **Solução**                   **Quantidade   **Ensaios   **Quantidade
+                                                   por ensaio**   por ano**   por ano**
+  ------------------ ------------- --------------- -------------- ----------- --------------
+  Determinação de pH R             Tampão pH 4,0   50 mL          4           200 mL
+  em água                                                                     
+
+                     R             Tampão pH 7,0   50 mL          4           200 ML
+
+  Determinação de                  Álcool Etílico  0,2 mL         20          4 mL
+  acidez em água                   60%                                        
+
+                     23            Fenolftaleína   0,2 mL         20          4 mL
+                                   1%                                         
+
+                     26            Hidróxido de    50 mL          20          1000 mL
+                                   sódio 0,1N                                 
+
+                     25            Hidróxido de    50 mL          20          1000 mL
+                                   sódio 0,01N                                
+
+  Determinação de    8             Ácido sulfúrico 25 mL          20          500 mL
+  alcalinidade em                  0,02 N                                     
+  água                                                                        
+
+                                   Álcool etílico  0,2 mL         20          4 mL
+                                   60%                                        
+
+                     R             Álcool etílico  0,2 mL         20          4 mL
+                                   99%                                        
+
+                     43            Vermelho de     0,2 mL         20          4 mL
+                                   metila 0,2%                                
+
+                     23            Fenolftaleína   0,2 mL         20          4 mL
+                                   1%                                         
+
+  Determinação de    21            EDTA 0,01N      50 mL          20          1000 mL
+  dureza total em                  padronizado                                
+  água                                                                        
+
+                     34            Negro de        0,5 g          20          10 g
+                                   eriocromo T                                
+
+                     R             Tampão pH 10,0  2 mL           20          40 mL
+
+  Padronização EDTA  34            Negro de        0,5 g          3           1,5 g
+                                   eriocromo T                                
+
+                     R             Tampão pH 10,0  15 mL          3           45 mL
+
+                     44            Solução padrão  500 mL         3           1000 mL
+                                   de Ca^2+^                                  
+  ------------------------------------------------------------------------------------------
+
+
+### Aula prática 6. Controle de qualidade físico química de alimentos fonte de proteína - leite
+
+  ------------------------------------------------------------------------------------------
+  **Procedimento**   **Solução**                   **Quantidade   **Ensaios   **Quantidade
+                                                   por ensaio**   por ano**   por ano**
+  ------------------ ------------- --------------- -------------- ----------- --------------
+  Acidez em ácido    23            Fenolftaleína   0,2 mL         20          4 mL
+  lático                           1%                                         
+
+                     26            Hidróxido de    50 mL          20          1000 mL
+                                   sódio 0,1N                                 
+
+  Estabilidade ao    R             Álcool etílico  2 mL           40          80 mL
+  etanol 68%                                                                  
+
+  Identificação      R             Ácido sulfúrico 1 mL           40          40 mL
+  formaldeído/                                                                
+  FeCl~3~                                                                     
+
+                     17            Cloreto de      0,05 mL        40          2 mL
+                                   ferro 1%                                   
+
+                     R             Formaldeído     0,2 mL         20          4 mL
+
+  Reconstituintes da R             Ácido           1 mL           20          20 mL
+  densidade: açúcar                Clorídrico P.                              
+                                   A.                                         
+
+                     37            Resorcinol 0,5% 1 mL           20          20 mL
+
+                     R             Sacarose        1 g            20          20 g
+
+  Reconstituintes da R             Cloreto de      2 g            20          40 g
+  densidade: sal                   sódio P. A.                                
+
+                     20            Cromato de      5 mL           40          200 mL
+                                   potássio 5%                                
+
+                     35            Nitrato de      5 mL           40          200 mL
+                                   prata 0,1 N                                
+
+  Reconstituintes da 15            Amido 1%        3 mL           20          60 mL
+  densidade: amido                                                            
+
+                     33            Lugol           0,2 mL         40          8 mL
+
+  Padronização NaOH  23            Fenolftaleína   0,2 mL         6           1,2 mL
+                                   1%                                         
+  
+  ------------------------------------------------------------------------------------------
+
+
+###  Aula prática 7. Controle de qualidade físico química de alimentos ricos em proteína - carnes, peixes e ovos
+
+  ---------------------------------------------------------------------------------------------
+  **Procedimento**   **Solução**                      **Quantidade   **Ensaios   **Quantidade
+                                                      por ensaio**   por ano**   por ano**
+  ------------------ ------------- ------------------ -------------- ----------- --------------
+  Gás amoníaco Prova 36            Reagente de Éber   5 mL           20          100 mL
+  de Éber                                                                        
+
+  Reação para gás    1             Acetato de chumbo  5 mL           20          100 mL
+  sulfídrico                       5%                                            
+
+  Determinação de pH R             Solução tampão pH  50 mL          4           200 mL
+  em carnes                        4                                             
+
+                     R             Solução tampão pH  50 mL          4           200 mL
+                                   7                                             
+
+  Prova para         39            Sulfato de zinco   5 mL           20          100 mL
+  sulfitos                         30%                                           
+
+                     16            Bicarbonato de     5 mL           20          100 mL
+                                   sódio 5%                                      
+
+                     42            Verde de malaquita 5 mL           20          100 mL
+                                   0,02%                                         
+
+                     24            Ferrocianeto de    5 mL           20          100 mL
+                                   potássio 15%                                  
+
+  Prova qualitativa  7             Ácido sulfanílico  1 mL           20          20 mL
+  para nitritos                    0,5g\\100 ML                                  
+
+                     19            Cloridrato de      1 mL           20          20 mL
+                                   alfa-naftilamina                              
+
+  Câmara de ar em    18            Cloreto de sódio   250 mL         4           1000 mL
+  ovos                             10%                                           
+
+  Ácido sórbico      13            Ácido              4 mL           20          80 mL
+  embutidos                        tiobarbitúrico                                
+                                   0,5%                                          
+  
+  ---------------------------------------------------------------------------------------------
+
+
+### Aula prática 8. Controle físico -- químico de óleos e gorduras
+
+  ------------------------------------------------------------------------------------------
+  **Procedimento**   **Solução**                   **Quantidade   **Ensaios   **Quantidade
+                                                   por ensaio**   por ano**   por ano**
+  ------------------ ------------- --------------- -------------- ----------- --------------
+  Índice de acidez   22            Éter -- álcool  25 mL          20          500 mL
+                                   2:1                                        
+
+                     23            Fenolftaleína   0,4 mL         20          8 mL
+                                   1%                                         
+
+                     25            Hidróxido de    50 mL          20          1000 mL
+                                   sódio 0,01 N                               
+
+                     26            Hidróxido de    50 mL          20          1000 mL
+                                   sódio 0,1 N                                
+
+  Índice de peróxido R             Ácido acético   30 mL          20          600 mL
+
+                     15            Amido 1%        0,5 mL         20          10 mL
+
+                     32            Iodeto de       0,5 mL         20          10 mL
+                                   potássio                                   
+                                   saturado                                   
+
+                     40            Tiossulfato de  50 mL          20          1000 mL
+                                   sódio 0,01 N                               
+
+                     41            Tiossulfato de  50 mL          20          1000 mL
+                                   sódio 0,1 N                                
+
+  Padronização do    9             Ácido sulfúrico 5 mL           6           30 mL
+  tiossulfato de                   1 M                                        
+  sódio                                                                       
+
+                     15            Amido 1%        2 mL           6           12 mL
+
+                     R             Iodeto de       0,15 g         6           0,9 mL
+                                   potássio P.A.                              
+
+                     R             Iodeto de       2 g            6           12 g
+                                   potássio P.A.                              
+
+  Padronização NaOH  R             Biftalato de    0,0255 g       3           0,0765 mL
+  0,01N                            potássio                                   
+
+                     23            Fenolftaleína   0,2 mL         3           0,6 mL
+                                   1%                                         
+
+  Padronização NaOH  R             Biftalato de    0,0253 g       3           0,0759 mL
+  0,1 N                            potássio                                   
+
+                     23            Fenolftaleína   0,2 mL         3           0,6 mL
+                                   1%                                         
+  ------------------------------------------------------------------------------------------
+
+
+### Aula prática 9. Controle de qualidade físico-química de bebidas/sucos de frutas
+
+  ------------------------------------------------------------------------------------------
+  **Procedimento**   **Solução**                   **Quantidade   **Ensaios   **Quantidade
+                                                   por ensaio**   por ano**   por ano**
+  ------------------ ------------- --------------- -------------- ----------- --------------
+  Determinação de    10            Ácido sulfúrico 10 mL          40          400 mL
+  vitamina C com                   20%                                        
+  iodato de potássio                                                          
+
+                     15            Amido 1%        1 mL           40          40 mL
+
+                     29            Iodato de       25 mL          40          1000 mL
+                                   potássio 0,02 M                            
+
+                     30            Iodato de       50 mL          40          2000 mL
+                                   potássio 0,002                             
+                                   M                                          
+
+                     31            Iodeto de       1 mL           40          40 mL
+                                   potássio 10%                               
+
+  Acidez titulável   23            Fenolftaleína   0,2 mL         20          4 mL
+  em sucos                         1%                                         
+
+                     26            Hidróxido de    50 mL          20          1000 mL
+                                   sódio 0,1 M                                
+
+  Padronização de    R             Biftalato de    0,2553 g       3           0,7659 g
+  NaOH em sucos                    potássio                                   
+
+                     23            Fenolftaleína   0,2 mL         3           0,6 mL
+                                   1%                                         
+  ------------------------------------------------------------------------------------------
+
+
+### Aula prática 12. Determinação de lipídio ou extrato etéreo
+
+  ------------------------------------------------------------------------------------------
+  **Procedimento**   **Solução**                   **Quantidade   **Ensaios   **Quantidade
+                                                   por ensaio**   por ano**   por ano**
+  ------------------ ------------- --------------- -------------- ----------- --------------
+  Lipídeos por Bligh 38            Sulfato de      10 mL          50          500 mL
+  & Dyer                           sódio 1,5%                                 
+
+  ------------------------------------------------------------------------------------------
+
+
+### Aula prática 13. Determinação de Nitrogênio Total
+
+  ------------------------------------------------------------------------------------------
+  **Procedimento**   **Solução**                   **Quantidade   **Ensaios   **Quantidade
+                                                   por ensaio**   por ano**   por ano**
+  ------------------ ------------- --------------- -------------- ----------- --------------
+  Determinação de    4             Ácido Bórico 2% 10 mL          60          600 mL
+  Nitrogênio                                                                  
+
+                     5             HCl 0,2 N       15 mL          60          900 mL
+                                   padronizada                                
+
+                     6             HCl 0,02 N      15 mL          60          900 mL
+                                   padronizada                                
+
+                     28            Indicador de    0,2 mL         60          12 mL
+                                   Andersen                                   
+
+                     27            NaOH 50%        15 mL          60          900 mL
+  ------------------------------------------------------------------------------------------
+
+
+## Quantidades totais de soluções a preparar por ano
+
++----+---------------------------+------------+---------+--------------+
+| n  |**Solução**                | **         | **Pre   | **Utilizada  |
+|    |                           | Quantidade | parar** | nas aulas**  |
+|    |                           | ne         |         |              |
+|    |                           | cessária** |         |              |
++====+===========================+============+=========+==============+
+| 1  | Acetato de chumbo 5%      | 100 mL     | 100 mL  | 7            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 2  | Acetato de zinco 30%      | 100 mL     | 100 mL  | 7            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 3  | Ácido acético/            | 600 mL     | 750 mL  | 8            |
+|    | clorofórmio 3:2           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 4  | Ácido bórico 2 %          | 600 mL     | 1000 mL | 13           |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 5  | Ácido clorídrico 0,02 N   | 900 mL     | 1000 mL | 13           |
+|    | padronizada               |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 6  | Ácido clorídrico 0,2 N    | 900 mL     | 1000 mL | 13           |
+|    | padronizada               |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 7  | Ácido sulfanílico         | 20 mL      | 50 mL   | 7            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 8  | Ácido sulfúrico 0,02 N    | 500 mL     | 500 mL  | 5            |
+|    | padronizada               |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 9  | Ácido sulfúrico 1 M       | 30 mL      | 50 mL   | 8            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 10 | Ácido sulfúrico 20 %      | 400 mL     | 500 mL  | 9            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 11 | Ácido sulfúrico 50 %      | 40 mL      | 50 mL   | 6            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 12 | Ácido tânico 0,5%         | 80 mL      | 100 mL  | 4            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 13 | Ácido tiobarbitúrico 0,5  | 80 mL      | 100 mL  | 7            |
+|    | %                         |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 14 | Álcool etílico 68%        | 80 mL      | 100 mL  | 6            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 15 | Amido 1%                  | 282 mL     | 300 mL  | 4, 6, 8, 9   |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 16 | Bicarbonato de sódio 5%   | 100 mL     | 100 mL  | 7            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 17 | Cloreto de ferro 1%       | 2 mL       | 25 mL   | 6            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 18 | Cloreto de sódio 10%      | 1000 mL    | 1000 mL | 7            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 19 | Cloridrato de             | 20 mL      | 25 mL   | 7            |
+|    | alfa-naftilamina          |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 20 | Cromato de potássio 5%    | 200 mL     | 250 mL  | 6            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 21 | EDTA 0,01 M padronizada   | 1000 mL    | 1000 mL | 5            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 22 | Éter - álcool 2:1         | 500 mL     | 500 mL  | 8            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 23 | Fenolftaleína 1%          | 33,6 mL    | 50 mL   | 4, 5, 6, 8,  |
+|    | (4x)                      |            |         | 9            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 24 | Ferrocianeto de potássio  | 100 mL     | 200 mL  | 7            |
+|    | 15%                       |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 25 | Hidróxido de sódio 0,01 N | 3000 mL    | 3000 mL | 4, 5, 8      |
+|    | padronizada               |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 26 | Hidróxido de sódio 0,1 N  | 4000 mL    | 4000 mL | 5, 6, 8, 9   |
+|    | padronizada               |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 27 | Hidróxido de sódio 50%    | 900 mL     | 1000 mL | 13           |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 28 | Indicador de Andersen     | 12 mL      | 25 mL   | 13           |
+|    | (2x)                      |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 29 | Iodato de potássio 0,02 M | 1000 mL    | 1000 mL | 9            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 30 | Iodato de potássio 0,002  | 2000 mL    | 2000 mL | 9            |
+|    | M                         |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 31 | Iodeto de potássio 10%    | 40 mL      | 50 mL   | 9            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 32 | Iodeto de potássio        | 10 mL      | 25 mL   | 8            |
+|    | saturada                  |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 33 | Lugol                     | 15,8 mL    | 25 mL   | 4, 6         |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 34 | Negro de eriocromo T      | 11,5 g     | 20 g    | 5            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 35 | Nitrato de prata 0,1N     | 200 mL     | 200 mL  | 6            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 36 | Reagente de Éber          | 100 mL     | 100 mL  | 7            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 37 | Resorcinol 0,5%           | 20 mL      | 25 mL   | 6            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 38 | Sulfato de sódio 1,5%     | 500 mL     | 500 mL  | 12           |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 39 | Sulfato de zinco 30%      | 100 mL     | 100 mL  | 7            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 40 | Tiossulfato de sódio 0,01 | 1000 mL    | 1000 mL | 8            |
+|    | N                         |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 41 | Tiossulfato de sódio 0,1  | 1000 mL    | 1000 mL | 8            |
+|    | N                         |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 42 | Verde de malaquita 0,02%  | 100 mL     | 100 mL  | 7            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 43 | Vermelho de metila 0,2%   | 4 mL       | 50 mL   | 5            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 44 | Solução padrão de cálcio  | 1000 mL    | 1000 mL | 5            |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+| 45 | Solução indicadora de     | 1 mL       | 10 mL   | 5            |
+|    | Alaranjado de metila      |            |         |              |
+|    |                           |            |         |              |
+|    |                           |            |         |              |
++----+---------------------------+------------+---------+--------------+
+
+
+## Quantidades de frascos necessários para armazenar as soluções
+
+  -----------------------------------------------------------------------
+  **VOLUME DO FRASCO**    **NÚMEROS DAS           **QUANTIDADE DE
+                          SOLUÇÕES**              FRASCOS**
+  ----------------------- ----------------------- -----------------------
+  25 mL                   17, 19, 28, 32, 33, 34, 8
+                          37, 43                  
+
+  50 mL                   7, 9, 11, 23, 31        5
+
+  100 mL                  1, 2, 12, 13, 14, 15,   10
+                          16, 36, 39, 42          
+
+  250 mL                  20, 24, 35              3
+
+  500 mL                  8, 10, 22, 38           4
+
+  1000 mL                 3, 4, 5, 6 18, 21, 25,  15
+                          26, 27, 29, 30, 40, 41  
+  
+  -----------------------------------------------------------------------
+
+## Procedimentos de preparo das soluções
+
+{{< include pps001.md >}}
+
+---
+
+{{< include pps002.md >}}
+
+---
+
+{{< include pps003.md >}}
+
+---
+
+## SOLUÇÃO 4 - Ácido bórico 2% - 1000 mL
+
+*Utilizada na prática 13 - Determinação de nitrogênio total*
+
+**Materiais necessários:**
+
+-   Béquer de 100 mL
+-   Balão volumétrico de 1000 mL
+-   Ácido bórico P.A.
+-   Frasco Âmbar 1000 mL
+-   Etiqueta
+
+**Preparo da solução:**
+
+1.  Dissolver 20g de ácido bórico P.A. em aproximadamente 600 mL de água
+2.  Transferir quantitativamente para balão de 1000 mL
+3.  Completar o volume para 1000 mL com água destilada.
+
+---
+
+## SOLUÇÃO 5 - Ácido clorídrico 0,02 N Padronizada - 1000 mL
+
+-   Utilizada na aula prática 13 - Determinação de nitrogênio total
+
+**Materiais necessários:**
+
+-   Ácido clorídrico 37% P.A.
+-   Carbonato de sódio P. A. (Na2Co3) seco previamente em estufa a 105ºC por 1 h
+-   Indicador vermelho de metila 0,2% (SOLUÇÃO 43)
+-   Balão volumétrico de 1000 mL
+-   Pipeta graduada de 2,0 mL
+-   Pêra
+-   3 Erlenmeyers de 250 mL
+-   Bureta
+-   Frasco âmbar de 1000 mL
+-   Etiqueta
+
+**Preparo da solução:**
+
+1.  Adicionar, em um balão volumétrico de 100 mL, aproximadamente 300 mL de água destilada.
+2.  Adicionar 1,64 mL de ácido clorídrico 37% P.A.
+3.  Completar volume para 1000 mL com água destilada
+4.  Padronizar conforme procedimento abaixo.
+
+**Padronização:**
+
+1.  Pesar 0,0132 g de carbonato de sódio P. A. seco, em papel manteiga;
+2.  Transferir quantitativamente para frasco erlenmeyer de 250 mL;
+3.  Adicionar 10 mL de água;
+4.  Adicionar 3 gotas de indicador vermelho de metila 0,2 %;
+5.  Titular, gotejando a solução de ácido clorídrico até ficar levemente vermelho.
+6.  Recomenda-se aquecer e agitar o frasco Erlenmeyer a fim de eliminar o gás carbônico formado. Isso pode ser feito quando já estiver adicionado aproximadamente 6,5 mL de ácido clorídrico
+7.  Após o término da titulação das triplicatas, calcular o fator de correção pela fórmula: F~C~ = 12,5/Volume HCl (média)
+
+---
+
+## SOLUÇÃO 6 - Ácido clorídrico 0,2 N Padronizada - 1000 mL
+
+*Utilizada na aula prática 13 - Determinação de nitrogênio total*
+
+**Materiais necessários:**
+
+-   Ácido clorídrico 37% P.A.
+-   Carbonato de sódio P. A. (Na~2~CO~3~) seco previamente em estufa a 105ºC por 1 h
+-   Indicador vermelho de metila 0,2% (SOLUÇÃO 43)
+-   Balão volumétrico de 1000 mL
+-   Pipeta graduada de 20,0 mL
+-   Pêra
+-   3 Erlenmeyers de 250 mL
+-   Bureta
+-   Frasco âmbar de 1000 mL
+-   Etiqueta
+
+**Preparo da solução:**
+
+1.  Em um balão volumétrico de 1000 mL, adicionar aproximadamente 300 mL de água destilada
+2.  Adicionar 16,4 mL de ácido clorídrico 37% P.A.
+3.  Completar volume para 1000 mL com água destilada
+4.  Padronizar conforme procedimento abaixo:
+
+**Padronização:**
+
+1.  Pesar 0,1325 g de carbonato de sódio P. A. seco, em papel manteiga;
+2.  Transferir quantitativamente para frasco erlenmeyer de 250 mL;
+3.  Adicionar 10 mL de água;
+4.  Adicionar 3 gotas de indicador vermelho de metila 0,2 %;
+5.  Titular, gotejando a solução de ácido clorídrico até ficar levemente vermelho.
+6.  Recomenda-se aquecer e agitar o frasco Erlenmeyer a fim de eliminar o gás carbônico formado. Isso pode ser feito quando já estiver adicionado aproximadamente 6,5 mL de ácido clorídrico
+7.  Após o término da titulação das triplicatas, calcular o fator de correção pela fórmula: F~C~ = 12,5/Volume HCl (média)
+
+---
+
+## SOLUÇÃO 7 - Ácido sulfanílico - 50 mL
+
+*Utilizada na prática 7 - Análise de carnes - prova qualitativa para nitritos*
+
+**Materiais necessários:**
+
+-   Ácido sulfanílico P. A.
+-   Ácido acético glacial P.A.
+-   2 béqueres de 50 mL
+-   Pipeta graduada de 10 mL
+-   Proveta de 50 mL
+-   Frasco âmbar de 50 mL
+-   Etiqueta
+
+**Preparo da solução:**
+
+1.  Pese 0,167 g de ácido sulfanílico e dissolva em 50 mL de solução aquosa de ácido acético (1+4)
+2.  Armazene em frasco de vidro âmbar de 50 mL
+
+REFERÊNCIA: IAL 2005 - Método 278/IV
+
+---
+
+## SOLUÇÃO 8 - Ácido sulfúrico 0,02 N padronizada - 1000 mL
+
+*Utilizada na prática 5 - Análise de água - Determinação de alcalinidade*
+
+**Materiais necessários:**
+
+-   Ácido sulfúrico P.A.
+-   Carbonato de sódio P.A. (Na~2~CO~3~) seco previamente em estufa a 105ºC
+-   Balão volumétrico de 1000 mL
+-   Pipeta graduada de 2,0 mL
+-   Pêra
+-   3 Erlenmeyers de 250 mL
+-   Bureta
+-   Frasco âmbar de 1000 mL
+-   Etiqueta
+
+**Preparo da solução:**
+
+1.  Em um balão volumétrico de 1000 mL, adicionar aproximadamente 300 mL de água destilada
+2.  Adicionar 1,10 mL de ácido sulfúrico P.A.
+3.  Completar volume para 1000 mL com água destilada
+4.  Padronizar com carbonato de sódio seco a 105ºC/ 1 hora (procedimento abaixo)
+
+**Padronização (em triplicata):**
+
+1.  Pesar 0,0265 g de carbonato de sódio P. A. em papel manteiga ;
+2.  Transferir quantitativamente para frasco erlenmeyer de 250 mL;
+3.  Adicionar 10 mL de água;
+4.  Adicionar 3 gotas de indicador vermelho de metila 0,2 %;
+5.  Titular, gotejando a solução de ácido sulfúrico até ficar levemente vermelho.
+6.  Recomenda-se aquecer e agitar o frasco Erlenmeyer a fim de eliminar o gás carbônico formado. Isso pode ser feito quando já estiver adicionado aproximadamente 6,5 mL de ácido sulfúrico
+7.  Após o término da titulação das triplicatas, calcular o fator de correção pela fórmula: FC = 12,5/Volume H~2~SO~4~ (média)
+
+---
+
+## SOLUÇÃO 9 - Ácido sulfúrico 1 mol/L - 50 mL
+
+*Utilizada na prática 8. Análise de óleos e gorduras - padronização do tiossulfato de sódio.*
+
+**Materiais necessários:**
+
+-   Ácido sulfúrico P. A.
+-   Béquer
+-   Balão volumétrico de 50 mL
+-   Pipeta graduada de 5,0 mL
+-   Frasco âmbar de 50 mL
+-   Etiqueta
+
+**Preparo da solução:**
+
+1.  Adicionar aproximadamente 30 mL de água destilada a um balão volumétrico de 50 mL
+2.  Acrescentar 2,8 mL de ácido sulfúrico P.A.
+3.  Homogeneizar e esperar esfriar (use um banho com gelo ou água fria se necessário
+4.  Após esfriar completar o volume para 50 mL com água destilada.
+5.  Armazenar em frasco de vidro âmbar de 50 mL rotulado
+
+REFERÊNCIA: MORITA,1972
+
+---
+
+## SOLUÇÃO 10 - Ácido sulfúrico 20% - 500 mL
+
+*Utilizada na prática 9 - Análise de sucos e bebidas - Determinação de vitamina C com iodato de potássio.*
+
+**Materiais necessários:**
+
+-   Ácido sulfúrico P. A.
+-   Béquer de 500 mL
+-   Proveta de 100 mL
+-   Balão volumétrico de 500 mL
+-   Banho de gelo
+-   Frasco âmbar de 500 mL
+-   Etiqueta
+
+**Preparo da solução:**
+
+1.  Adicionar aproximadamente 250 mL de água destilada a um béquer de 500 mL
+2.  Acrescentar 100 mL de ácido sulfúrico P.A.
+3.  Deixar o béquer com solução em banho de gelo até esfriar.
+4.  Após esfriar, transferir a solução para o balão volumétrico de 500 mL e completar o volume. Esperar esfriar e ajustar o volume.
+5.  Armazenar em frasco de vidro âmbar de 500 mL rotulado
+
+---
+
+## SOLUÇÃO 11 - Ácido sulfúrico 50% (1+1) - 50 mL
+
+*Utilizada na prática 6 - Análise de leite - identificação de
+formaldeído com cloreto férrico.*
+
+**Materiais necessários:**
+
+-   2 provetas de 25 mL
+-   1 Béquer de 50 mL
+-   1 Béquer de 100 mL
+-   Banho de gelo
+-   Ácido sulfúrico P. A.
+-   Água destilada
+-   Frasco âmbar de 50 mL
+-   Etiqueta
+
+**Preparo da solução:**
+
+1.  Meça 25 mL de ácido sulfúrico P.A. em uma provate e 25 mL de água destilada em outra.
+2.  Transfera a água para o béquer de 100 mL
+3.  Coloque o béquer com água dentro do banho de gelo.
+4.  Adicione lentamente os 25 mL de ácido sulfúrico a água contida no béquer
+5.  Aguarde até que a solução resfrie.
+6.  Transfira a solução para um frasco âmbar de 50 mL com tampa e identifique.
+
+---
+
+## SOLUÇÃO 12 - Ácido tânico 0,5% - 100 mL
+
+*Utilizada na prática 4 - Análise de mel - Reação de Lund*
+
+**Materiais necessários:**
+
+-   Ácido tânico P. A.
+-   Béquer de 100 mL
+-   Espátula
+-   Balão volumétrico de 100 mL
+-   Frasco âmbar de 100 mL
+-   Etiqueta
+
+**Preparo de solução:**
+
+1.  Dissolva 0,5 g de ácido tânico em aproximadamente 75 mL de água;
+2.  Transfira a solução para o balão volumétrico de 100 mL;
+3.  Complete o volume até 100 mL com água destilada
+
+---
+
+## SOLUÇÃO 13 Ácido tiobarbitúrico 0,5 mL - 100 mL
+
+*Utilizada na prática 7 - Análise de carne - Ácido sórbico em embutidos.*
+
+**Materiais necessários:**
+
+-   Ácido tiobarbitúrico P.A.
+-   Béquer de 100 mL
+-   Espátula
+-   Balão volumétrico de 100 mL
+-   Frasco de âmbar de 100 mL
+-   Etiqueta
+
+**Preparo da solução:**
+
+1.  Adicione 0,5 g de Ácido tiobarbitúrico a 100 mL de água destilada e aqueça a 50ºC - 60ºC para auxiliar na dissolução.
+2.  Armazene em frasco de vidro âmbar de 100 mL rotulado
+
+---
+
+## SOLUÇÃO 14 - Álcool ETÍLICO 68% - 100 mL
+
+*Utilizada na prática 6 - Análise de leite - Estabilidade ao etanol*
+
+**Materiais necessários:**
+
+-   Alcool Etilico 95%
+-   Proveta de 100 mL
+-   Água destilada
+-   Frasco âmbar de 100 mL
+-   Etiqueta
+
+**Preparo da solução:**
+
+1.  Transfira 72 mL de álcool etílico 95% para a proveta de 100 mL;
+2.  Complete o volume até 100 mL com água destilada.
+
+---
+
+## SOLUÇÃO 15 - Amido 1% - 100 mL
+
+*Utilizada em determinações diversas como indicador na reação com iodo resultando em produto de coloração azul.*
+
+**Materiais necessários:**
+
+-   2 béqueres de 100 mL
+-   Proveta de 100 mL
+-   Amido solúvel
+-   Bastão de vidro
+-   Frasco âmbar de 100 mL
+-   Etiqueta
+
+**Preparo da solução:**
+
+1.  Pese 1,00 g de amido solúvel em béquer de 100 mL;
+2.  Em outro béquer, aqueça 100 mL de água destilada em forno microondas por 1 minuto.
+3.  Adicione a água quente ao béquer contendo amido, agite com o bastão.
+4.  Após dissolver completamente, transfira para um frasco de vidro âmbar de 100 mL rotulado
+
+---
+
+## SOLUÇÃO 16 - Bicarbonato de sódio 5% - 100 mL
+
+*Utilizada na prática 7. Análise de carne - prova para sulfitos.*
+
+**Materiais necessários:**
+
+-   Bicarbonato de sódio P.A.
+-   Béquer de 100 mL
+-   Espátula
+-   Proveta de 100 mL
+-   Água destilada
+-   Frasco âmbar de 100 mL
+-   Etiqueta
+
+**Preparo da solução:**
+
+1.  Pese 0,5 g de bicarbonato em béquer de 100 mL;
+2.  Adicione 100 mL de água destilada e agite até dissolver completamente;
+3.  Armazene em frasco de vidro âmbar de 100 mL rotulado.
+
+---
+
+## SOLUÇÃO 17 - Cloreto de ferro 1% - 25 mL
+
+*Utilizada na prática 6 - Análise de leite - identificação de formaldeído com FeCl~3~*
+
+**Materiais necessários:**
+
+-   Cloreto de Ferro III P.A.
+-   Béquer de 100 mL
+-   Proveta de 25 mL
+-   Água destilada
+-   Frasco de 25 mL
+-   Etiqueta
+
+**Preparo da solução:**
+
+1.  Pese 0,25 g de cloreto férrico em béquer de 25 mL;
+2.  Adicione 25 mL de água destilada;
+3.  Agite até a dissolução completa ;
+4.  Transfira a solução para um frasco âmbar de 25 mL com tampa e rotule
+
+---
+
+## SOLUÇÃO 18 - Cloreto de sódio 10% - 1000 mL
+
+*Utilizada na prática 7 - Análise de carnes/ovos - Câmara de ar em ovos.*
+
+**Materiais necessários:**
+
+-   Cloreto de sódio P.A
+-   Balão volumétrico de 1000 mL
+-   Béquer de 500 mL
+-   Bastão de vidro
+-   Frasco de 1000 mL
+-   Etiqueta
+
+**Preparo da solução:**
+
+1.  Pese 100 g de Cloreto de sódio no béquer de 500 mL;
+2.  Adicione água e agite com o bastão de vidro até dissolver completamente;
+3.  Transfira para o balão volumétrico de 1000 mL;
+4.  Adicione água destilada até completar 1000 mL;
+5.  Armazene em frasco de vidro âmbar de 1000 mL e rotule.
+
+---
+
+## SOLUÇÃO 19 - Cloridrato de alfa-Naftilamina - 25 mL
+
+*Utilizada na prática 7 - Análise de carne - Prova qualitativa para nitritos.*
+
+**Materiais necessários:**
+
+-   Cloridrato de alfa naftilamina P.A.
+-   Ácido acético glacial
+-   2 béqueres de 25 mL
+-   Proveta de 25 mL
+-   Pipeta de 5 mL
+-   Pêra
+-   Frasco âmbar de 25 mL
+-   Etiqueta
+
+**Preparo da solução:**
+
+1.  Dissolva 0,067 g de cloridrato de alfa-naftilamina em 25 mL de ácido acético (1+4).
+2.  Se não dissolver bem, aqueça, deixe em repouso e decante ou filtre em algodão.
+3.  Armazene em frasco de vidro âmbar de 25 mL e rotule
+
+REFERÊNCIA: IAL 2005 - Método 278/IV
+
+---
+
+## SOLUÇÃO 20 - Cromato de potássio 5% - 250 mL
+
+*Utilizada na prática 6 (análise de leite)*
+
+**Materiais necessários:**
+
+-   Cromato de potássio P. A.
+-   Béquer de 250 mL
+-   Proveta de 250 mL
+-   Água destilada
+-   Frasco âmbar de 250 mL
+-   Etiqueta
+
+**Preparo da solução:**
+
+1.  Dissolva 12,5 g de cromato de potássio em 250 mL de água destilada.
+2.  Armazene em frasco de vidro âmbar de 250 mL e rotule
+
+---
+
+## SOLUÇÃO 21 - EDTA 0,01 M padronizada - 1000 mL
+
+*Utilizada na prática 5 (análise de águas)*
+
+**Materiais necessários:**
+
+-   EDTA sal dissódico dihidratado
+-   Béquer de 250 mL
+-   Espátula
+-   Água ultra pura
+-   Balão volumétrico de 1000 mL
+-   Frasco plástico de 1000 mL
+-   Solução padrão de cálcio (#44)
+-   3 Erlenmeyers
+-   Solução tampão pH 10,0
+-   Proveta de 50 mL
+-   Pipeta graduada de 2,0 mL
+-   Pipeta volumétrica de 20,0 mL
+-   Indicador negro de eriocromo T
+-   Papel manteiga
+-   Espátula pequena
+-   Pêra
+
+**Preparo da solução (armazenar em frasco de plástico):**
+
+1.  Dissolva 3,7224 g de EDTA sal dissódico em água ultrapura e complete o volume para 1000 mL com água ultrapura em balão volumétrico de 1 L.
+2.  Armazene em frasco plástico de 1000 mL e rotule.
+
+**Padronização da solução:**
+
+1.  Transfira 50 mL de água ultrapura para um frasco Erlenmeyer de 250 mL.
+2.  Adicione 2 mL de solução tampão pH 10,0 e 0,05 g de indicador negro de eriocromo T.
+3.  Adicione 20 mL da solução padrão de cálcio.
+4.  Titule com a solução de EDTA até a viragem da cor púrpura para azul.
+5.  Calcule a massa de CaCO~3~ equivalente a 1 mL da solução para EDTA.
+
+---
+
+## SOLUÇÃO 22 - Éter Álcool 2:1 - 500 mL (neutro)
+
+*Utilizada na prática 8 - Análise de óleos e gorduras - índice de acidez.*
+
+**Materiais necessários:**
+
+-   Éter Etílico P. A.
+-   Álcool etílico 95% P.A.
+-   Proveta de 500 mL
+-   Béquer de 1000 mL
+-   Indicador de fenolftaleína a 1%
+-   Hidróxido de sódio 0,1 N
+-   Frasco âmbar de 500 mL
+-   Etiqueta
+
+**Preparo da solução:**
+
+1.  Dissolva uma parte de álcool etílico P.A. (166,7 mL) para duas de éter etílico (333,3 mL)
+2.  Adicione algumas gotas de Fenolftaleína e titular com hidróxido de sódio 0,1 N até leve coloração rósea persistente.
+
+REFERÊNCIA : MET/ POA/ SLAV/ 09/05/01
+
+---
+
+## SOLUÇÃO 23 - Fenolftaleína 1% - 50 mL
+
+*Utilizada nas práticas 4, 5, 6, 8 e 9. Como indicador na titulação de ácidos e bases.*
+
+**Materiais necessários:**
+
+-   Fenolftaleína
+-   Álcool etílico 95% P.A.
+-   Béquer de 50 mL
+-   Balão volumétrico de 50 mL
+-   Proveta de 50 mL
+-   Frascos de vidro âmbar de 25 mL com conta-gotas
+-   Etiqueta
+
+**Preparo da solução:**
+
+1.  Dissolva 0,5 g de fenolftaleína em 30 mL de álcool etílico e dilua com água até 50 mL.
+2.  Divida em 4 porções de aproximadamente 12,5 e armazene em frascos de vidro âmbar de 25 mL com conta-gotas
+
+---
+
+## SOLUÇÃO 24 - Ferrocianeto de potássio 15% 100 mL
+
+*Utilizada na prática 7 - Análise de carne - prova para sulfitos.*
+
+**Materiais necessários:**
+
+-   Ferrocianeto de potássio P.A.
+-   Proveta de 100 mL
+-   Béquer de 100 mL
+-   Água destilada
+-   Balão volumétrico de 100 mL
+-   Frasco âmbar de 100 mL
+-   Etiqueta
+
+**Preparo da solução:**
+
+1.  Dissolva 15 g de ferrocianeto de potássio em aproximadamente 60 mL de água.
+2.  Transfira para o balão volumétrico de 100 mL.
+3.  Completar o volume para 100 mL com água destilada.
+4.  Armazene em frasco de vidro âmbar de 100 mL e rotule
+
+---
+
+## SOLUÇÃO 25 - Hidróxido de sódio 0,01 N padronizada - 1000 mL
+
+*Utilizada nas práticas 5 (análise de água), 6 (análise de leite) e 8 (análise de óleos e gorduras) e 9 (análise de sucos)*
+
+**Materiais necessários:**
+
+-   Hidróxido de sódio (NaOH) microperolas P.A.
+-   Biftalato de potássio seco a 105º C
+-   Fenolftaleína 1%
+-   Béquer plástico de 400 mL
+-   Balão volumétrico de 1000 mL
+-   3 Erlenmeyers de 250 mL
+-   Papel manteiga
+-   Bureta de 25 mL
+-   Frasco plástico de 1000 mL
+-   Etiquetas
+
+**Preparo da solução:**
+
+1.  Pese 0,4000 g de NaOH em um béquer plástico de 400 mL;
+2.  Adicione água suficiente para dissolver o hidróxido de sódio;
+3.  Transfira a solução para um balão volumétrico de 1000 mL contendo um pouco de água destilada
+4.  Complete o volume para 1000 com água destilada;
+5.  Armazene a solução em frasco plásticos de 1000 mL e rotule;
+6.  Padronize a com biftalato de potássio seco (procedimento a seguir)
+
+**Padronização:**
+
+1.  Pese 0,0255 g de biftalato de potássio seco, em papel manteiga
+2.  Transfira quantitativamente para frasco Erlenmeyer de 250 mL
+3.  Adicione 10,0 mL de água destilada
+4.  Adicione 3 gotas de indicador fenolftaleína 1%
+5.  Titule gotejando a solução de hidróxido de sódio até coloração levemente rósea persistente
+6.  Anote os volumes gastos nas titulações em triplicata e calcule a média
+7.  Calcule o fator de correção da solução pela fórmula: Fator de correção = 12,5/(Média dos volumes gastos na titulação)
+
+---
+
+## SOLUÇÃO 26 - Hidróxido de sódio 0,1 N padronizada - 1000 mL
+
+*Utilizada nas práticas 5 (análise de água), 6 (análise de leite) e 8 (análise de óleos e gorduras) e 9 (análise de sucos)*
+
+**Materiais necessários:**
+
+-   Hidróxido de sódio (NaOH) microperolas P.A.
+-   Biftalato de potássio seco a 105º C
+-   Fenolftaleína 1%
+-   Béquer plástico de 400 mL
+-   Balão volumétrico de 1000 mL
+-   3 Erlenmeyers de 250 mL
+-   Papel manteiga
+-   Bureta de 25 mL
+-   Frasco plástico de 1000 mL
+-   Etiquetas
+
+**Preparo da solução:**
+
+1.  Pese 4,000 g de NaOH em um béquer plástico de 400 mL;
+2.  Adicione água suficiente para dissolver o hidróxido de sódio;
+3.  Transfira a solução para um balão volumétrico de 1000 mL contendo um pouco de água destilada
+4.  Complete o volume para 1000 com água destilada;
+5.  Armazene a solução em frasco plásticos de 1000 mL e rotule;
+6.  Padronize a com biftalato de potássio seco (procedimento a seguir)
+
+**Padronização:**
+
+1.  Pese 0,2553 g de biftalato de potássio seco, em papel manteiga
+2.  Transfira quantitativamente para frasco Erlenmeyer de 250 mL
+3.  Adicione 10,0 mL de água destilada
+4.  Adicione 3 gotas de indicador fenolftaleína 1%
+5.  Titule gotejando a solução de hidróxido de sódio até coloração levemente rósea persistente
+6.  Anote os volumes gastos nas titulações em triplicata e calcule a média
+7.  Calcule o fator de correção da solução pela fórmula: Fator de correção = 12,5/(Média dos volumes gastos na titulação)
+
+---
+
+## SOLUÇÃO 27 - Hidróxido de sódio 50 % - 1000 mL
+
+*Utilizada na prática 13 - Determinação de nitrogênio total*
+
+**Materiais necessários:**
+
+-   Hidróxido de sódio P.A. (NaOH)
+-   Béquer plástico de 1000 mL
+-   Bacia com água e gelo, na capela (banho de gelo)
+-   Proveta plástica de 1000 mL
+-   Bastão de plástico
+
+**Preparo da solução:**
+
+1. Pese 500 g de NaOH em béquer plástico de 1000 mL
+2. Meça 500 mL de água destilada na proveta de 1000 mL
+3. Coloque o béquer com NaOH no banho de gelo e ligue a capela
+4.  Adicione os 500 mL de água destilada da proveta para o béquer contendo NaOH e agite utilizando um bastão de plástico
+5. Deixe a solução esfriar e depois transfira-a para a proveta de 1000mL
+6. Adicione água destilada à solução na proveta até completar o volume de 1000 mL
+7. Transfira novamente a solução para o béquer e deixe no banho de gelo até esfriar
+8. Armazene a solução em frasco plástico com tampa e rotule
+
+---
+
+## SOLUÇÃO 28 - Indicador de Andersen - 18 mL
+
+*Utilizada na prática 13 - Determinação de nitrogênio total*
+
+#### **Materiais necessários:**
+
+- Vermelho de metila P.A.
+- Azul de metileno P.A.
+- Álcool etílico 96 ºGL
+- 2 béqueres de 25 mL
+- Pipeta graduada de 20 mL
+- Frasco âmbar de 25 mL
+- Etiqueta
+
+#### Preparo da solução
+
+1. Pese 0,0160 g de vermelho de metila e dilua em 12,0 mL de álcool etílico 96ºGL (solução A);
+2. Pese 0,0075 g de azul metileno e dilua em 6,0 mL de álcool etílico > 96ºGL (solução B);
+3. Misture duas partes de (A) (12,0 mL) com uma parte de (B) (6,0 mL);
+4. Transfira para frasco âmbar e rotule.
+
+---
+
+## SOLUÇÃO 29 - Iodato de potássio 0,02 M - 1000 mL
+
+*Utilizada na prática 9 - Análise de sucos*
+
+**Materiais necessários:**
+
+- Iodato de potássio P.A.
+- Estufa
+- Dessecador
+- Béquer de 100 mL
+- Bastão de vidro
+- Espátula
+- Balão volumétrico de 1000 mL
+- Frasco âmbar de 1000 mL
+- Etiqueta
+
+**Preparo da solução:**
+
+1. Seque previamente em estufa a 100 ºC por várias horas (ou à noite) 1,0 g de Iodato de potássio e deixe esfriar em dessecador;
+2. Pese exatamente 0,43 g do iodato de potássio seco previamente;
+3. Dissolva o reagente em 1 L de água destilada em balão volumétrico de 1000 mL
+4. Armazene a solução em frasco de vidro âmbar e rotule
+
+---
+
+## SOLUÇÃO 30 - Iodato de potássio 0,002 M - 1000 mL
+
+*Utilizada na prática 9 - Análise de sucos*
+
+**Materiais necessários:**
+
+- Iodato de potássio P.A.
+- Estufa
+- Dessecador
+- Béquer de 100 mL
+- Bastão de vidro
+- Espátula
+- Balão volumétrico de 1000 mL
+- Frasco âmbar de 1000 mL
+- Etiqueta
+
+**Preparo da solução:**
+
+1. Seque previamente em estufa a 100 ºC por várias horas (ou à noite) 1,0 g de Iodato de potássio e deixe esfriar em dessecador;
+2. Pese exatamente 0,043 g do iodato de potássio seco previamente;
+3. Dissolva o reagente em 1 L de água destilada em balão volumétrico de 1000 mL
+4. Armazene a solução em frasco de vidro âmbar e rotule
+
+---
+
+## SOLUÇÃO 31 - Iodeto de potássio 10% - 50 mL
+
+*Utilizada na prática 9 - Análise de sucos*
+
+**Materiais necessários:**
+
+- Iodeto de potássio P.A.
+- Béquer de 50 mL
+- Bastão de vidro
+- Balão volumétrico de 50 mL
+- Frasco âmbar de 50 mL
+- Etiqueta
+
+**Preparo da solução:**
+
+1. Pese 5,0 g de iodeto de potássio P.A.
+2. Dissolva com um pouco de água destilada e transfira para o balão volumétrico de 50 mL
+3. Complete o volume da solução para 50 mL com água destilada
+4. Armazene em frasco âmbar e rotule
+
+---
+
+## SOLUÇÃO 32 - Iodeto de potássio saturada
+
+*Utilizada na prática 8 - Análise de óleos e gorduras*
+
+**Materiais necessários:**
+
+- Iodeto de potássio P.A.
+- Béquer de 100 mL
+- Proveta de 25 mL
+- Bastão de vidro
+- Frasco âmbar de 50 mL
+- Etiqueta
+
+**Preparo da solução:**
+
+1. Pese 30 g de iodeto de potássio
+2. Adicione 25 mL de água destilada
+3. Conserve a solução em frasco âmbar e utilize no mesmo dia da sua preparação
+
+REFERÊNCIA: IAL, 2008 - p. 593
+
+---
+
+## SOLUÇÃO 33 - Lugol - 25 mL
+
+*Utilizada nas práticas 4 (Análise de mel) e 6 (Análise de leite)*
+
+**Materiais necessários:**
+
+- Iodo ressublimado P.A.
+- Iodeto de potássio P.A.
+- 2 Béqueres de 50 mL
+- Proveta de 10 mL
+- Espátulas
+- Balão volumétrico de 25 mL
+- Água destilada
+
+**Preparo da solução:**
+
+1. Dissolva 1 g de iodo ressublimado em 10 mL de água contendo 1,5 g de iodeto de potássio
+2. Dilua para 50 mL com água
+3. Armazene a solução em frasco âmbar com conta-gotas e rotule
+
+REFERÊNCIA: IAL, 2008, p. 343
+
+---
+
+## SOLUÇÃO 34 - Negro de Eriocromo T - 20 g
+
+*Utilizada na prática 5 - Análise de águas*
+
+**Materiais necessários:**
+
+- Negro de eriocromo T, sal sódico P.A.
+- Cloreto de sódio P.A.
+- Almofariz e pistilo
+- 2 Béqueres de 100 mL
+- Espátulas
+- Frascos plásticos
+
+**Preparo da solução:**
+
+1. Misture, em almofariz, 0,5 g de negro de eriocromo T - sal sódico do ácido 1-(1-hidroxi-2-naftilazo)-5-nitro-2-naftol-4-sulfônico) - com 100 g de cloreto de sódio. 
+2. Conserve em frasco com rolha esmerilhada.
+
+---
+
+## SOLUÇÃO 35 - Nitrato de prata 0,1 N - 200 mL
+
+*Utilizada na prática 6 - Análise de leite*
+
+**Materiais necessários:**
+
+- Nitrato de prata P.A.
+- Balão volumétrico âmbar de 1000 mL
+- Cloreto de sódio P.A. previamente seco a 110 ºC por 1 hora
+- Erlenmeyer de 100 mL
+- Proveta de 25 mL
+- Água destilada
+- Solução de cromato de potássio 5% (m/v)
+
+**Preparo da solução padrão:**
+
+1. Pese 17 g de nitrato de prata P.A.
+2. Transfira para balão volumétrico âmbar de 1000 mL com rolha esmerilhada
+3. Complete com água. 
+
+**Fatoração:**
+
+1. Pese exatamente cerca de 0,15 g de cloreto de sódio (NaCl) p.a., padrão primário, previamente seco a 110°C por 1 hora, em um Erlenmeyer de 100 mL
+2. adicione cerca de 25 mL de água e 1 mL de solução de cromato de potássio (K~2~CrO~4~) a 5% (m/v) como indicador.
+3. Titule com a solução de nitrato de prata 0,1 N até o aparecimento de cor castanha avermelhada. 
+4. Calcular o fator de correção usando, no mínimo, a média de três determinações. 
+
+**Cálculos:**
+
+Fator de correção = m/(0,0585 x V x N) 
+
+Onde: 
+
+m = massa de cloreto de sódio, em gramas; 
+
+V = volume de solução de nitrato de prata gastos na titulação, em mL; 
+
+N = normalidade esperada da solução.
+
+---
+
+## SOLUÇÃO 36 - Reagente de Éber - 100 mL
+
+*Utilizada na prática 7 - Análise de carnes, peixes e ovos*
+
+**Materiais necessários:**
+
+- Ácido clorídrico P.A.
+- Álcool etílico P.A.
+- Proveta de 50 mL
+- Proveta de 250 mL
+- Balão volumétrico de 250 mL
+- Frasco de vidro de 250 mL com tampa
+- Etiqueta
+
+**Preparo da solução:**
+
+1. Misture 50 mL de ácido clorídrico e 150 mL de álcool etílico em um balão volumétrico de 250 mL
+2. Resfrie e complete o volume com éter etílico
+3. Armazene a solução em um frasco de vidro âmbar e rotule
+
+***Nota***: Realize o procedimento na capela de exaustão ligada
+
+---
+
+## SOLUÇÃO 37 - Resorcinol 0,5% - 25 mL
+
+*Utilizada na prática 6 - Análise de leite*
+
+**Materiais necessários:**
+
+- Balança analítica
+- Resorcinol P.A.
+- Béquer de 25 mL
+- Balão volumétrico de 25 mL
+- Solução de HCl 3N
+- Frasco de vidro de 25 mL
+- Etiqueta
+
+**Preparo da solução:**
+
+1. Pese 0,125 g de resorcinol P.A.
+2. Dissolva, na capela, com aproximadamente 10 mL de solução de HCl 3N
+4. Transfira para um balão volumétrico de 25 mL
+5. Complete o volume até a marca de aferição com solução de HCl 3N
+6. Transfira para um frasco de vidro de 25 mL com tampa e rotule
+
+**Nota:** Esta solução também é conhecida com *Reagente de Seliwanoff*, é uma mistura composta por cerca de 0,5% de resorcinol (C~6~H~6~O~2~) em HCl 3N, que é usada para fazer o famoso *Teste de Seliwanoff*, usado para distinguir aldoses de cetoses.
+
+---
+
+## SOLUÇÃO 38 - Sulfato de sódio 1,5% - 500 mL
+
+*Utilizada na prática 12 - Determinação de lipídeos por Bligh Dyer*
+
+**Materiais necessários:**
+
+- Balança analítica
+- Sulfato de sódio P.A. (Na~2~SO~4~)
+- Béquer de 500 mL
+- Bastão de vidro
+- Balão volumétrico de 500 mL
+- Água destilada
+- Frasco de vidro de 500 mL, com tampa
+- Etiqueta
+
+**Preparo da solução:**
+
+1. Pese 7,5 g de Na~2~SO~4~ 
+2. Dissolva em aproximadamente 250 mL de água destilada
+3. Transfira para um balão volumétrico de 250 mL
+4. Complete o volume até a marca de aferição do balão com água destilada
+5. Transfira para um frasco de vidro de 500 mL e rotule
+
+---
+
+## SOLUÇÃO 39 - Sulfato de zinco 30% - 100 mL
+
+*Utilizada na prática 7 - Análise de carnes, peixes e ovos*
+
+**Materiais necessários:**
+
+- Balança analítica
+- Sulfato de zinco P.A.
+- Béquer de 100 mL
+- Bastão de vidro
+- Balão volumétrico de 100 mL
+- Frasco de vidro de 100 mL
+- Etiqueta
+
+**Preparo da solução:**
+
+1. Pese 30 g de sulfato de zinco em um béquer de 100 mL
+2. Dissolva com aproximadamente 50 mL de água destilada
+3. Transfira para um balão volumétrico de 100 mL
+4. Complete o volume até a marca de aferição do balão com água destilada
+5. Transfira para um frasco de vidro de 100 mL e rotule
+
+---
+
+## SOLUÇÃO 40 - Tiossulfato de sódio 0,01 N - 1000 mL
+
+*Utilizada na prática 8 - Análise de óleos e gorduras*
+
+**Materiais necessários:**
+
+- Balança analítica
+- Tiossulfato de sódio hidratado
+- Carbonato de sódio anidro
+- Béquer de 1000 mL
+- Bastão de vidro
+- Água destilada previamente fervida
+
+
+**Preparo da solução:**
+
+1. Dissolva 2,49 g de tiossulfato de sódio hidratado puro e 0,02 g de carbonato de sódio anidro em aproximadamente 500 mL de água previamente fervida
+2. Transfira para um balão volumétrico de 1 litro,
+3. Complete o volume até a marca de aferição do balão com água destilada fervida e resfriada
+4. Deixe decantar durante 24 horas e padronize a solução
+
+---
+
+## SOLUÇÃO 41 - Tiossulfato de sódio 0,1 N - 1000 mL
+
+*Utilizada na prática 8 - Análise de óleos e gorduras*
+
+**Materiais necessários:**
+
+- Balança analítica
+- Tiossulfato de sódio hidratado
+- Carbonato de sódio anidro
+- Béquer de 1000 mL
+- Bastão de vidro
+- Água destilada previamente fervida
+
+
+**Preparo da solução:**
+
+1. Dissolva 24,9 g de tiossulfato de sódio hidratado puro e 0,2 g de carbonato de sódio anidro em aproximadamente 500 mL de água previamente fervida
+2. Transfira para um balão volumétrico de 1 litro,
+3. Complete o volume até a marca de aferição do balão com água destilada fervida e resfriada
+4. Deixe decantar durante 24 horas e padronize a solução
+
+---
+
+## SOLUÇÃO 42 - Verde de Malaquita 0,02% - 100 mL
+
+*Utilizada na prática 7 - Análise de carne - Prova para Sulfitos.*
+
+**Materiais necessários:**
+
+- Verde de malaquita P.A.
+- Água destilada
+- Béquer de 100 mL
+- Balão volumétrico de 100 mL
+- Frasco âmbar de 100 mL
+- Etiqueta
+
+**Preparo da solução:**
+
+1. Dissolva 0,02 g de verde de malaquita em 100 mL de água destilada
+2. Transfira para um frasco âmbar de 100 mL e rotule
+
+REFERÊNCIA: IAL 2005 - Método 277/IV
+
+---
+
+## SOLUÇÃO 43 - Vermelho de metila 0,2% - 50 mL
+
+*Utilizada na prática 5 - Análise de água - Determinação de alcalinidade.*
+
+**Materiais necessários:**
+
+- Vermelho de metila P.A.
+- Álcool etílico P.A.
+- Água destilada
+- Béquer de 50 mL
+- Balão volumétrico de 50 mL
+- Frasco âmbar de 50 mL
+- Etiqueta
+
+**Preparo da solução:**
+
+1. Dissolva 0,1 g de vermelho de metila em 30 mL de álcool etílico
+2. Dilua para 50 mL com água destilada em balão volumétrico de 50 mL
+3. Transfira para o frasco âmbar de 50 mL e rotule
+
+REFERÊNCIA: Morita, p. 393
+
+---
+
+## SOLUÇÃO 44 - Solução padrão de cálcio - 1000 mL
+
+*Utilizada na prática 5 - Análise de água - Determinação de dureza total*
+
+**Materiais necessários:**
+
+- Carbonato de cálcio anidro
+- Ácido clorídrico P.A.
+- Hidróxido de amônio 3 mol/L
+- Indicador vermelho de metila (solução 43)
+- Água destilada
+- Erlenmeyer de 500 mL
+- Funil de vidro
+- Chapa aquecedora
+- Balão volumétrico de 1000 mL
+- Frasco âmbar de 1000 mL
+- Etiqueta
+
+**Preparo da solução:**
+
+1. Pese 1,000 g de CaCO~3~ anidro em um Erlenmeyer de 500 mL;
+2. Coloque um funil na boca do Erlenmeyer e adicione aos poucos solução de HCl (1+1) até que todo o carbonato esteja dissolvido;
+3. Adicione 200 mL de água destilada e ferva por alguns minutos para expelir o CO~2~;
+4. Resfrie, adicione algumas gotas de indicador vermelho de metila e ajuste para uma coloração laranja intermediária pela adição de solução de hidróxido de amônio 3 mol/L ou ácido clorídrico (1+1), conforme for necessário;
+5. Transfira quantitativamente para um balão volumétrico de 1000 mL e complete o volume com água destilada
+
+**Nota:** Cada 1,00 mL desta solução corresponde a 1.00 mg de CaCO~3~
+
+REFERÊNCIA: Curso de extensão em análise de águas - Profª Maria Nelcina
+
+---
+
+## SOLUÇÃO 45 - Indicador Alaranjado de Metila - 50 mL
+
+**Materiais necessários:**
+
+- Alaranjado de metila P.A.
+- Água destilada
+- Béquer de 50 mL
+- Espátula
+- Chapa aquecedora (ou forno microondas - para aquecer água)
+- Funil de vidro
+- Papel de filtro
+- Balão volumétrico de 50 mL
+- Frasco âmbar de 50 mL
+- Etiqueta
+
+**Preparo da solução:**
+
+1. Dissolva 0,1 g de alaranjado de metila em água quente;
+2. Deixe esfriar e filtre, se necessário;
+3. Dilua com água destilada até 50 mL em balão volumétrico de 50 mL
+4. Armazene em frasco âmbar com conta-gotas e rotule
+
+**Nota:** Usa-se uma gota para cada 100 mL de solução a titular
+
+REFERÊNCIA: Morita, p. 381
+
+---

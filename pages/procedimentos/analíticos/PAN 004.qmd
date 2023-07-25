@@ -1,8 +1,0 @@
----
-title: Lipídeos por Bligh e Dyer
-format: html
----
-
-## Materiais
-
-## Procedimento

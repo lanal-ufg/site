@@ -1,8 +1,73 @@
 [
   {
+    "listing": "/pages/seguranca/fds/index.html",
+    "items": [
+      "/pages/seguranca/fds/fds-001.html",
+      "/pages/seguranca/fds/fds-002.html",
+      "/pages/seguranca/fds/fds-003.html",
+      "/pages/seguranca/fds/fds-004.html",
+      "/pages/seguranca/fds/fds-005.html",
+      "/pages/seguranca/fds/fds-006.html",
+      "/pages/seguranca/fds/fds-007.html",
+      "/pages/seguranca/fds/fds-008.html",
+      "/pages/seguranca/fds/fds-009.html",
+      "/pages/seguranca/fds/fds-010.html",
+      "/pages/seguranca/fds/fds-011.html",
+      "/pages/seguranca/fds/fds-012.html",
+      "/pages/seguranca/fds/fds-015.html",
+      "/pages/seguranca/fds/fds-013.html",
+      "/pages/seguranca/fds/fds-014.html",
+      "/pages/seguranca/fds/fds-016.html",
+      "/pages/seguranca/fds/fds-017.html"
+    ]
+  },
+  {
+    "listing": "/pages/procedimentos/operacionais/pps/index.html",
+    "items": [
+      "/pages/procedimentos/operacionais/pps/pps001.html",
+      "/pages/procedimentos/operacionais/pps/pps002.html",
+      "/pages/procedimentos/operacionais/pps/pps003.html"
+    ]
+  },
+  {
+    "listing": "/pages/procedimentos/operacionais/pdr/index.html",
+    "items": [
+      "/pages/procedimentos/operacionais/pdr/pdr002.html",
+      "/pages/procedimentos/operacionais/pdr/pdr001.html"
+    ]
+  },
+  {
     "listing": "/pages/blog/index.html",
     "items": [
+      "/pages/blog/posts/2020-08-25-principais-equipamentos-e-analises/index.html",
+      "/pages/blog/posts/2020-08-20-equipe-responsavel/index.html",
       "/pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html"
+    ]
+  },
+  {
+    "listing": "/pages/procedimentos/operacionais/peq/index.html",
+    "items": [
+      "/pages/procedimentos/operacionais/peq/peq001.html",
+      "/pages/procedimentos/operacionais/peq/peq002.html",
+      "/pages/procedimentos/operacionais/peq/peq003.html",
+      "/pages/procedimentos/operacionais/peq/peq004.html",
+      "/pages/procedimentos/operacionais/peq/peq005.html"
+    ]
+  },
+  {
+    "listing": "/pages/procedimentos/analiticos/index.html",
+    "items": [
+      "/pages/procedimentos/analiticos/pan008.html",
+      "/pages/procedimentos/analiticos/pan006.html",
+      "/pages/procedimentos/analiticos/pan007.html",
+      "/pages/procedimentos/analiticos/pan011.html",
+      "/pages/procedimentos/analiticos/pan009.html",
+      "/pages/procedimentos/analiticos/pan001.html",
+      "/pages/procedimentos/analiticos/pan010.html",
+      "/pages/procedimentos/analiticos/pan004.html",
+      "/pages/procedimentos/analiticos/pan003.html",
+      "/pages/procedimentos/analiticos/pan005.html",
+      "/pages/procedimentos/analiticos/pan002.html"
     ]
   }
 ]

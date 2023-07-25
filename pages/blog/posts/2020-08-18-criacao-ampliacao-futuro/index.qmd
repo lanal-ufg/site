@@ -8,8 +8,10 @@ categories:
   - História
 author: Tânia Aparecida
 date: 8/10/2020
+date-format: DD/MM/YYYY
 image: post1.png
 image-alt: "Montagem contendo cinco fotos mostrando as bancadas e equipamentos do Laboratório de Nutrição e Análise de Alimentos da UFG"
+lang: pt-br
 ---
 
 O LANAL e a sede atual da FANUT/FEN foram construídos em 1990 (Ministério da Educação). Em 2007 foi reestruturado (verba CT-INFRA 2007) e hoje é mantido pela FANUT/UFG e pesquisadores. É destinado às análises físico-químicas de alimentos que incluem composição centesimal (umidade, cinzas, proteínas, lipídeos e carboidratos totais), fibras alimentares, amido, açúcares redutores e não-redutores; análises tecnológicas (índice de absorção de água, óleo, solubilidade, pH, sólidos solúveis totais e acidez); pesquisa de compostos bioativos e capacidade antioxidante, dentre outras.

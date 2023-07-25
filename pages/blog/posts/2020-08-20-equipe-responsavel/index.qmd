@@ -1,0 +1,20 @@
+---
+title: Equipe responsável pelo LANAL/UFG
+# subtitle: 
+description: |
+  Conheça a equipe responsável pelo Laboratório de Nutrição e Análise de Alimentos da UFG.
+categories:
+  - Laboratório
+  - Equipe
+author: Rodrigo Cavalcante
+date: 8/20/2020
+date-format: DD/MM/YYYY
+image: post2.png
+image-alt: "Imagem de post contendo fotos do coordenador, da vice-coordenadora e do químico do LANAL/UFG"
+lang: pt-br
+---
+
+Atualmente, o laboratório é coordenado pelos professores Rodrigo Barbosa e Tânia Aparecida, o mesmo apresenta como técnico responsável o químico Tiago Dias.
+O professor Rodrigo Barbosa é graduado em Nutrição pela UFPI e possui Mestrado e Doutorado em Alimentos e Nutrição (PPGAN/UFPI). O professor é docente colaborador do Programa de Pós-Graduação em Ciência e Tecnologia de Alimentos (PPGCTA/UFG). Apresenta experiência em pesquisas nas áreas de Bromatologia, Bioquímica de Alimentos, Nutrição Funcional, Desenvolvimento de Produtos, Análise Sensorial de Alimentos e Técnica Dietética.
+A professora Tânia Aparecida é graduada em Nutrição pela UFRJ e possui Mestrado e Doutorado em Ciência dos Alimentos (FCF/USP) e Pós-Doutorado pela Wageningen University Research (WUR). A professora é docente permanente do Programa de Pós-Graduação em Ciência e Tecnologia de Alimentos (PPGCTA/UFG) e docente colaboradora do Programa de Pós-Graduação em Nutrição e Saúde (PPGNUT/UFG). Apresenta experiência em pesquisas nas áreas de  Ciência dos Alimentos, Análises Físico-Químicas de Alimentos, Processamento e Efeito Nutricional, Sódio, Açucares e Gorduras em Alimentos, Análise Sensorial de Alimentos e Marketing em Alimentação e Nutrição.
+Tiago Dias é bacharel em Química Industrial pela UEG e possui Mestrado em Ciência e Tecnologia de Alimentos (PPGCTA/UFG). Apresenta experiência em Química Analítica de Alimentos e Indústria de Processamento de Óleos Vegetais. Quer saber mais sobre os projetos de pesquisa desenvolvidos e os trabalhos realizados pela equipe responsável pelo laboratório? Os currículos estão disponíveis na Plataforma Lattes / CNPq http://lattes.cnpq.br/

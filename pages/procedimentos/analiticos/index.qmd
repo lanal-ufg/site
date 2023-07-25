@@ -1,0 +1,19 @@
+---
+title: "Procedimentos analíticos do LANAL/UFG"
+subtitle: PAN
+author: Tiago Dias
+lang: pt-br
+date: last-modified
+date-format: DD/MM/YYYY
+listing:
+    contents:
+        - "*.md"
+    type: table
+    fields: [title, version, date]
+    field-display-names:
+        title: "Procedimento"
+        version: "Versão"
+        daet: "Data"
+    sort: title
+    categories: true
+---

@@ -1,0 +1,18 @@
+---
+title: "Procedimentos de disposição de resíduos do LANAL/UFG"
+subtitle: PDR
+author: Tiago Dias
+lang: pt-br
+date: last-modified
+date-format: DD/MM/YYYY
+listing:
+    contents:
+        - "*.md"
+    type: table
+    fields: [title, grupo]
+    field-display-names:
+        title: "Resíduo"
+        grupo: "Grupo"
+    sort: title
+    categories: true
+---

@@ -1,0 +1,41 @@
+---
+title: "Publicações realizadas pelos membros do LANAL/UFG"
+author: Tiago Dias
+bibliography: bibliografia-lanal.json
+csl: csl/nature-publishing-group-vancouver.csl
+date: last-modified
+date-format: DD/MM/YYYY
+lang: pt-br
+---
+
+A seguir estão listadas as principais publicações dos trabalhos realizados, total ou parcialmente no LANAL, com autoria ou co-autoria de um ou mais integrantes da equipe:
+
+---
+nocite: |
+    @barros2012
+    @alves2017
+    @souza2013
+    @ferreira2010
+    @ferreira2007
+    @p.a.silva2019
+    @cavalcante2019
+    @dias2015
+    @xu2020
+    @oliveira2021
+    @rezende2017
+    @donascimentosilva2023
+    @silva2019a
+    @brasil2015
+    @freire2013a
+    @freire2013
+    @dias2017a
+    @silva2019
+    @silva2020
+    @ferreira2004
+    @gomes2023
+---
+
+## Publicações
+
+::: {#refs}
+:::

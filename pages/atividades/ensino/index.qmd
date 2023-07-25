@@ -1,3 +1,6 @@
 ---
 title: "Atividades de ensino no LANAL"
+date: last-modified
+date-format: DD/MM/YYYY
+lang: pt-br
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Sobre"
+lang: pt-br
 ---
 
-Neste site você encontrará os documentos do LANAL/UFG, taix como, procedimentos operacionais, procedimentos analíticos, normas de segurança dentre outros.
+Neste site você encontrará os documentos do LANAL/UFG, tais como, procedimentos operacionais, procedimentos analíticos, normas de segurança dentre outros.

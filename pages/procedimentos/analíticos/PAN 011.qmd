@@ -1,8 +1,0 @@
----
-title: Carotenoides totais
-format: html
----
-
-## Materiais
-
-## Procedimento

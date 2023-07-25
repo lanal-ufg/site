@@ -13,16 +13,17 @@ website:
   open-graph: true
   twitter-card: false
   site-url: "https://lanal-ufg.github.io/lanal-ufg"
-  repo-url: https://github.com/lanal-ufg/lanal-ufg
-  issue-url: https://github.com/lanal-ufg/lanal-ufg/issues/new/choose
-  repo-actions: [edit, issue]
+  # repo-url: https://github.com/lanal-ufg/lanal-ufg
+  # issue-url: https://github.com/lanal-ufg/lanal-ufg/issues/new/choose
+  # repo-actions: [edit, issue]
+  # reader-mode: true
   page-navigation: true
   search:
     type: overlay
     algolia:
-      index-name: prod_QUARTO
-      application-id: ZPJB5I1QN7
-      search-only-api-key: 41be6c1e0a7fea4a51b107810facf577
+      index-name: dev_lanalufg
+      application-id: FTGUXGZRDK
+      search-only-api-key: 082d80d81a39d75f3bdffe8acf2338fa
       analytics-events: true
       show-logo: true
   page-footer:
@@ -54,18 +55,21 @@ website:
     title: false
     collapse-below: lg
     left:
-      - text: "Apresentação"
+      - text: "LANAL/UFG"
         href: index.qmd
+      - text: "Segurança"
+        href: pages/seguranca/index.qmd
       - text: "Cadastro"
-        href: pages/cadastro/index.qmd
+        href: pages/cadastro/novos.qmd
       - text: "Procedimentos"
         href: pages/procedimentos/index.qmd
-      - text: Atividades
-        href: pages/atividades/index.qmd
+
+      # - text: Atividades
+       # href: pages/atividades/index.qmd
+      - text: "Agenda"
+        href: pages/agenda/index.qmd
       - text: "Publicações"
         href: pages/publicações/index.qmd
-      - text: "Galeria"
-        href: docs/gallery/index.qmd
       - text: "Blog"
         href: pages/blog/index.qmd
       - text: "Ajuda"
@@ -102,14 +106,45 @@ website:
       contents:
         - text: "Apresentação"
           href: index.qmd
-        - text: "Infraestrutura"
-          href: pages/apresentação/infraestrutura/
-        - text: "Segurança"
-          href: pages/apresentação/segurança/
+        - text: "Equipe"
+          href: equipe.qmd
+        - section: "Infraestrutura"  
+          contents:
+            - text: "Instalações"
+              href: pages/apresentação/infraestrutura/instalacoes.qmd
+            - text: "Equipamentos"
+              href: pages/apresentação/infraestrutura/equipamentos.qmd
+            - text: "Reagentes"
+              href: pages/apresentação/infraestrutura/reagentes.qmd
         - text: "Normas"  
-          href: pages/apresentação/normas/
-        - text: "Agenda"
-          href: pages/apresentação/agenda/
+          href: pages/apresentação/normas/index.qmd
+    
+    - id: seguranca
+      title: "Segurança"
+      style: "floating"
+      collapse-level: 3
+      alignment: left
+      contents:
+        - section: "Segurança no LANAL/UFG"
+          href: pages/seguranca/index.qmd
+          contents:
+          - text: "Diretrizes de segurança"
+            href: pages/seguranca/diretrizes/index.qmd
+          - text: "Mapas de riscos"
+            href: pages/seguranca/mapas de riscos/index.qmd
+          - text: "Fichas de segurança (FDS)"
+            href: pages/seguranca/fds/index.qmd
+
+    - id: cadastro
+      title: "Cadastro"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - text: "Novos alunos"
+          href: pages/cadastro/novos.qmd
+        - text: "Atualização de cadastro"
+          href: pages/cadastro/atualiza.qmd
 
     - id: procedimentos
       collapse-level: 1
@@ -117,257 +152,42 @@ website:
         - section: "Procedimentos"
           href: pages/procedimentos/index.qmd
           contents:
-          - section: "Analíticos"
-            contents:
-              - section: "Composição centesimal"
-                contents:
-                  - pages/procedimentos/analíticos/PAN 001.qmd
-                  - pages/procedimentos/analíticos/PAN 002.qmd
-                  - pages/procedimentos/analíticos/PAN 003.qmd
-                  - pages/procedimentos/analíticos/PAN 004.qmd
-                  - pages/procedimentos/analíticos/PAN 005.qmd
-              - section: "Capacidade antioxidante"
-                contents:
-                  - pages/procedimentos/analíticos/PAN 006.qmd
-                  - pages/procedimentos/analíticos/PAN 007.qmd
-                  - pages/procedimentos/analíticos/PAN 008.qmd
-              - section: "Compostos bioativos"
-                contents:
-                  - pages/procedimentos/analíticos/PAN 009.qmd
-                  - pages/procedimentos/analíticos/PAN 010.qmd
-                  - pages/procedimentos/analíticos/PAN 011.qmd
+          - text: "Analíticos"
+            href: pages/procedimentos/analiticos/index.qmd
           - section: "Operacionais"
             contents:
-              - section: "Operação de equipamentos"
-                contents:
-                  - pages/procedimentos/operacionais/PEQ 001.qmd
-                  - pages/procedimentos/operacionais/PEQ 002.qmd
-                  - pages/procedimentos/operacionais/PEQ 003.qmd
-                  - pages/procedimentos/operacionais/PEQ 004.qmd
-                  - pages/procedimentos/operacionais/PEQ 005.qmd
-              - section: "Preparo de soluções"
-                contents:
-                  - pages/procedimentos/operacionais/PPS 001.qmd
-                  - pages/procedimentos/operacionais/PPS 002.qmd
-                  - pages/procedimentos/operacionais/PPS 003.qmd
-              - section: "Disposição de resíduos"
-                contents:
-                  - pages/procedimentos/operacionais/PDR 001.qmd
-                  - pages/procedimentos/operacionais/PDR 002.qmd
-                  - pages/procedimentos/operacionais/PDR 003.qmd
-          - section: "Administrativos"
-            contents:
-              - section: "JupyterLab"
-                contents:
-                  - text: "JupyterLab Basics"
-                    href: docs/tools/jupyter-lab.qmd
-                  - text: "JupyterLab Extension"
-                    href: docs/tools/jupyter-lab-extension.qmd
-              - section: "RStudio IDE"
-                contents: 
-                  - text: "RStudio Basics"
-                    href: docs/tools/rstudio.qmd
-                  - section: "Visual Editor"
-                    href: docs/visual-editor/index.qmd
-                    contents:
-                      - text: Editor Basics
-                        href: docs/visual-editor/index.qmd
-                      - docs/visual-editor/technical.qmd
-                      - docs/visual-editor/content.qmd
-                      - docs/visual-editor/options.qmd
-                      - docs/visual-editor/markdown.qmd
-              - section: "VS Code"
-                href: docs/tools/vscode.qmd
-                contents:
-                  - text: "VS Code Basics"
-                    href: docs/tools/vscode.qmd
-                  - text: "Visual Editor"
-                    href: docs/visual-editor/vscode/index.qmd
-                  - text: "Notebook Editor"
-                    href: docs/tools/vscode-notebook.qmd
-              - docs/tools/neovim.qmd
-              - docs/tools/text-editors.qmd
-    - id: atividades
-      title: "Atividades"
-      contents:
-        - section: pages/atividades/index.qmd
-          contents: 
-            - text: "Ensino"
-              href: pages/atividades/listing-filters.qmd
-            - text: "Pesquisa"
-              href: pages/atividades/listing-journals.qmd
-            - text: "Extensão"
-              href: pages/atividades/listing-formats.qmd
-            - text: "Gestão"
-    - id: manuscripts
-      title: "Manuscripts"
-      style: "floating"
-      collapse-level: 2
-      align: left
-      contents:
-        - text: Manuscripts Overview
-          href: docs/manuscripts/index.qmd
-        - text: "Authoring Manuscripts"
-          contents: 
-            - text: Jupyter Lab
-              href: docs/manuscripts/authoring/jupyterlab.qmd
-            - text: VS Code
-              href: docs/manuscripts/authoring/vscode.qmd
-            - text: RStudio
-              href: docs/manuscripts/authoring/rstudio.qmd
-        - text: "Publishing Manuscripts"
-          href: docs/manuscripts/publishing.qmd
-        - text: "Next Steps"
-          href: docs/manuscripts/next-steps.qmd
-        - text: "---"
-        - text: "Manuscript Components"
-          href: docs/manuscripts/components.qmd
-          
-        
-    - id: publicações
-      title: "Publicações"
-      collapse-level: 3
-      contents:
-        - section: "Publicações"
-          href: pages/publicações/index.qmd
-          contents:
-          - section: "Artigos"
-            contents:
-              - text: "HTML"
-                href: docs/reference/formats/html.qmd
-              - text: "PDF"
-                href: docs/reference/formats/pdf.qmd
-              - text: "MS Word"
-                href: docs/reference/formats/docx.qmd
-              - text: "OpenOffice"
-                href: docs/reference/formats/odt.qmd
-              - text: "ePub"
-                href: docs/reference/formats/epub.qmd
-              - section: "Presentations"
-                contents:
-                  - text: "Revealjs"
-                    href: docs/reference/formats/presentations/revealjs.qmd
-                  - text: "PowerPoint"
-                    href: docs/reference/formats/presentations/pptx.qmd
-                  - text: "Beamer"
-                    href: docs/reference/formats/presentations/beamer.qmd
-              - section: "Markdown"
-                contents:
-                  - text: "GitHub"
-                    href: docs/reference/formats/markdown/gfm.qmd
-                  - text: "CommonMark"
-                    href: docs/reference/formats/markdown/commonmark.qmd
-                  - text: "Markua"
-                    href: docs/reference/formats/markdown/markua.qmd
-              - section: "Wikis"
-                contents:
-                  - text: "MediaWiki"
-                    href: docs/reference/formats/wiki/mediawiki.qmd
-                  - text: "DokuWiki"
-                    href: docs/reference/formats/wiki/dokuwiki.qmd
-                  - text: "ZimWiki"
-                    href: docs/reference/formats/wiki/zimwiki.qmd
-                  - text: "Jira Wiki"
-                    href: docs/reference/formats/wiki/jira.qmd
-                  - text: "XWiki"
-                    href: docs/reference/formats/wiki/xwiki.qmd
-              - section: "More Formats"
-                contents:
-                  - text: "JATS"
-                    href: docs/reference/formats/jats.qmd
-                  - text: "Jupyter"
-                    href: docs/reference/formats/ipynb.qmd
-                  - text: "ConTeXt"
-                    href: docs/reference/formats/context.qmd
-                  - text: "RTF"
-                    href: docs/reference/formats/rtf.qmd
-                  - text: "reST"
-                    href: docs/reference/formats/rst.qmd
-                  - text: "AsciiDoc"
-                    href: docs/reference/formats/asciidoc.qmd
-                  - text: "Org-Mode"
-                    href: docs/reference/formats/org.qmd
-                  - text: "Muse"
-                    href: docs/reference/formats/muse.qmd
-                  - text: "GNU TexInfo"
-                    href: docs/reference/formats/texinfo.qmd
-                  - text: "Groff Man Page"
-                    href: docs/reference/formats/man.qmd
-                  - text: "Groff Manuscript"
-                    href: docs/reference/formats/ms.qmd
-                  - text: "Haddock markup"
-                    href: docs/reference/formats/haddock.qmd
-                  - text: "OPML"
-                    href: docs/reference/formats/opml.qmd
-                  - text: "Textile"
-                    href: docs/reference/formats/textile.qmd
-                  - text: "DocBook"
-                    href: docs/reference/formats/docbook.qmd
-                  - text: "InDesign"
-                    href: docs/reference/formats/icml.qmd
-                  - text: "TEI Simple"
-                    href: docs/reference/formats/tei.qmd
-                  - text: "FictionBook"
-                    href: docs/reference/formats/fb2.qmd
-          - section: "Teses e Dissertações"
-            contents:
-              - text: "Jupyter"
-                href: docs/reference/cells/cells-jupyter.qmd
-              - text: "Knitr"
-                href: docs/reference/cells/cells-knitr.qmd
-              - text: "Observable"
-                href: docs/reference/cells/cells-ojs.qmd
-          - section: "Trabalhos de Conclusão de curso"
-            contents:
-              - text: "Options"
-                href: docs/reference/projects/options.qmd
-              - text: "Websites"
-                href: docs/reference/projects/websites.qmd
-              - text: "Books"
-                href: docs/reference/projects/books.qmd
-          - section: "Outras"
-            contents:
-              - text: "Dates"
-                href: docs/reference/dates.qmd
-              - text: "Globs"
-                href: docs/reference/globs.qmd
-              - text: "Citations"
-                href: docs/reference/metadata/citation.qmd
-    - id: prerelease
-      title: "Quarto 1.3"
-      contents:
-        - section: "Highlights"
-          href: docs/prerelease/1.3/index.qmd
-          contents:
-            - text: "Confluence Publishing"
-              href: docs/publishing/confluence.qmd
-            - text: "Multi-Format"
-              href: docs/output-formats/html-multi-format.qmd
-            - text: "Cell Embedding"
-              href: docs/authoring/notebook-embed.qmd
-            - text: "Grid Customization"
-              href: docs/output-formats/page-layout.qmd#grid-customization
-            - text: "Code Annotation"
-              href: docs/authoring/code-annotation.qmd
-            - section: "Quarto AST"
-              href: docs/prerelease/1.3/ast.qmd
-              contents:
-                - text: Callouts
-                  href: docs/prerelease/1.3/custom-ast-nodes/callout.qmd
-                - text: Tabsets
-                  href: docs/prerelease/1.3/custom-ast-nodes/tabset.qmd
-                - text: Conditional Blocks
-                  href: docs/prerelease/1.3/custom-ast-nodes/conditional-block.qmd
-            - text: "Mermaid Theming"
-              href: docs/authoring/diagrams.qmd#mermaid-theming
-            - text: "PDF Images"
-              href: docs/prerelease/1.3/pdf.qmd
-            - text: "`kbd` Shortcode"
-              href: docs/authoring/markdown-basics.qmd#keyboard-shortcuts
+              - text: "Operação de equipamentos"
+                href: pages/procedimentos/operacionais/peq/index.qmd
+              - text: "Preparo de soluções"
+                href: pages/procedimentos/operacionais/pps/index.qmd
+              - text: "Disposição de resíduos"
+                href: pages/procedimentos/operacionais/pdr/index.qmd
+          # - section: "Administrativos"
+            # contents:
+              # - section: "Pesquisa"
+                # contents:
+                  # - pages/procedimentos/administrativos/PAP 001.md
+              # - section: "Ensino"
+                # contents: 
+                  # - pages/procedimentos/administrativos/PAE 001.md
+              # - section: "Extensão"
+                # contents:
+                  # - pages/procedimentos/administrativos/PAX 001.md
 
- 
-
-bibliography: references.bib
+    # - id: atividades
+      # title: "Atividades"
+      # contents:
+        # - section: pages/atividades/index.qmd
+          # contents: 
+            # - text: "Ensino"
+              # href: pages/atividades/listing-filters.qmd
+            # - text: "Pesquisa"
+              # href: pages/atividades/listing-journals.qmd
+            # - text: "Extensão"
+              # href: pages/atividades/listing-formats.qmd
+            # - text: "Gestão"
+      
+bibliography: pages/publicações/bibliografia-lanal.json
 
 format:
   html:

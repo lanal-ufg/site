@@ -1,0 +1,16 @@
+---
+title: "Fichas com dados de segurança (FDS)"
+author: Tiago Dias
+date: last-modified
+date-format: DD/MM/YYYY
+lang: pt-br
+listing:
+    contents:
+        - "*.md"
+    type: table
+    fields: [title, Estado físico, Advertência]
+    field-display-names:
+        title: "Substância"
+    categories: true
+---
+
