@@ -8,13 +8,15 @@ date-format: DD/MM/YYYY
 listing:
     contents:
         - "*.md"
-    type: table
-    fields: [title, volume]
+    type: grid
+    fields: [title]
     field-display-names:
         subtitle: "Procedimento"
         title: "Solução"
         volume: "Volume"
         categories: "Análise"
+    sort-ui: true
     sort: title
-    categories: false
+    filter-ui: true
+    categories: true
 ---

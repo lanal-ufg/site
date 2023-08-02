@@ -8,10 +8,10 @@ listing:
   filter-ui: false
   categories: true
   feed: true
+  image-placeholder: lanal-blog-v2.png
 page-layout: full
 title-block-banner: "#EDF3F9"
 title-block-banner-color: body
 search: false
-image: quarto-blog-v2.png
 lang: pt-br
 ---

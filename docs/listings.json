@@ -50,28 +50,66 @@
     ]
   },
   {
-    "listing": "/pages/blog/index.html",
-    "items": [
-      "/pages/blog/posts/2020-08-25-principais-equipamentos-e-analises/index.html",
-      "/pages/blog/posts/2020-08-20-equipe-responsavel/index.html",
-      "/pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html"
-    ]
-  },
-  {
-    "listing": "/pages/procedimentos/operacionais/pdr/index.html",
-    "items": [
-      "/pages/procedimentos/operacionais/pdr/pdr002.html",
-      "/pages/procedimentos/operacionais/pdr/pdr001.html"
-    ]
-  },
-  {
     "listing": "/pages/procedimentos/operacionais/peq/index.html",
     "items": [
       "/pages/procedimentos/operacionais/peq/peq001.html",
       "/pages/procedimentos/operacionais/peq/peq002.html",
       "/pages/procedimentos/operacionais/peq/peq003.html",
       "/pages/procedimentos/operacionais/peq/peq004.html",
-      "/pages/procedimentos/operacionais/peq/peq005.html"
+      "/pages/procedimentos/operacionais/peq/peq005.html",
+      "/pages/procedimentos/operacionais/peq/peq008.html",
+      "/pages/procedimentos/operacionais/peq/peq006.html",
+      "/pages/procedimentos/operacionais/peq/peq007.html",
+      "/pages/procedimentos/operacionais/peq/peq009.html",
+      "/pages/procedimentos/operacionais/peq/peq010.html",
+      "/pages/procedimentos/operacionais/peq/peq011.html",
+      "/pages/procedimentos/operacionais/peq/peq012.html",
+      "/pages/procedimentos/operacionais/peq/peq013.html",
+      "/pages/procedimentos/operacionais/peq/peq014.html",
+      "/pages/procedimentos/operacionais/peq/peq015.html",
+      "/pages/procedimentos/operacionais/peq/peq058.html",
+      "/pages/procedimentos/operacionais/peq/peq016.html",
+      "/pages/procedimentos/operacionais/peq/peq017.html",
+      "/pages/procedimentos/operacionais/peq/peq018.html",
+      "/pages/procedimentos/operacionais/peq/peq019.html",
+      "/pages/procedimentos/operacionais/peq/peq020.html",
+      "/pages/procedimentos/operacionais/peq/peq021.html",
+      "/pages/procedimentos/operacionais/peq/peq022.html",
+      "/pages/procedimentos/operacionais/peq/peq023.html",
+      "/pages/procedimentos/operacionais/peq/peq025.html",
+      "/pages/procedimentos/operacionais/peq/peq024.html",
+      "/pages/procedimentos/operacionais/peq/peq026.html",
+      "/pages/procedimentos/operacionais/peq/peq027.html",
+      "/pages/procedimentos/operacionais/peq/peq029.html",
+      "/pages/procedimentos/operacionais/peq/peq030.html",
+      "/pages/procedimentos/operacionais/peq/peq028.html",
+      "/pages/procedimentos/operacionais/peq/peq031.html",
+      "/pages/procedimentos/operacionais/peq/peq032.html",
+      "/pages/procedimentos/operacionais/peq/peq033.html",
+      "/pages/procedimentos/operacionais/peq/peq034.html",
+      "/pages/procedimentos/operacionais/peq/peq035.html",
+      "/pages/procedimentos/operacionais/peq/peq036.html",
+      "/pages/procedimentos/operacionais/peq/peq037.html",
+      "/pages/procedimentos/operacionais/peq/peq038.html",
+      "/pages/procedimentos/operacionais/peq/peq039.html",
+      "/pages/procedimentos/operacionais/peq/peq057.html",
+      "/pages/procedimentos/operacionais/peq/peq041.html",
+      "/pages/procedimentos/operacionais/peq/peq042.html",
+      "/pages/procedimentos/operacionais/peq/peq040.html",
+      "/pages/procedimentos/operacionais/peq/peq043.html",
+      "/pages/procedimentos/operacionais/peq/peq044.html",
+      "/pages/procedimentos/operacionais/peq/peq045.html",
+      "/pages/procedimentos/operacionais/peq/peq046.html",
+      "/pages/procedimentos/operacionais/peq/peq047.html",
+      "/pages/procedimentos/operacionais/peq/peq048.html",
+      "/pages/procedimentos/operacionais/peq/peq049.html",
+      "/pages/procedimentos/operacionais/peq/peq050.html",
+      "/pages/procedimentos/operacionais/peq/peq051.html",
+      "/pages/procedimentos/operacionais/peq/peq052.html",
+      "/pages/procedimentos/operacionais/peq/peq053.html",
+      "/pages/procedimentos/operacionais/peq/peq054.html",
+      "/pages/procedimentos/operacionais/peq/peq055.html",
+      "/pages/procedimentos/operacionais/peq/peq056.html"
     ]
   },
   {
@@ -88,6 +126,21 @@
       "/pages/procedimentos/analiticos/pan003.html",
       "/pages/procedimentos/analiticos/pan005.html",
       "/pages/procedimentos/analiticos/pan002.html"
+    ]
+  },
+  {
+    "listing": "/pages/blog/index.html",
+    "items": [
+      "/pages/blog/posts/2020-08-25-principais-equipamentos-e-analises/index.html",
+      "/pages/blog/posts/2020-08-20-equipe-responsavel/index.html",
+      "/pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html"
+    ]
+  },
+  {
+    "listing": "/pages/procedimentos/operacionais/pdr/index.html",
+    "items": [
+      "/pages/procedimentos/operacionais/pdr/pdr002.html",
+      "/pages/procedimentos/operacionais/pdr/pdr001.html"
     ]
   },
   {

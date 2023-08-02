@@ -1,10 +1,10 @@
 project:
   type: website
   output-dir: docs
-  resources:
-    - "/pages/download/_download.json"
-    - "/pages/download/_prerelease.json"
-    - "/_redirects"
+# resources:
+  # - "/pages/download/_download.json"
+  # - "/pages/download/_prerelease.json"
+  # - "/_redirects"
 
 website:
   title: "LANAL/UFG"
@@ -13,10 +13,10 @@ website:
   open-graph: true
   twitter-card: false
   site-url: "https://lanal-ufg.github.io/lanal-ufg"
-  # repo-url: https://github.com/lanal-ufg/lanal-ufg
-  # issue-url: https://github.com/lanal-ufg/lanal-ufg/issues/new/choose
-  # repo-actions: [edit, issue]
-  # reader-mode: true
+# repo-url: https://github.com/lanal-ufg/lanal-ufg
+# issue-url: https://github.com/lanal-ufg/lanal-ufg/issues/new/choose
+# repo-actions: [edit, issue]
+# reader-mode: true
   page-navigation: true
   search:
     type: overlay
@@ -27,27 +27,27 @@ website:
       analytics-events: true
       show-logo: true
   page-footer:
-    # left: |
-      # Este é um laboratório da UFG
+  # left: |
+    # Este é um laboratório da UFG
     center:
       - text: "Sobre"
         href: about.qmd
       - text: "Perguntas frequentes"
         href: pages/faq/index.qmd
-      # - text: "Licença"
-        # href: license.qmd
+    # - text: "Licença"
+      # href: license.qmd
       - text: "Acesso à informação"
         href: informação.qmd
-    # right:
-      # - icon: instagram
-        # href: https://www.instagram.com/lanal.ufg
-        # aria-label: Instagram LANAL
-      # - icon: github
-        # href: https://github.com/lanal-ufg/lanal-ufg
-        # aria-label: GitHub LANAL
-      # - icon: rss
-        # href: https://lanal-ufg.github.io/lanal-ufg/docs/pages/blog/index.xml
-        # aria-label: Feed RSS do Blog do LANAL        
+  # right:
+    # - icon: instagram
+      # href: https://www.instagram.com/lanal.ufg
+      # aria-label: Instagram LANAL
+    # - icon: github
+      # href: https://github.com/lanal-ufg/lanal-ufg
+      # aria-label: GitHub LANAL
+    # - icon: rss
+      # href: https://lanal-ufg.github.io/lanal-ufg/docs/pages/blog/index.xml
+      # aria-label: Feed RSS do Blog do LANAL        
   navbar:
     background: light
     logo: logo_LANAL.png
@@ -63,9 +63,8 @@ website:
         href: pages/cadastro/novos.qmd
       - text: "Procedimentos"
         href: pages/procedimentos/index.qmd
-
-      # - text: Atividades
-       # href: pages/atividades/index.qmd
+    # - text: Atividades
+      # href: pages/atividades/index.qmd
       - text: "Agenda"
         href: pages/agenda/index.qmd
       - text: "Publicações"
@@ -80,22 +79,22 @@ website:
           - text: "Envie-nos um e-mail"
             icon: "Envelope"
             href: "mailto://lanal.fanut@ufg.br"
-          ## - text: "Informe um incidente"
-            ## icon: "bug"
-            ## href: "https://github.com/lanal-ufg/lanal-ufg/issues"
-          ## - text: "Faça uma pergunta"
-            ## icon: "chat-right-text"
-            ## href: https://github.com/lanal-ufg/lanal-ufg/discussions"
+       ## - text: "Informe um incidente"
+         ## icon: "bug"
+         ## href: "https://github.com/lanal-ufg/lanal-ufg/issues"
+       ## - text: "Faça uma pergunta"
+         ## icon: "chat-right-text"
+         ## href: https://github.com/lanal-ufg/lanal-ufg/discussions"
     tools:
       - icon: instagram
         href: https://www.instagram.com/lanal.ufg
         text: Instagram LANAL
-      # - icon: github
-        # href: https://github.com/lanal-ufg/lanal-ufg
-        # text: GitHub do LANAL
-      # - icon: rss
-        # href: https://lanal-ufg.github.io/lanal-ufg/docs/pages/blog/index.xml
-        # text: RSS Blog do LANAL        
+    # - icon: github
+      # href: https://github.com/lanal-ufg/lanal-ufg
+      # text: GitHub do LANAL
+    # - icon: rss
+      # href: https://lanal-ufg.github.io/lanal-ufg/docs/pages/blog/index.xml
+      # text: RSS Blog do LANAL        
 
   sidebar:
     - id: apresentação
@@ -152,40 +151,38 @@ website:
         - section: "Procedimentos"
           href: pages/procedimentos/index.qmd
           contents:
-          - text: "Analíticos"
+          - text: "Métodos Analíticos"
             href: pages/procedimentos/analiticos/index.qmd
-          - section: "Operacionais"
-            contents:
-              - text: "Operação de equipamentos"
-                href: pages/procedimentos/operacionais/peq/index.qmd
-              - text: "Preparo de soluções"
-                href: pages/procedimentos/operacionais/pps/index.qmd
-              - text: "Disposição de resíduos"
-                href: pages/procedimentos/operacionais/pdr/index.qmd
-          # - section: "Administrativos"
-            # contents:
-              # - section: "Pesquisa"
-                # contents:
-                  # - pages/procedimentos/administrativos/PAP 001.md
-              # - section: "Ensino"
-                # contents: 
-                  # - pages/procedimentos/administrativos/PAE 001.md
-              # - section: "Extensão"
-                # contents:
-                  # - pages/procedimentos/administrativos/PAX 001.md
+          - text: "Operação de equipamentos"
+            href: pages/procedimentos/operacionais/peq/index.qmd
+          - text: "Preparo de soluções"
+            href: pages/procedimentos/operacionais/pps/index.qmd
+          - text: "Disposição de resíduos"
+            href: pages/procedimentos/operacionais/pdr/index.qmd
+        # - section: "Administrativos"
+          # contents:
+            # - section: "Pesquisa"
+              # contents:
+                # - pages/procedimentos/administrativos/PAP 001.md
+            # - section: "Ensino"
+              # contents: 
+                # - pages/procedimentos/administrativos/PAE 001.md
+            # - section: "Extensão"
+              # contents:
+                # - pages/procedimentos/administrativos/PAX 001.md
 
-    # - id: atividades
-      # title: "Atividades"
-      # contents:
-        # - section: pages/atividades/index.qmd
-          # contents: 
-            # - text: "Ensino"
-              # href: pages/atividades/listing-filters.qmd
-            # - text: "Pesquisa"
-              # href: pages/atividades/listing-journals.qmd
-            # - text: "Extensão"
-              # href: pages/atividades/listing-formats.qmd
-            # - text: "Gestão"
+  # - id: atividades
+    # title: "Atividades"
+    # contents:
+      # - section: pages/atividades/index.qmd
+        # contents: 
+          # - text: "Ensino"
+            # href: pages/atividades/listing-filters.qmd
+          # - text: "Pesquisa"
+            # href: pages/atividades/listing-journals.qmd
+          # - text: "Extensão"
+            # href: pages/atividades/listing-formats.qmd
+          # - text: "Gestão"
       
 bibliography: pages/publicações/bibliografia-lanal.json
 
@@ -201,7 +198,7 @@ format:
     grid:
       sidebar-width: 250px
       body-width: 900px
-      margin-width: 300px
+      margin-width: 350px
 
 
 filters:

@@ -8,14 +8,16 @@ date-format: DD/MM/YYYY
 listing:
     contents:
         - "*.md"
-    type: table
-    fields: [title, marca, modelo, cidade, pais]
+    type: default
+    fields: [title, categories, procedimento, image]
+    filter-ui: true
+    sort-ui: true
+    sort: title
     field-display-names:
         title: "Equipamento"
-        marca: "Marca"
-        modelo: "Modelo"
-        cidade: "Cidade"
-        pais: "País"
-    sort: title
+        procedimento: "Procedimento"
+        image: "Foto"
     categories: true
+    image-placeholder: fotos/lanal-blog-v2.png
+    image-align: left
 ---
