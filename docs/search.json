@@ -4,7 +4,12 @@
     "href": "pages/seguranca/mapa de riscos/index.html",
     "title": "Mapa de riscos do LANAL/UFG",
     "section": "",
-    "text": "Mapa de riscos do LANAL/UFG"
+    "text": "Mapa de riscos do LANAL/UFG",
+    "crumbs": [
+      "Segurança",
+      "Segurança no LANAL/UFG",
+      "Mapa de riscos"
+    ]
   },
   {
     "objectID": "pages/seguranca/fds/modelo.html",
@@ -823,14 +828,22 @@
     "href": "pages/procedimentos/operacionais/pps/index.html",
     "title": "Procedimentos de Preparo de Soluções",
     "section": "",
-    "text": "Ordenar por\n       Pré-selecionado\n         \n          Solução\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nAcetato de chumbo 5%\n\n\n\n\n\n\n\n\n\n\nAcetato de zinco 30%\n\n\n\n\n\n\n\n\n\n\nAlaranjado de Metila\n\n\n\n\n\n\n\n\n\n\nAmido 1%\n\n\n\n\n\n\n\n\n\n\nBicarbonato de sódio 5%\n\n\n\n\n\n\n\n\n\n\nCloreto de ferro 1%\n\n\n\n\n\n\n\n\n\n\nCloreto de sódio 10%\n\n\n\n\n\n\n\n\n\n\nCloridrato de alfa-Naftilamina\n\n\n\n\n\n\n\n\n\n\nCromato de potássio 5%\n\n\n\n\n\n\n\n\n\n\nEDTA 0,01 M padronizada\n\n\n\n\n\n\n\n\n\n\nFenolftaleína 1%\n\n\n\n\n\n\n\n\n\n\nFerrocianeto de potássio 15%\n\n\n\n\n\n\n\n\n\n\nHidróxido de sódio 0,01 N padronizada\n\n\n\n\n\n\n\n\n\n\nHidróxido de sódio 0,1 N padronizada\n\n\n\n\n\n\n\n\n\n\nHidróxido de sódio 50 %\n\n\n\n\n\n\n\n\n\n\nIndicador de Andersen\n\n\n\n\n\n\n\n\n\n\nIodato de potássio 0,002 M\n\n\n\n\n\n\n\n\n\n\nIodato de potássio 0,02 M\n\n\n\n\n\n\n\n\n\n\nIodeto de potássio 10%\n\n\n\n\n\n\n\n\n\n\nIodeto de potássio saturada\n\n\n\n\n\n\n\n\n\n\nLugol\n\n\n\n\n\n\n\n\n\n\nNegro de Eriocromo T\n\n\n\n\n\n\n\n\n\n\nNitrato de prata 0,1 N\n\n\n\n\n\n\n\n\n\n\nPadrão de cálcio\n\n\n\n\n\n\n\n\n\n\nReagente de Éber\n\n\n\n\n\n\n\n\n\n\nResorcinol 0,5%\n\n\n\n\n\n\n\n\n\n\nSulfato de sódio 1,5%\n\n\n\n\n\n\n\n\n\n\nSulfato de zinco 30%\n\n\n\n\n\n\n\n\n\n\nTiossulfato de sódio 0,01 N\n\n\n\n\n\n\n\n\n\n\nTiossulfato de sódio 0,1 N\n\n\n\n\n\n\n\n\n\n\nVerde de Malaquita 0,02%\n\n\n\n\n\n\n\n\n\n\nVermelho de metila 0,2%\n\n\n\n\n\n\n\n\n\n\nÁcido acético/clorofórmio 3:2\n\n\n\n\n\n\n\n\n\n\nÁcido bórico 2%\n\n\n\n\n\n\n\n\n\n\nÁcido clorídrico 0,02 N Padronizada\n\n\n\n\n\n\n\n\n\n\nÁcido clorídrico 0,2 N Padronizada\n\n\n\n\n\n\n\n\n\n\nÁcido sulfanílico\n\n\n\n\n\n\n\n\n\n\nÁcido sulfúrico 0,02 N padronizada\n\n\n\n\n\n\n\n\n\n\nÁcido sulfúrico 1 mol/L\n\n\n\n\n\n\n\n\n\n\nÁcido sulfúrico 20%\n\n\n\n\n\n\n\n\n\n\nÁcido sulfúrico 50% (1+1)\n\n\n\n\n\n\n\n\n\n\nÁcido tiobarbitúrico 0,5 mL\n\n\n\n\n\n\n\n\n\n\nÁcido tânico 0,5%\n\n\n\n\n\n\n\n\n\n\nÁlcool ETÍLICO 68%\n\n\n\n\n\n\n\n\n\n\nÉter Álcool 2:1\n\n\n\n\n\n\n\nNenhum item correspondente"
+    "text": "Ordenar por\n       Padrão\n         \n          Solução\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nAcetato de chumbo 5%\n\n\n\n\n\n\n\n\n\n\nAcetato de zinco 30%\n\n\n\n\n\n\n\n\n\n\nAlaranjado de Metila\n\n\n\n\n\n\n\n\n\n\nAmido 1%\n\n\n\n\n\n\n\n\n\n\nBicarbonato de sódio 5%\n\n\n\n\n\n\n\n\n\n\nCloreto de ferro 1%\n\n\n\n\n\n\n\n\n\n\nCloreto de sódio 10%\n\n\n\n\n\n\n\n\n\n\nCloridrato de alfa-Naftilamina\n\n\n\n\n\n\n\n\n\n\nCromato de potássio 5%\n\n\n\n\n\n\n\n\n\n\nEDTA 0,01 M padronizada\n\n\n\n\n\n\n\n\n\n\nFenolftaleína 1%\n\n\n\n\n\n\n\n\n\n\nFerrocianeto de potássio 15%\n\n\n\n\n\n\n\n\n\n\nHidróxido de sódio 0,01 N padronizada\n\n\n\n\n\n\n\n\n\n\nHidróxido de sódio 0,1 N padronizada\n\n\n\n\n\n\n\n\n\n\nHidróxido de sódio 50 %\n\n\n\n\n\n\n\n\n\n\nIndicador de Andersen\n\n\n\n\n\n\n\n\n\n\nIodato de potássio 0,002 M\n\n\n\n\n\n\n\n\n\n\nIodato de potássio 0,02 M\n\n\n\n\n\n\n\n\n\n\nIodeto de potássio 10%\n\n\n\n\n\n\n\n\n\n\nIodeto de potássio saturada\n\n\n\n\n\n\n\n\n\n\nLugol\n\n\n\n\n\n\n\n\n\n\nNegro de Eriocromo T\n\n\n\n\n\n\n\n\n\n\nNitrato de prata 0,1 N\n\n\n\n\n\n\n\n\n\n\nPadrão de cálcio\n\n\n\n\n\n\n\n\n\n\nReagente de Éber\n\n\n\n\n\n\n\n\n\n\nResorcinol 0,5%\n\n\n\n\n\n\n\n\n\n\nSulfato de sódio 1,5%\n\n\n\n\n\n\n\n\n\n\nSulfato de zinco 30%\n\n\n\n\n\n\n\n\n\n\nTiossulfato de sódio 0,01 N\n\n\n\n\n\n\n\n\n\n\nTiossulfato de sódio 0,1 N\n\n\n\n\n\n\n\n\n\n\nVerde de Malaquita 0,02%\n\n\n\n\n\n\n\n\n\n\nVermelho de metila 0,2%\n\n\n\n\n\n\n\n\n\n\nÁcido acético/clorofórmio 3:2\n\n\n\n\n\n\n\n\n\n\nÁcido bórico 2%\n\n\n\n\n\n\n\n\n\n\nÁcido clorídrico 0,02 N Padronizada\n\n\n\n\n\n\n\n\n\n\nÁcido clorídrico 0,2 N Padronizada\n\n\n\n\n\n\n\n\n\n\nÁcido sulfanílico\n\n\n\n\n\n\n\n\n\n\nÁcido sulfúrico 0,02 N padronizada\n\n\n\n\n\n\n\n\n\n\nÁcido sulfúrico 1 mol/L\n\n\n\n\n\n\n\n\n\n\nÁcido sulfúrico 20%\n\n\n\n\n\n\n\n\n\n\nÁcido sulfúrico 50% (1+1)\n\n\n\n\n\n\n\n\n\n\nÁcido tiobarbitúrico 0,5 mL\n\n\n\n\n\n\n\n\n\n\nÁcido tânico 0,5%\n\n\n\n\n\n\n\n\n\n\nÁlcool ETÍLICO 68%\n\n\n\n\n\n\n\n\n\n\nÉter Álcool 2:1\n\n\n\n\n\n\n\nSem itens correspondentes",
+    "crumbs": [
+      "Procedimentos",
+      "Preparo de soluções"
+    ]
   },
   {
     "objectID": "pages/procedimentos/operacionais/peq/index.html",
     "href": "pages/procedimentos/operacionais/peq/index.html",
     "title": "Procedimentos Operacionais dos Equipamentos do LANAL/UFG",
     "section": "",
-    "text": "Ordenar por\n       Pré-selecionado\n         \n          Equipamento\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nAgitador magnético com aquecimento\n\n\nMarca: FANEM, Modelo: 258 - São Paulo/Brasil\n\n\n\n\nAgitação\n\n\nAquecimento\n\n\n \n\n\n\n\nPEQ-001\n\n\n\n\n\n\n  \n\n\n\n\nAgitador magnético com aquecimento\n\n\nMarca: LOGEN, Modelo: LS59\n\n\n\n\nAgitação\n\n\nAquecimento\n\n\n \n\n\n\n\nPEQ-002\n\n\n\n\n\n\n  \n\n\n\n\nAgitador magnético com aquecimento\n\n\nMarca: IKA, Modelo: RT10 - São Paulo/Brasil\n\n\n\n\nAgitação\n\n\nAquecimento\n\n\n \n\n\n\n\nPEQ-003\n\n\n\n\n\n\n  \n\n\n\n\nAgitador mecânico\n\n\nMarca: Fisatom, Modelo: 710 - São Paulo/Brasil\n\n\n\n\nAgitação\n\n\n \n\n\n\n\nPEQ-004\n\n\n\n\n\n\n  \n\n\n\n\nAgitador vórtex\n\n\nMarca: B. Braun Biotech, Modelo: Certomat - Melsungen/Alemanha\n\n\n\n\nAgitação\n\n\n \n\n\n\n\nPEQ-005\n\n\n\n\n\n\n  \n\n\n\n\nBalança Analítica\n\n\nMarca: Scientech, Modelo: SA210 - Boulder/EUA\n\n\n\n\nPesagem\n\n\n \n\n\n\n\nPEQ-008\n\n\n\n\n\n\n  \n\n\n\n\nBalança Analítica Edutec\n\n\nMarca: Edutec - Curitiba/Brasil\n\n\n\n\nPesagem\n\n\n \n\n\n\n\nPEQ-006\n\n\n\n\n\n\n  \n\n\n\n\nBalança analítica\n\n\nMarca: Marte, Modelo: AY-220 - São Paulo/Brasil\n\n\n\n\nPesagem\n\n\n \n\n\n\n\nPEQ-007\n\n\n\n\n\n\n  \n\n\n\n\nBalança analítica\n\n\nMarca: Shimadzu, Modelo: AY220 - Quioto/Japão\n\n\n\n\nPesagem\n\n\n \n\n\n\n\nPEQ-009\n\n\n\n\n\n\n  \n\n\n\n\nBalança comercial\n\n\nMarca: Balmak, Modelo: ELP-30, Santa Bárbara d’Oeste/Brasil\n\n\n\n\nPesagem\n\n\n \n\n\n\n\nPEQ-010\n\n\n\n\n\n\n  \n\n\n\n\nBalança semi analítica\n\n\nMarca: Gehaka, Modelo: BG-440 - São Paulo/Brasil\n\n\n\n\nPesagem\n\n\n \n\n\n\n\nPEQ-011\n\n\n\n\n\n\n  \n\n\n\n\nBanho Maria\n\n\nMarca: Fanem, Modelo: 100 - São Paulo/Brasil\n\n\n\n\nAquecimento\n\n\n \n\n\n\n\nPEQ-012\n\n\n\n\n\n\n  \n\n\n\n\nBanho tipo Dubnoff\n\n\nMarca: Nova Técnica, Modelo: NT-232 - Piracicaba/Brasil\n\n\n\n\nAquecimento\n\n\n \n\n\n\n\nPEQ-013\n\n\n\n\n\n\n  \n\n\n\n\nBanho tipo Dubnoff\n\n\nMarca: Tecnal, Modelo: TE-053 - Piracicaba/Brasil\n\n\n\n\nAquecimento\n\n\n \n\n\n\n\nPEQ-014\n\n\n\n\n\n\n  \n\n\n\n\nBanho ultrassônico\n\n\nMarca: Alt, Modelo: Altsonic Clean - Ribeirão Preto/Brasil\n\n\n\n\nUltrassom\n\n\n \n\n\n\n\nPEQ-015\n\n\n\n\n\n\n  \n\n\n\n\nBanho ultrassônico\n\n\nMarca: Unique, Modelo: USC-2800A - Indaiatuba/Brasil\n\n\n\n\nUltrassom\n\n\n \n\n\n\n\nPEQ-058\n\n\n\n\n\n\n  \n\n\n\n\nBanho ultratermostático\n\n\nMarca: Cienlab - Campinas/Brasil\n\n\n\n\nAquecimento\n\n\nResfriamento\n\n\n \n\n\n\n\nPEQ-016\n\n\n\n\n\n\n  \n\n\n\n\nBateria para extração de lipídeos\n\n\nMarca: Quimis\n\n\n\n\nExtração\n\n\n \n\n\n\n\nPEQ-017\n\n\n\n\n\n\n  \n\n\n\n\nBloco digestor\n\n\nMarca: Tecnal, Modelo: TE-040/25 - Piracicaba/Brasil\n\n\n\n\nDigestão\n\n\n \n\n\n\n\nPEQ-018\n\n\n\n\n\n\n  \n\n\n\n\nBloco digestor\n\n\nMarca: Tecnal, Modelo: TE-040/25 - Piracicaba/Brasil\n\n\n\n\nDigestão\n\n\n \n\n\n\n\nPEQ-019\n\n\n\n\n\n\n  \n\n\n\n\nBomba de vácuo\n\n\nMarca: TECNAL , Modelo: TE-0581 - Piracicaba/Brasil\n\n\n\n\nVácuo\n\n\n \n\n\n\n\nPEQ-020\n\n\n\n\n\n\n  \n\n\n\n\nBomba de vácuo\n\n\nMarca: Fisatom , Modelo: 826T - São Paulo/Brasil\n\n\n\n\nVácuo\n\n\n \n\n\n\n\nPEQ-021\n\n\n\n\n\n\n  \n\n\n\n\nBureta digital\n\n\nMarca: Brand, Modelo: Tittrete - Wertheim/Alemanha\n\n\n\n\nVolumetria\n\n\n \n\n\n\n\nPEQ-022\n\n\n\n\n\n\n  \n\n\n\n\nCapela de exaustão de gases\n\n\nMarca: Oxicamp - Campinas/Brasil\n\n\n\n\nExaustão\n\n\n \n\n\n\n\nPEQ-023\n\n\n\n\n\n\n  \n\n\n\n\nCentrífuga\n\n\nMarca: Sigma, Modelo: 2-3 - Osterode am Harz/Alemanha\n\n\n\n\nCentrifugação\n\n\n \n\n\n\n\nPEQ-025\n\n\n\n\n\n\n  \n\n\n\n\nCentrífuga Refrigerada\n\n\nMarca: MPW, Modelo: 350-R - Varsóvia/Polônia\n\n\n\n\nCentrifugação\n\n\n \n\n\n\n\nPEQ-024\n\n\n\n\n\n\n  \n\n\n\n\nChapa aquecedora\n\n\nMarca: Tecnal, Modelo: TE-018 - Piracicaba/Brasil\n\n\n\n\nAquecimento\n\n\n \n\n\n\n\nPEQ-026\n\n\n\n\n\n\n  \n\n\n\n\nCondutivímetro\n\n\nMarca: Schott, Modelo: LF-1 - Mitterteich/Alemanha\n\n\n\n\nCondutimetria\n\n\n \n\n\n\n\nPEQ-027\n\n\n\n\n\n\n  \n\n\n\n\nDestilador de Nitrogênio\n\n\nMarca: Tecnal, Modelo: TE-036 - Piracicaba/Brasil\n\n\n\n\nDestilação de nitrogênio\n\n\n \n\n\n\n\nPEQ-029\n\n\n\n\n\n\n  \n\n\n\n\nDestilador de Nitrogênio\n\n\nMarca: Tecnal, Modelo: TE-0363 - Piracicaba/Brasil\n\n\n\n\nDestilação de nitrogênio\n\n\n \n\n\n\n\nPEQ-030\n\n\n\n\n\n\n  \n\n\n\n\nDestilador de água\n\n\nMarca: Tecnal, Modelo: TE-0275 - Piracicaba/Brasil\n\n\n\n\nDestilação de água\n\n\n \n\n\n\n\nPEQ-028\n\n\n\n\n\n\n  \n\n\n\n\nDeterminador de umidade por infravermelho\n\n\nMarca: BEL - Monza/Itália\n\n\n\n\nSecagem\n\n\nPesagem\n\n\n \n\n\n\n\nPEQ-031\n\n\n\n\n\n\n  \n\n\n\n\nEspectrofotômetro UV-Visível\n\n\nMarca: Jasco, Modelo: V-630 - Tóquio/Japão\n\n\n\n\nEspectrofotometria\n\n\n \n\n\n\n\nPEQ-032\n\n\n\n\n\n\n  \n\n\n\n\nEstufa a vácuo\n\n\nMarca: Tecnal, Modelo: TE-395 - Piracicaba/Brasil\n\n\n\n\nSecagem\n\n\nVácuo\n\n\n \n\n\n\n\nPEQ-033\n\n\n\n\n\n\n  \n\n\n\n\nEstufa com circulação de ar\n\n\nMarca: Tecnal, Modelo: TE-394/1 - Piracicaba/Brasil\n\n\n\n\nSecagem\n\n\n \n\n\n\n\nPEQ-034\n\n\n\n\n\n\n  \n\n\n\n\nEstufa de secagem e esterilização\n\n\nMarca: FANEM, Modelo: 315-SE - São Paulo/Brasil\n\n\n\n\nSecagem\n\n\n \n\n\n\n\nPEQ-035\n\n\n\n\n\n\n  \n\n\n\n\nEstufa de secagem e esterilização\n\n\nMarca: Tecnal, Modelo: TE 393/1 - São Paulo/Brasil\n\n\n\n\nSecagem\n\n\n \n\n\n\n\nPEQ-036\n\n\n\n\n\n\n  \n\n\n\n\nEvaporador rotativo\n\n\nMarca: Tecnal, Modelo: TE-211 - Piracicaba/Brasil\n\n\n\n\nEvaporação\n\n\n \n\n\n\n\nPEQ-037\n\n\n\n\n\n\n  \n\n\n\n\nExtrator de lipídeos\n\n\nMarca: Foss, Modelo: 2055 Soxhtec - Hillerød/Dinamarca\n\n\n\n\nExtração\n\n\n \n\n\n\n\nPEQ-038\n\n\n\n\n\n\n  \n\n\n\n\nExtrator de lipídeos\n\n\nMarca: Tecnal, Modelo: TE 044-5/50 - Piracicaba/Brasil\n\n\n\n\nExtração\n\n\n \n\n\n\n\nPEQ-039\n\n\n\n\n\n\n  \n\n\n\n\nFogão com duas bocas de baixa pressão\n\n\nMarca: Yanes\n\n\n\n\nCarbonização\n\n\n \n\n\n\n\nPEQ-057\n\n\n\n\n\n\n  \n\n\n\n\nForno Mufla\n\n\nMarca: EDG, Modelo: 10P - São Carlos/Brasil\n\n\n\n\nCinzas\n\n\n \n\n\n\n\nPEQ-041\n\n\n\n\n\n\n  \n\n\n\n\nForno Mufla\n\n\nMarca: Nova Técnica - Piracicaba/Brasil\n\n\n\n\nCinzas\n\n\n \n\n\n\n\nPEQ-042\n\n\n\n\n\n\n  \n\n\n\n\nForno elétrico\n\n\nMarca: Layr, Modelo: Crystal 1.75 Top Class - Brasil\n\n\n\n\nAquecimento\n\n\n \n\n\n\n\nPEQ-040\n\n\n\n\n\n\n  \n\n\n\n\nHomogeneizador de amostras\n\n\nMarca: UFG, Modelo: 2001 - Goiânia/Brasil\n\n\n\n\nHomogeneização\n\n\nAgitação\n\n\n \n\n\n\n\nPEQ-043\n\n\n\n\n\n\n  \n\n\n\n\nManta aquecedora\n\n\nMarca: Fisatom, Modelo: 202 - São Paulo/Brasil\n\n\n\n\nAquecimento\n\n\n \n\n\n\n\nPEQ-044\n\n\n\n\n\n\n  \n\n\n\n\nMedidor de pH\n\n\nMarca: Alpax, Modelo: PA 200 - Diadema/Brasil\n\n\n\n\nMedição de pH\n\n\n \n\n\n\n\nPEQ-045\n\n\n\n\n\n\n  \n\n\n\n\nMedidor de pH\n\n\nMarca: Adwa, Modelo: AD1000 - Szeged/Hungria\n\n\n\n\nMedição de pH\n\n\n \n\n\n\n\nPEQ-046\n\n\n\n\n\n\n  \n\n\n\n\nMedidor de pH\n\n\nMarca: Bel, Modelo: W3B - Ítália\n\n\n\n\nMedição de pH\n\n\n \n\n\n\n\nPEQ-047\n\n\n\n\n\n\n  \n\n\n\n\nMedidor de pH\n\n\nMarca: Hanna, Modelo: HI-8314 - Woonsocket/EUA\n\n\n\n\nMedição de pH\n\n\n \n\n\n\n\nPEQ-048\n\n\n\n\n\n\n  \n\n\n\n\nMicromoinho analítico\n\n\nMarca: IKA, Modelo: A11 Basic - Staufen/Alemanha\n\n\n\n\nMoagem\n\n\n \n\n\n\n\nPEQ-049\n\n\n\n\n\n\n  \n\n\n\n\nPurificador de água\n\n\nMarca: Merck Millipore, Modelo: Direct-Q3 - São Paulo/Brasil\n\n\n\n\nPurificação de água\n\n\n \n\n\n\n\nPEQ-050\n\n\n\n\n\n\n  \n\n\n\n\nRefratômetro de bancada\n\n\nMarca: Quimis, Modelo: Q76780 - Diadema/Brasil\n\n\n\n\nRefratometria\n\n\n \n\n\n\n\nPEQ-051\n\n\n\n\n\n\n  \n\n\n\n\nRefratômetro portátil com escala entre 0-30%\n\n\nMarca: Instrutherm - São Paulo/Brasil\n\n\n\n\nRefratometria\n\n\n \n\n\n\n\nPEQ-052\n\n\n\n\n\n\n  \n\n\n\n\nRefratômetro portátil com escala entre 0-50%\n\n\nMarca: Atago, Modelo: N-3E - Bellevue/EUA\n\n\n\n\nRefratometria\n\n\n \n\n\n\n\nPEQ-053\n\n\n\n\n\n\n  \n\n\n\n\nRefratômetro portátil com escala entre 58-90%\n\n\nMarca: Atago, Modelo: N-50e - Bellevue/EUA\n\n\n\n\nRefratometria\n\n\n \n\n\n\n\nPEQ-054\n\n\n\n\n\n\n  \n\n\n\n\nTermômetro digital portátil\n\n\nMarca: Oregon Scientific, Modelo: AW-268 - Tualatin/EUA\n\n\n\n\nMedição de temperatura\n\n\n \n\n\n\n\nPEQ-055\n\n\n\n\n\n\n  \n\n\n\n\nUltradispersor de amostras\n\n\nMarca: Gehaka, Modelo: DU-15 - São Paulo/Brasil\n\n\n\n\nDispersão\n\n\nExtração\n\n\n \n\n\n\n\nPEQ-056\n\n\n\n\n\n\nNenhum item correspondente"
+    "text": "Ordenar por\n       Padrão\n         \n          Equipamento\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAgitador magnético com aquecimento\n\n\nMarca: FANEM, Modelo: 258 - São Paulo/Brasil\n\n\n\nAgitação\n\n\nAquecimento\n\n\n\n\n\n\nPEQ-001\n\n\n\n\n\n\n\n\n\n\n\n\nAgitador magnético com aquecimento\n\n\nMarca: LOGEN, Modelo: LS59\n\n\n\nAgitação\n\n\nAquecimento\n\n\n\n\n\n\nPEQ-002\n\n\n\n\n\n\n\n\n\n\n\n\nAgitador magnético com aquecimento\n\n\nMarca: IKA, Modelo: RT10 - São Paulo/Brasil\n\n\n\nAgitação\n\n\nAquecimento\n\n\n\n\n\n\nPEQ-003\n\n\n\n\n\n\n\n\n\n\n\n\nAgitador mecânico\n\n\nMarca: Fisatom, Modelo: 710 - São Paulo/Brasil\n\n\n\nAgitação\n\n\n\n\n\n\nPEQ-004\n\n\n\n\n\n\n\n\n\n\n\n\nAgitador vórtex\n\n\nMarca: B. Braun Biotech, Modelo: Certomat - Melsungen/Alemanha\n\n\n\nAgitação\n\n\n\n\n\n\nPEQ-005\n\n\n\n\n\n\n\n\n\n\n\n\nBalança Analítica\n\n\nMarca: Scientech, Modelo: SA210 - Boulder/EUA\n\n\n\nPesagem\n\n\n\n\n\n\nPEQ-008\n\n\n\n\n\n\n\n\n\n\n\n\nBalança Analítica Edutec\n\n\nMarca: Edutec - Curitiba/Brasil\n\n\n\nPesagem\n\n\n\n\n\n\nPEQ-006\n\n\n\n\n\n\n\n\n\n\n\n\nBalança analítica\n\n\nMarca: Marte, Modelo: AY-220 - São Paulo/Brasil\n\n\n\nPesagem\n\n\n\n\n\n\nPEQ-007\n\n\n\n\n\n\n\n\n\n\n\n\nBalança analítica\n\n\nMarca: Shimadzu, Modelo: AY220 - Quioto/Japão\n\n\n\nPesagem\n\n\n\n\n\n\nPEQ-009\n\n\n\n\n\n\n\n\n\n\n\n\nBalança comercial\n\n\nMarca: Balmak, Modelo: ELP-30, Santa Bárbara d’Oeste/Brasil\n\n\n\nPesagem\n\n\n\n\n\n\nPEQ-010\n\n\n\n\n\n\n\n\n\n\n\n\nBalança semi analítica\n\n\nMarca: Gehaka, Modelo: BG-440 - São Paulo/Brasil\n\n\n\nPesagem\n\n\n\n\n\n\nPEQ-011\n\n\n\n\n\n\n\n\n\n\n\n\nBanho Maria\n\n\nMarca: Fanem, Modelo: 100 - São Paulo/Brasil\n\n\n\nAquecimento\n\n\n\n\n\n\nPEQ-012\n\n\n\n\n\n\n\n\n\n\n\n\nBanho tipo Dubnoff\n\n\nMarca: Nova Técnica, Modelo: NT-232 - Piracicaba/Brasil \n\n\n\nAquecimento\n\n\n\n\n\n\nPEQ-013\n\n\n\n\n\n\n\n\n\n\n\n\nBanho tipo Dubnoff\n\n\nMarca: Tecnal, Modelo: TE-053 - Piracicaba/Brasil \n\n\n\nAquecimento\n\n\n\n\n\n\nPEQ-014\n\n\n\n\n\n\n\n\n\n\n\n\nBanho ultrassônico\n\n\nMarca: Alt, Modelo: Altsonic Clean - Ribeirão Preto/Brasil\n\n\n\nUltrassom\n\n\n\n\n\n\nPEQ-015\n\n\n\n\n\n\n\n\n\n\n\n\nBanho ultrassônico\n\n\nMarca: Unique, Modelo: USC-2800A - Indaiatuba/Brasil \n\n\n\nUltrassom\n\n\n\n\n\n\nPEQ-058\n\n\n\n\n\n\n\n\n\n\n\n\nBanho ultratermostático\n\n\nMarca: Cienlab - Campinas/Brasil \n\n\n\nAquecimento\n\n\nResfriamento\n\n\n\n\n\n\nPEQ-016\n\n\n\n\n\n\n\n\n\n\n\n\nBateria para extração de lipídeos\n\n\nMarca: Quimis\n\n\n\nExtração\n\n\n\n\n\n\nPEQ-017\n\n\n\n\n\n\n\n\n\n\n\n\nBloco digestor\n\n\nMarca: Tecnal, Modelo: TE-040/25 - Piracicaba/Brasil\n\n\n\nDigestão\n\n\n\n\n\n\nPEQ-018\n\n\n\n\n\n\n\n\n\n\n\n\nBloco digestor\n\n\nMarca: Tecnal, Modelo: TE-040/25 - Piracicaba/Brasil\n\n\n\nDigestão\n\n\n\n\n\n\nPEQ-019\n\n\n\n\n\n\n\n\n\n\n\n\nBomba de vácuo\n\n\nMarca: TECNAL , Modelo: TE-0581 - Piracicaba/Brasil\n\n\n\nVácuo\n\n\n\n\n\n\nPEQ-020\n\n\n\n\n\n\n\n\n\n\n\n\nBomba de vácuo\n\n\nMarca: Fisatom , Modelo: 826T - São Paulo/Brasil\n\n\n\nVácuo\n\n\n\n\n\n\nPEQ-021\n\n\n\n\n\n\n\n\n\n\n\n\nBureta digital\n\n\nMarca: Brand, Modelo: Tittrete - Wertheim/Alemanha\n\n\n\nVolumetria\n\n\n\n\n\n\nPEQ-022\n\n\n\n\n\n\n\n\n\n\n\n\nCapela de exaustão de gases\n\n\nMarca: Oxicamp - Campinas/Brasil \n\n\n\nExaustão\n\n\n\n\n\n\nPEQ-023\n\n\n\n\n\n\n\n\n\n\n\n\nCentrífuga\n\n\nMarca: Sigma, Modelo: 2-3 - Osterode am Harz/Alemanha\n\n\n\nCentrifugação\n\n\n\n\n\n\nPEQ-025\n\n\n\n\n\n\n\n\n\n\n\n\nCentrífuga Refrigerada\n\n\nMarca: MPW, Modelo: 350-R - Varsóvia/Polônia\n\n\n\nCentrifugação\n\n\n\n\n\n\nPEQ-024\n\n\n\n\n\n\n\n\n\n\n\n\nChapa aquecedora\n\n\nMarca: Tecnal, Modelo: TE-018 - Piracicaba/Brasil\n\n\n\nAquecimento\n\n\n\n\n\n\nPEQ-026\n\n\n\n\n\n\n\n\n\n\n\n\nCondutivímetro\n\n\nMarca: Schott, Modelo: LF-1 - Mitterteich/Alemanha \n\n\n\nCondutimetria\n\n\n\n\n\n\nPEQ-027\n\n\n\n\n\n\n\n\n\n\n\n\nDestilador de Nitrogênio\n\n\nMarca: Tecnal, Modelo: TE-036 - Piracicaba/Brasil \n\n\n\nDestilação de nitrogênio\n\n\n\n\n\n\nPEQ-029\n\n\n\n\n\n\n\n\n\n\n\n\nDestilador de Nitrogênio\n\n\nMarca: Tecnal, Modelo: TE-0363 - Piracicaba/Brasil\n\n\n\nDestilação de nitrogênio\n\n\n\n\n\n\nPEQ-030\n\n\n\n\n\n\n\n\n\n\n\n\nDestilador de água\n\n\nMarca: Tecnal, Modelo: TE-0275 - Piracicaba/Brasil \n\n\n\nDestilação de água\n\n\n\n\n\n\nPEQ-028\n\n\n\n\n\n\n\n\n\n\n\n\nDeterminador de umidade por infravermelho\n\n\nMarca: BEL - Monza/Itália \n\n\n\nSecagem\n\n\nPesagem\n\n\n\n\n\n\nPEQ-031\n\n\n\n\n\n\n\n\n\n\n\n\nEspectrofotômetro UV-Visível\n\n\nMarca: Jasco, Modelo: V-630 - Tóquio/Japão\n\n\n\nEspectrofotometria\n\n\n\n\n\n\nPEQ-032\n\n\n\n\n\n\n\n\n\n\n\n\nEstufa a vácuo\n\n\nMarca: Tecnal, Modelo: TE-395 - Piracicaba/Brasil \n\n\n\nSecagem\n\n\nVácuo\n\n\n\n\n\n\nPEQ-033\n\n\n\n\n\n\n\n\n\n\n\n\nEstufa com circulação de ar\n\n\nMarca: Tecnal, Modelo: TE-394/1 - Piracicaba/Brasil\n\n\n\nSecagem\n\n\n\n\n\n\nPEQ-034\n\n\n\n\n\n\n\n\n\n\n\n\nEstufa de secagem e esterilização\n\n\nMarca: FANEM, Modelo: 315-SE - São Paulo/Brasil \n\n\n\nSecagem\n\n\n\n\n\n\nPEQ-035\n\n\n\n\n\n\n\n\n\n\n\n\nEstufa de secagem e esterilização\n\n\nMarca: Tecnal, Modelo: TE 393/1 - São Paulo/Brasil\n\n\n\nSecagem\n\n\n\n\n\n\nPEQ-036\n\n\n\n\n\n\n\n\n\n\n\n\nEvaporador rotativo\n\n\nMarca: Tecnal, Modelo: TE-211 - Piracicaba/Brasil \n\n\n\nEvaporação\n\n\n\n\n\n\nPEQ-037\n\n\n\n\n\n\n\n\n\n\n\n\nExtrator de lipídeos\n\n\nMarca: Foss, Modelo: 2055 Soxhtec - Hillerød/Dinamarca\n\n\n\nExtração\n\n\n\n\n\n\nPEQ-038\n\n\n\n\n\n\n\n\n\n\n\n\nExtrator de lipídeos\n\n\nMarca: Tecnal, Modelo: TE 044-5/50 - Piracicaba/Brasil \n\n\n\nExtração\n\n\n\n\n\n\nPEQ-039\n\n\n\n\n\n\n\n\n\n\n\n\nFogão com duas bocas de baixa pressão\n\n\nMarca: Yanes\n\n\n\nCarbonização\n\n\n\n\n\n\nPEQ-057\n\n\n\n\n\n\n\n\n\n\n\n\nForno Mufla\n\n\nMarca: EDG, Modelo: 10P - São Carlos/Brasil\n\n\n\nCinzas\n\n\n\n\n\n\nPEQ-041\n\n\n\n\n\n\n\n\n\n\n\n\nForno Mufla\n\n\nMarca: Nova Técnica - Piracicaba/Brasil \n\n\n\nCinzas\n\n\n\n\n\n\nPEQ-042\n\n\n\n\n\n\n\n\n\n\n\n\nForno elétrico\n\n\nMarca: Layr, Modelo: Crystal 1.75 Top Class - Brasil\n\n\n\nAquecimento\n\n\n\n\n\n\nPEQ-040\n\n\n\n\n\n\n\n\n\n\n\n\nHomogeneizador de amostras\n\n\nMarca: UFG, Modelo: 2001 - Goiânia/Brasil \n\n\n\nHomogeneização\n\n\nAgitação\n\n\n\n\n\n\nPEQ-043\n\n\n\n\n\n\n\n\n\n\n\n\nManta aquecedora\n\n\nMarca: Fisatom, Modelo: 202 - São Paulo/Brasil\n\n\n\nAquecimento\n\n\n\n\n\n\nPEQ-044\n\n\n\n\n\n\n\n\n\n\n\n\nMedidor de pH\n\n\nMarca: Alpax, Modelo: PA 200 - Diadema/Brasil\n\n\n\nMedição de pH\n\n\n\n\n\n\nPEQ-045\n\n\n\n\n\n\n\n\n\n\n\n\nMedidor de pH\n\n\nMarca: Adwa, Modelo: AD1000 - Szeged/Hungria\n\n\n\nMedição de pH\n\n\n\n\n\n\nPEQ-046\n\n\n\n\n\n\n\n\n\n\n\n\nMedidor de pH\n\n\nMarca: Bel, Modelo: W3B - Ítália\n\n\n\nMedição de pH\n\n\n\n\n\n\nPEQ-047\n\n\n\n\n\n\n\n\n\n\n\n\nMedidor de pH\n\n\nMarca: Hanna, Modelo: HI-8314 - Woonsocket/EUA \n\n\n\nMedição de pH\n\n\n\n\n\n\nPEQ-048\n\n\n\n\n\n\n\n\n\n\n\n\nMicromoinho analítico\n\n\nMarca: IKA, Modelo: A11 Basic - Staufen/Alemanha\n\n\n\nMoagem\n\n\n\n\n\n\nPEQ-049\n\n\n\n\n\n\n\n\n\n\n\n\nPurificador de água\n\n\nMarca: Merck Millipore, Modelo: Direct-Q3 - São Paulo/Brasil \n\n\n\nPurificação de água\n\n\n\n\n\n\nPEQ-050\n\n\n\n\n\n\n\n\n\n\n\n\nRefratômetro de bancada\n\n\nMarca: Quimis, Modelo: Q76780 - Diadema/Brasil \n\n\n\nRefratometria\n\n\n\n\n\n\nPEQ-051\n\n\n\n\n\n\n\n\n\n\n\n\nRefratômetro portátil com escala entre 0-30%\n\n\nMarca: Instrutherm - São Paulo/Brasil\n\n\n\nRefratometria\n\n\n\n\n\n\nPEQ-052\n\n\n\n\n\n\n\n\n\n\n\n\nRefratômetro portátil com escala entre 0-50%\n\n\nMarca: Atago, Modelo: N-3E - Bellevue/EUA \n\n\n\nRefratometria\n\n\n\n\n\n\nPEQ-053\n\n\n\n\n\n\n\n\n\n\n\n\nRefratômetro portátil com escala entre 58-90%\n\n\nMarca: Atago, Modelo: N-50e - Bellevue/EUA\n\n\n\nRefratometria\n\n\n\n\n\n\nPEQ-054\n\n\n\n\n\n\n\n\n\n\n\n\nTermômetro digital portátil\n\n\nMarca: Oregon Scientific, Modelo: AW-268 - Tualatin/EUA\n\n\n\nMedição de temperatura\n\n\n\n\n\n\nPEQ-055\n\n\n\n\n\n\n\n\n\n\n\n\nUltradispersor de amostras\n\n\nMarca: Gehaka, Modelo: DU-15 - São Paulo/Brasil\n\n\n\nDispersão\n\n\nExtração\n\n\n\n\n\n\nPEQ-056\n\n\n\n\n\n\nSem itens correspondentes",
+    "crumbs": [
+      "Procedimentos",
+      "Operação de equipamentos"
+    ]
   },
   {
     "objectID": "pages/procedimentos/analiticos/pan010.html#procedimento",
@@ -872,14 +885,22 @@
     "href": "pages/procedimentos/analiticos/index.html",
     "title": "Procedimentos analíticos do LANAL/UFG",
     "section": "",
-    "text": "Ordenar por\n       Pré-selecionado\n         \n          Data - Mais velho\n        \n         \n          Data - O mais novo\n        \n         \n          Procedimento\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nProcedimento\n\n\nVersão\n\n\nData\n\n\n\n\n\n\nCapacidade antioxidante por ABTS\n\n\n1\n\n\n24/07/2023\n\n\n\n\nCapacidade antioxidante por DPPH\n\n\n1\n\n\n24/07/2023\n\n\n\n\nCapacidade antioxidante por FRAP\n\n\n1\n\n\n24/07/2023\n\n\n\n\nCarotenoides totais\n\n\n1\n\n\n24/07/2023\n\n\n\n\nCompostos fenólicos totais\n\n\n1\n\n\n24/07/2023\n\n\n\n\nDeterminação de umidade a 105 ºC\n\n\n1\n\n\n25/07/2023\n\n\n\n\nFlavonoides totais\n\n\n1\n\n\n24/07/2023\n\n\n\n\nLipídeos por Bligh e Dyer\n\n\n1\n\n\n24/07/2023\n\n\n\n\nLipídeos por Soxhlet\n\n\n1\n\n\n24/07/2023\n\n\n\n\nProteínas totais\n\n\n1\n\n\n24/07/2023\n\n\n\n\nResíduo mineral fixo (Cinzas)\n\n\n1\n\n\n24/07/2023\n\n\n\n\n\n\nNenhum item correspondente"
+    "text": "Ordenar por\n       Padrão\n         \n          Data - Mais antigo\n        \n         \n          Data - O mais novo\n        \n         \n          Procedimento\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nProcedimento\n\n\nVersão\n\n\nData\n\n\n\n\n\n\nCapacidade antioxidante por ABTS\n\n\n1\n\n\n19/12/2024\n\n\n\n\nCapacidade antioxidante por DPPH\n\n\n1\n\n\n19/12/2024\n\n\n\n\nCapacidade antioxidante por FRAP\n\n\n1\n\n\n19/12/2024\n\n\n\n\nCarotenoides totais\n\n\n1\n\n\n19/12/2024\n\n\n\n\nCompostos fenólicos totais\n\n\n1\n\n\n19/12/2024\n\n\n\n\nDeterminação de umidade a 105 ºC\n\n\n1\n\n\n19/12/2024\n\n\n\n\nFlavonoides totais\n\n\n1\n\n\n19/12/2024\n\n\n\n\nLipídeos por Bligh e Dyer\n\n\n1\n\n\n19/12/2024\n\n\n\n\nLipídeos por Soxhlet\n\n\n1\n\n\n19/12/2024\n\n\n\n\nProteínas totais\n\n\n1\n\n\n19/12/2024\n\n\n\n\nResíduo mineral fixo (Cinzas)\n\n\n1\n\n\n19/12/2024\n\n\n\n\n\nSem itens correspondentes",
+    "crumbs": [
+      "Procedimentos",
+      "Métodos Analíticos"
+    ]
   },
   {
     "objectID": "pages/cadastro/atualiza.html",
     "href": "pages/cadastro/atualiza.html",
     "title": "Atualização de cadastro",
     "section": "",
-    "text": "Carregando…"
+    "text": "Carregando…",
+    "crumbs": [
+      "Cadastro",
+      "Atualização de cadastro"
+    ]
   },
   {
     "objectID": "pages/blog/posts/2020-08-20-equipe-responsavel/index.html",
@@ -893,77 +914,123 @@
     "href": "pages/apresentação/normas/index.html",
     "title": "Normas de uso do LANAL/UFG",
     "section": "",
-    "text": "Coordenadora: Profa. Dra. Tânia Aparecida Pinto de Castro Ferreira.\nVice coordenador: Prof. Dr. Rodrigo Barbosa Monteiro Cavalcante.\nTécnico: MSc. Tiago Dias (Químico)."
+    "text": "Coordenadora: Profa. Dra. Tânia Aparecida Pinto de Castro Ferreira.\nVice coordenador: Prof. Dr. Rodrigo Barbosa Monteiro Cavalcante.\nTécnico: MSc. Tiago Dias (Químico).",
+    "crumbs": [
+      "LANAL/UFG",
+      "Normas"
+    ]
   },
   {
     "objectID": "pages/apresentação/normas/index.html#responsáveis-pelo-laboratório",
     "href": "pages/apresentação/normas/index.html#responsáveis-pelo-laboratório",
     "title": "Normas de uso do LANAL/UFG",
     "section": "",
-    "text": "Coordenadora: Profa. Dra. Tânia Aparecida Pinto de Castro Ferreira.\nVice coordenador: Prof. Dr. Rodrigo Barbosa Monteiro Cavalcante.\nTécnico: MSc. Tiago Dias (Químico)."
+    "text": "Coordenadora: Profa. Dra. Tânia Aparecida Pinto de Castro Ferreira.\nVice coordenador: Prof. Dr. Rodrigo Barbosa Monteiro Cavalcante.\nTécnico: MSc. Tiago Dias (Químico).",
+    "crumbs": [
+      "LANAL/UFG",
+      "Normas"
+    ]
   },
   {
     "objectID": "pages/apresentação/normas/index.html#dias-e-horário-de-funcionamento",
     "href": "pages/apresentação/normas/index.html#dias-e-horário-de-funcionamento",
     "title": "Normas de uso do LANAL/UFG",
     "section": "Dias e horário de funcionamento",
-    "text": "Dias e horário de funcionamento\nSegunda a sexta-feira de 08:00 as 18:00h1"
+    "text": "Dias e horário de funcionamento\nSegunda a sexta-feira de 08:00 as 18:00h1",
+    "crumbs": [
+      "LANAL/UFG",
+      "Normas"
+    ]
   },
   {
     "objectID": "pages/apresentação/normas/index.html#condições-para-utilização-do-laboratório",
     "href": "pages/apresentação/normas/index.html#condições-para-utilização-do-laboratório",
     "title": "Normas de uso do LANAL/UFG",
     "section": "Condições para utilização do laboratório",
-    "text": "Condições para utilização do laboratório\n\nSer aluno ou servidor da UFG;\nConhecer e concordar com as normas de segurança e as normas de utilização do laboratório;\nRealizar o cadastro na web página do laboratório;\nEntregar ao coordenador ou vice coordenador do laboratório o formulário de cadastro, bem como, o termo de responsabilidade do orientador, devidamente assinados pelo aluno / professor orientador / coordenador do laboratório;\nPreencher o formulário de reserva na web página do laboratório;\nCadastrar uma senha de acesso ao laboratório. A senha permanecerá ativa apenas na duração prevista pelo aluno para a realização de seus experimentos, conforme informado no formulário de cadastro."
+    "text": "Condições para utilização do laboratório\n\nSer aluno ou servidor da UFG;\nConhecer e concordar com as normas de segurança e as normas de utilização do laboratório;\nRealizar o cadastro na web página do laboratório;\nEntregar ao coordenador ou vice coordenador do laboratório o formulário de cadastro, bem como, o termo de responsabilidade do orientador, devidamente assinados pelo aluno / professor orientador / coordenador do laboratório;\nPreencher o formulário de reserva na web página do laboratório;\nCadastrar uma senha de acesso ao laboratório. A senha permanecerá ativa apenas na duração prevista pelo aluno para a realização de seus experimentos, conforme informado no formulário de cadastro.",
+    "crumbs": [
+      "LANAL/UFG",
+      "Normas"
+    ]
   },
   {
     "objectID": "pages/apresentação/normas/index.html#acesso",
     "href": "pages/apresentação/normas/index.html#acesso",
     "title": "Normas de uso do LANAL/UFG",
     "section": "Acesso",
-    "text": "Acesso\n\nO acesso ao laboratório é permitido apenas aos (às) alunos (as) cadastrados (as), aos (às) professores (as) que realizam atividades no local, à direção / coordenação, aos (às) técnicos (as) da FANUT e outros servidores (as) da UFG ou de empresas terceirizadas pela universidade que se dirigirem ao local para tratar de assuntos de interesse do laboratório. Pessoas externas somente poderão entrar no laboratório mediante autorização / convite dos responsáveis pelo LANAL.\nPara utilizar o laboratório, é necessário fazer agendamento prévio (reserva) com antecedência mínima de 24 horas. A reserva é exclusiva dos usuários cadastrados. As solicitações de reserva são realizadas em um formulário online disponível na página do laboratório na internet.\nAs reservas são automaticamente inseridas na agenda do laboratório. O cancelamento da reserva, por motivos diversos, deve ser realizado com antecedência mínima de 1 hora ao horário agendado através de comunicado por e-mail, pessoalmente ou por telefone. O não cumprimento de uma reserva que tenha sido confirmada implicará no cancelamento da próxima.\nA senha possibilita o acesso ao laboratório somente nos horários previamente reservados. O laboratório permanecerá trancado nos finais de semana e nos horários em que não houver reserva para uso do local."
+    "text": "Acesso\n\nO acesso ao laboratório é permitido apenas aos (às) alunos (as) cadastrados (as), aos (às) professores (as) que realizam atividades no local, à direção / coordenação, aos (às) técnicos (as) da FANUT e outros servidores (as) da UFG ou de empresas terceirizadas pela universidade que se dirigirem ao local para tratar de assuntos de interesse do laboratório. Pessoas externas somente poderão entrar no laboratório mediante autorização / convite dos responsáveis pelo LANAL.\nPara utilizar o laboratório, é necessário fazer agendamento prévio (reserva) com antecedência mínima de 24 horas. A reserva é exclusiva dos usuários cadastrados. As solicitações de reserva são realizadas em um formulário online disponível na página do laboratório na internet.\nAs reservas são automaticamente inseridas na agenda do laboratório. O cancelamento da reserva, por motivos diversos, deve ser realizado com antecedência mínima de 1 hora ao horário agendado através de comunicado por e-mail, pessoalmente ou por telefone. O não cumprimento de uma reserva que tenha sido confirmada implicará no cancelamento da próxima.\nA senha possibilita o acesso ao laboratório somente nos horários previamente reservados. O laboratório permanecerá trancado nos finais de semana e nos horários em que não houver reserva para uso do local.",
+    "crumbs": [
+      "LANAL/UFG",
+      "Normas"
+    ]
   },
   {
     "objectID": "pages/apresentação/normas/index.html#atividades-no-laboratório",
     "href": "pages/apresentação/normas/index.html#atividades-no-laboratório",
     "title": "Normas de uso do LANAL/UFG",
     "section": "Atividades no laboratório",
-    "text": "Atividades no laboratório\n\nAlunos de graduação / iniciação científica que não tenham domínio da metodologia e/ou rotina de laboratório devem estar acompanhados dos seus respectivos professores / orientadores “solidários” ou de alunos de pós-graduação devidamente treinados e com domínio das metodologias e da rotina do laboratório.\nÉ de responsabilidade do usuário lavar toda vidraria utilizada (o último enxague deve ser com água destilada) e guardá-la depois de seca (deve-se guardar a vidraria em até 3 dias após as análises). Caso haja necessidade, os usuários podem ser convocados pelos responsáveis do laboratório para lavar / guardar vidrarias.\nDurante a permanência no laboratório é proibido receber pessoas não autorizadas no local. Caso o (a) aluno (a) receba visitas no local, as mesmas deverão ser atendidas fora do laboratório.\nÉ proibido o consumo de alimentos no laboratório. O consumo de água deverá ser feito em garrafas apropriadas que deverão ser armazenadas junto aos pertences do usuário em prateleira apropriada. As garrafas não poderão ficar nas bancadas, durante ou após as atividades.\nEvitar o uso de jogos eletrônicos, aparelhos de som ou outras fontes de barulho no laboratório.\nO usuário será o responsável pelo bom acondicionamento e identificação das amostras que serão analisadas no laboratório. Após o fim da data de término das análises, as amostras devem ser retiradas em até seis meses da data de defesa do trabalho, as que não forem retiradas, serão descartadas.\nApós utilizar o laboratório, o (a) aluno (a) deverá deixar o local em perfeitas condições de uso. Não é permitido deixar materiais sobre as bancadas, reagentes e soluções fora das prateleiras, equipamentos ligados, vidrarias, bancadas, balanças ou outros equipamentos sujos.\nA última pessoa a sair do laboratório no dia é responsável por verificar as condições de organização e segurança do local. As janelas deverão ser fechadas, os aparelhos de ar condicionado e outros equipamentos desligados (exceto geladeiras e freezers), as balanças devem ser deixadas em “Stand By”, as luzes devem ser apagadas e a porta trancada.\nO (a) aluno (a) deverá fazer a compra e reposição de vidrarias / equipamentos que tenha quebrado / danificado durante suas atividades no local.\nO não cumprimento de qualquer um desses itens acarretará em uma advertência escrita. A soma de 3 advertências, resultará na impossibilidade do uso do laboratório pelo usuário.\nÉ exigido para alunos / servidores de outras unidades acadêmicas a co-orientação / participação / cooperação no trabalho de um professor da Faculdade de Nutrição (FANUT/UFG). O mesmo se responsabilizará pelo aluno / servidor nas dependências do laboratório (Responsabilidade solidária)."
+    "text": "Atividades no laboratório\n\nAlunos de graduação / iniciação científica que não tenham domínio da metodologia e/ou rotina de laboratório devem estar acompanhados dos seus respectivos professores / orientadores “solidários” ou de alunos de pós-graduação devidamente treinados e com domínio das metodologias e da rotina do laboratório.\nÉ de responsabilidade do usuário lavar toda vidraria utilizada (o último enxague deve ser com água destilada) e guardá-la depois de seca (deve-se guardar a vidraria em até 3 dias após as análises). Caso haja necessidade, os usuários podem ser convocados pelos responsáveis do laboratório para lavar / guardar vidrarias.\nDurante a permanência no laboratório é proibido receber pessoas não autorizadas no local. Caso o (a) aluno (a) receba visitas no local, as mesmas deverão ser atendidas fora do laboratório.\nÉ proibido o consumo de alimentos no laboratório. O consumo de água deverá ser feito em garrafas apropriadas que deverão ser armazenadas junto aos pertences do usuário em prateleira apropriada. As garrafas não poderão ficar nas bancadas, durante ou após as atividades.\nEvitar o uso de jogos eletrônicos, aparelhos de som ou outras fontes de barulho no laboratório.\nO usuário será o responsável pelo bom acondicionamento e identificação das amostras que serão analisadas no laboratório. Após o fim da data de término das análises, as amostras devem ser retiradas em até seis meses da data de defesa do trabalho, as que não forem retiradas, serão descartadas.\nApós utilizar o laboratório, o (a) aluno (a) deverá deixar o local em perfeitas condições de uso. Não é permitido deixar materiais sobre as bancadas, reagentes e soluções fora das prateleiras, equipamentos ligados, vidrarias, bancadas, balanças ou outros equipamentos sujos.\nA última pessoa a sair do laboratório no dia é responsável por verificar as condições de organização e segurança do local. As janelas deverão ser fechadas, os aparelhos de ar condicionado e outros equipamentos desligados (exceto geladeiras e freezers), as balanças devem ser deixadas em “Stand By”, as luzes devem ser apagadas e a porta trancada.\nO (a) aluno (a) deverá fazer a compra e reposição de vidrarias / equipamentos que tenha quebrado / danificado durante suas atividades no local.\nO não cumprimento de qualquer um desses itens acarretará em uma advertência escrita. A soma de 3 advertências, resultará na impossibilidade do uso do laboratório pelo usuário.\nÉ exigido para alunos / servidores de outras unidades acadêmicas a co-orientação / participação / cooperação no trabalho de um professor da Faculdade de Nutrição (FANUT/UFG). O mesmo se responsabilizará pelo aluno / servidor nas dependências do laboratório (Responsabilidade solidária).",
+    "crumbs": [
+      "LANAL/UFG",
+      "Normas"
+    ]
   },
   {
     "objectID": "pages/apresentação/normas/index.html#responsabilidade-solidária",
     "href": "pages/apresentação/normas/index.html#responsabilidade-solidária",
     "title": "Normas de uso do LANAL/UFG",
     "section": "Responsabilidade solidária",
-    "text": "Responsabilidade solidária\n\nCabe ao professor “solidário” da unidade (FANUT/UFG):\nContribuir na orientação do trabalho e com o desenvolvimento / aprimoramento do aluno.\nReposição de vidrarias quebradas ou consertos de equipamentos danificados pelo usuário de sua responsabilidade.\nContribuir para a segurança laboratorial do usuário (manejo e descarte correto dos reagentes, armazenamento de soluções, alertar sobre os riscos e precauções de cada reagente que será utilizado e que estão sendo utilizados no laboratório para evitar o risco cruzado)."
+    "text": "Responsabilidade solidária\n\nCabe ao professor “solidário” da unidade (FANUT/UFG):\nContribuir na orientação do trabalho e com o desenvolvimento / aprimoramento do aluno.\nReposição de vidrarias quebradas ou consertos de equipamentos danificados pelo usuário de sua responsabilidade.\nContribuir para a segurança laboratorial do usuário (manejo e descarte correto dos reagentes, armazenamento de soluções, alertar sobre os riscos e precauções de cada reagente que será utilizado e que estão sendo utilizados no laboratório para evitar o risco cruzado).",
+    "crumbs": [
+      "LANAL/UFG",
+      "Normas"
+    ]
   },
   {
     "objectID": "pages/apresentação/normas/index.html#controle-de-materiais-do-laboratório",
     "href": "pages/apresentação/normas/index.html#controle-de-materiais-do-laboratório",
     "title": "Normas de uso do LANAL/UFG",
     "section": "Controle de materiais do laboratório",
-    "text": "Controle de materiais do laboratório\n\nEntrada\n\nA entrada de reagentes que serão utilizados nas pesquisas só será possível após aprovação da quantidade pelo técnico. Após o fim da data de término das análises, os reagentes / materiais que não forem retirados, serão de propriedade do laboratório.\nCaso haja disponibilidade, o reagente / material pode ser fornecido pelo laboratório, desde que o custo correspondente seja repassado ao mesmo sob a forma de outros reagentes ou materiais que sejam de interesse do laboratório.\nOs reagentes / soluções armazenados no laboratório devem estar devidamente identificados (descrição / concentração / aluno / orientador / data).\nToda a entrada de materiais no laboratório (reagentes, vidrarias, equipamentos, amostras) deverão ser registrados em livros de ata próprios, nos quais devem ser descritas as informações a respeito dos materiais, tais como, nome, marca, modelo, quantidade, validade, finalidade (ensino, pesquisa), responsável.\nAs informações sobre entrada de materiais serão transcritas dos livros atas para um banco de dados informatizado de controle de estoque do laboratório.\nPara fins de monitoramento no banco de dados, cada frasco de reagente será identificado com um número sequencial individual (ID) composto por cinco dígitos no formato “AA.NNN” no qual “AA” indica o ano de entrada do reagente no laboratório, com dois dígitos e “NNN” a ordem de entrada do reagente naquele ano, iniciando em “001” e terminando em “999”. As vidrarias não serão identificadas pelo ID e sim pelo nome e quantidade em um livro ata específico.\n\n\n\nArmazenamento\n\nO armazenamento de qualquer material no laboratório somente poderá ser feito após o registro de entrada no caderno de ata apropriado.\nDeve-se observar no rótulo dos reagentes as condições de armazenamento recomendadas (temperatura, ventilação, etc.). Reagentes armazenados em temperatura ambiente devem ficar nas prateleiras de reagentes do laboratório (ensino ou pesquisa). Não é permitido o armazenamento de reagentes dentro de armários ou gavetas.\nAs vidrarias e acessórios do laboratório serão armazenados nos armários apropriados, identificados com o nome do material. Caso o armário esteja cheio, poderão ser guardados em caixas de papelão em armários destinados para guardar vidrarias em estoque. As vidrarias em estoque serão utilizadas para repor as vidrarias que forem quebradas em uso no laboratório, devendo ser feito o controle de quebra de vidrarias para substituição.\nAmostras de alimentos deverão ser acondicionadas em frascos ou embalagens em local apropriado, com identificação completa da amostra, sem códigos, com nome, responsável e data de armazenamento. Alimentos perecíveis ou que se decompõem não poderão ser guardados em armários, devendo ser armazenados sob refrigeração, em geladeira ou freezer, de acordo com as condições requeridas pelo alimento e o tempo de armazenamento.\nSoluções preparadas deverão ser armazenadas em frascos de vidro ou de plástico limpos. O frasco deverá ser rotulado com o nome da solução, concentração, responsável e data de preparo. Não é permitido o armazenamento permanente de soluções em quaisquer vidrarias (béqueres, Erlenmeyers, balões volumétricos, tubos de ensaio, etc.). As soluções deverão ser acondicionadas em temperatura apropriada de acordo com a estabilidade. O tempo máximo de armazenamento é o de uso da solução. O frasco utilizado para armazenamento deverá ser limpo, podendo ser reutilizado, ou descartado como vidro de laboratório, dependendo do estado de conservação.\nResíduos gerados no laboratório serão acondicionados em recipientes identificados e classificados de acordo com o procedimento de gestão de resíduos do laboratório. Os frascos serão tampados e armazenados no armário de resíduos por curto período, quando deverá ser providenciada, pelo técnico, a sua remoção do laboratório.\nOs equipamentos do laboratório serão dispostos no piso ou nas bancadas, de acordo com o porte e finalidade dos mesmos. Para liberar espaço nas bancadas, equipamentos de pequeno porte poderão ser guardados em armários, quando não estiverem em uso.\n\n\n\nSaída\n\nOs equipamentos do laboratório não estão disponíveis para empréstimo e não podem ser retirados do laboratório para essa finalidade. Pessoas que tenham interesse de utilizar equipamentos do laboratório devem cadastrar-se como usuários e fazer o devido agendamento para uso.\nEquipamentos que apresentarem defeitos serão encaminhados para manutenção no CEMEQ (Centro de Manutenção de Equipamentos da UFG) acompanhados da ordem de serviço previamente cadastrada no sistema de ordens de serviço da UFG e da guia de movimentação de materiais emitida pela coordenação administrativa da FANUT. Uma cópia da guia de movimentação deverá ser entregue ao vigilante em serviço no momento da saída do equipamento. Não é permitida a saída de equipamento para manutenção sem a ordem de serviço e a guia de movimentação. A guia de movimentação e a ordem de serviço deverão ser devolvidas junto com o equipamento após a manutenção.\nCaso o equipamento não possa ser consertado pelo CEMEQ e a empresa de assistência técnica não faça o serviço no laboratório e o equipamento tenha que ser enviado para manutenção fora da UFG, deve-se entrar em contato com a divisão de patrimônio do DMP para solicitar o procedimento de retirada do equipamento para manutenção.\nO consumo de reagentes do laboratório deverá ser registrado no livro de ata de consumo de reagentes, onde se indicará o “ID” do frasco e a data final de uso do reagente.\nAs vidrarias quebradas no laboratório deverão ser registradas no livro de ata de quebra de vidrarias, indicando a data, o nome da vidraria (de acordo com a descrição padrão de materiais do laboratório) e a quantidade.\nNão é permitido deixar alimentos que se decompõem rapidamente nos lixos do laboratório. Os mesmos devem ser removidos imediatamente.\nOs resíduos armazenados no laboratório serão removidos para o armazém de resíduos químicos do campus universitário que se localiza no IPTSP. Antes de sua retirada do laboratório, os frascos devem ser identificados e pesados, e uma relação com nome dos resíduos e peso deve ser elaborada para entrega no IPTSP, conforme o procedimento de gestão de resíduos do laboratório."
+    "text": "Controle de materiais do laboratório\n\nEntrada\n\nA entrada de reagentes que serão utilizados nas pesquisas só será possível após aprovação da quantidade pelo técnico. Após o fim da data de término das análises, os reagentes / materiais que não forem retirados, serão de propriedade do laboratório.\nCaso haja disponibilidade, o reagente / material pode ser fornecido pelo laboratório, desde que o custo correspondente seja repassado ao mesmo sob a forma de outros reagentes ou materiais que sejam de interesse do laboratório.\nOs reagentes / soluções armazenados no laboratório devem estar devidamente identificados (descrição / concentração / aluno / orientador / data).\nToda a entrada de materiais no laboratório (reagentes, vidrarias, equipamentos, amostras) deverão ser registrados em livros de ata próprios, nos quais devem ser descritas as informações a respeito dos materiais, tais como, nome, marca, modelo, quantidade, validade, finalidade (ensino, pesquisa), responsável.\nAs informações sobre entrada de materiais serão transcritas dos livros atas para um banco de dados informatizado de controle de estoque do laboratório.\nPara fins de monitoramento no banco de dados, cada frasco de reagente será identificado com um número sequencial individual (ID) composto por cinco dígitos no formato “AA.NNN” no qual “AA” indica o ano de entrada do reagente no laboratório, com dois dígitos e “NNN” a ordem de entrada do reagente naquele ano, iniciando em “001” e terminando em “999”. As vidrarias não serão identificadas pelo ID e sim pelo nome e quantidade em um livro ata específico.\n\n\n\nArmazenamento\n\nO armazenamento de qualquer material no laboratório somente poderá ser feito após o registro de entrada no caderno de ata apropriado.\nDeve-se observar no rótulo dos reagentes as condições de armazenamento recomendadas (temperatura, ventilação, etc.). Reagentes armazenados em temperatura ambiente devem ficar nas prateleiras de reagentes do laboratório (ensino ou pesquisa). Não é permitido o armazenamento de reagentes dentro de armários ou gavetas.\nAs vidrarias e acessórios do laboratório serão armazenados nos armários apropriados, identificados com o nome do material. Caso o armário esteja cheio, poderão ser guardados em caixas de papelão em armários destinados para guardar vidrarias em estoque. As vidrarias em estoque serão utilizadas para repor as vidrarias que forem quebradas em uso no laboratório, devendo ser feito o controle de quebra de vidrarias para substituição.\nAmostras de alimentos deverão ser acondicionadas em frascos ou embalagens em local apropriado, com identificação completa da amostra, sem códigos, com nome, responsável e data de armazenamento. Alimentos perecíveis ou que se decompõem não poderão ser guardados em armários, devendo ser armazenados sob refrigeração, em geladeira ou freezer, de acordo com as condições requeridas pelo alimento e o tempo de armazenamento.\nSoluções preparadas deverão ser armazenadas em frascos de vidro ou de plástico limpos. O frasco deverá ser rotulado com o nome da solução, concentração, responsável e data de preparo. Não é permitido o armazenamento permanente de soluções em quaisquer vidrarias (béqueres, Erlenmeyers, balões volumétricos, tubos de ensaio, etc.). As soluções deverão ser acondicionadas em temperatura apropriada de acordo com a estabilidade. O tempo máximo de armazenamento é o de uso da solução. O frasco utilizado para armazenamento deverá ser limpo, podendo ser reutilizado, ou descartado como vidro de laboratório, dependendo do estado de conservação.\nResíduos gerados no laboratório serão acondicionados em recipientes identificados e classificados de acordo com o procedimento de gestão de resíduos do laboratório. Os frascos serão tampados e armazenados no armário de resíduos por curto período, quando deverá ser providenciada, pelo técnico, a sua remoção do laboratório.\nOs equipamentos do laboratório serão dispostos no piso ou nas bancadas, de acordo com o porte e finalidade dos mesmos. Para liberar espaço nas bancadas, equipamentos de pequeno porte poderão ser guardados em armários, quando não estiverem em uso.\n\n\n\nSaída\n\nOs equipamentos do laboratório não estão disponíveis para empréstimo e não podem ser retirados do laboratório para essa finalidade. Pessoas que tenham interesse de utilizar equipamentos do laboratório devem cadastrar-se como usuários e fazer o devido agendamento para uso.\nEquipamentos que apresentarem defeitos serão encaminhados para manutenção no CEMEQ (Centro de Manutenção de Equipamentos da UFG) acompanhados da ordem de serviço previamente cadastrada no sistema de ordens de serviço da UFG e da guia de movimentação de materiais emitida pela coordenação administrativa da FANUT. Uma cópia da guia de movimentação deverá ser entregue ao vigilante em serviço no momento da saída do equipamento. Não é permitida a saída de equipamento para manutenção sem a ordem de serviço e a guia de movimentação. A guia de movimentação e a ordem de serviço deverão ser devolvidas junto com o equipamento após a manutenção.\nCaso o equipamento não possa ser consertado pelo CEMEQ e a empresa de assistência técnica não faça o serviço no laboratório e o equipamento tenha que ser enviado para manutenção fora da UFG, deve-se entrar em contato com a divisão de patrimônio do DMP para solicitar o procedimento de retirada do equipamento para manutenção.\nO consumo de reagentes do laboratório deverá ser registrado no livro de ata de consumo de reagentes, onde se indicará o “ID” do frasco e a data final de uso do reagente.\nAs vidrarias quebradas no laboratório deverão ser registradas no livro de ata de quebra de vidrarias, indicando a data, o nome da vidraria (de acordo com a descrição padrão de materiais do laboratório) e a quantidade.\nNão é permitido deixar alimentos que se decompõem rapidamente nos lixos do laboratório. Os mesmos devem ser removidos imediatamente.\nOs resíduos armazenados no laboratório serão removidos para o armazém de resíduos químicos do campus universitário que se localiza no IPTSP. Antes de sua retirada do laboratório, os frascos devem ser identificados e pesados, e uma relação com nome dos resíduos e peso deve ser elaborada para entrega no IPTSP, conforme o procedimento de gestão de resíduos do laboratório.",
+    "crumbs": [
+      "LANAL/UFG",
+      "Normas"
+    ]
   },
   {
     "objectID": "pages/apresentação/normas/index.html#footnotes",
     "href": "pages/apresentação/normas/index.html#footnotes",
     "title": "Normas de uso do LANAL/UFG",
     "section": "Notas de rodapé",
-    "text": "Notas de rodapé\n\n\nO horário de trabalho do técnico do laboratório é de 08:00 as 12:00h e de 13:00 as 17:00h. Na sua ausência, o aluno de graduação só poderá utilizar o laboratório sob supervisão do professor orientador / “professor solidário” da FANUT.↩︎"
+    "text": "Notas de rodapé\n\n\nO horário de trabalho do técnico do laboratório é de 08:00 as 12:00h e de 13:00 as 17:00h. Na sua ausência, o aluno de graduação só poderá utilizar o laboratório sob supervisão do professor orientador / “professor solidário” da FANUT.↩︎",
+    "crumbs": [
+      "LANAL/UFG",
+      "Normas"
+    ]
   },
   {
     "objectID": "pages/apresentação/infraestrutura/instalacoes.html",
     "href": "pages/apresentação/infraestrutura/instalacoes.html",
     "title": "Instalações do LANAL/UFG",
     "section": "",
-    "text": "O LANAL/UFG está instalado em um espaço com aproximadamente 90 m2 dispostos em três ambientes. O ambiente principal possui quatro bancadas, com capacidade para acomodar durante as aulas práticas até 16 alunos, divididos em grupos de 4 pessoas. A sala principal ainda possui duas pias, três geladeiras, uma capela de exaustão de gases, prateleras para armazenar reagentes e soluções e armários dispostos na parte inferior das bancadas, nos quais estão guardadas as vidrarias e acessórios de pequeno porte. Na parte superior das bancadas estão equipamentos, como fornos mufla, destiladores de nitrogênio, refratômetro, banho ultratermostático, banhos maria e banho ultrassônico. No ambiente principal ainda há um armário disponível para armazenamento temporário de resíduos.\nO laboratório dispõe ainda de dois ambientes menores: a sala de balanças, onde há uma bancada com três balanças analíticas, uma balança semi analítica, uma termobalança e uma balança comercial, nasta sala há também duas mesas com dessecadores e uma bomba de vácuo. A outra sala do laboratório é onde ficam as estufas de secagem os freezers, o espectrofotômetro, uma mesa de estudos e uma mesa com computador, e um armário vertical para guardar documentos. As bancadas desta sala também possuem armários na parte inferior, onde estão guardadas vidrarias em estoque, equipamentos de proteção individual frascos vazios e pertences pessoais dos usuários do laboratório."
+    "text": "O LANAL/UFG está instalado em um espaço com aproximadamente 90 m2 dispostos em três ambientes. O ambiente principal possui quatro bancadas, com capacidade para acomodar durante as aulas práticas até 16 alunos, divididos em grupos de 4 pessoas. A sala principal ainda possui duas pias, três geladeiras, uma capela de exaustão de gases, prateleras para armazenar reagentes e soluções e armários dispostos na parte inferior das bancadas, nos quais estão guardadas as vidrarias e acessórios de pequeno porte. Na parte superior das bancadas estão equipamentos, como fornos mufla, destiladores de nitrogênio, refratômetro, banho ultratermostático, banhos maria e banho ultrassônico. No ambiente principal ainda há um armário disponível para armazenamento temporário de resíduos.\nO laboratório dispõe ainda de dois ambientes menores: a sala de balanças, onde há uma bancada com três balanças analíticas, uma balança semi analítica, uma termobalança e uma balança comercial, nasta sala há também duas mesas com dessecadores e uma bomba de vácuo. A outra sala do laboratório é onde ficam as estufas de secagem os freezers, o espectrofotômetro, uma mesa de estudos e uma mesa com computador, e um armário vertical para guardar documentos. As bancadas desta sala também possuem armários na parte inferior, onde estão guardadas vidrarias em estoque, equipamentos de proteção individual frascos vazios e pertences pessoais dos usuários do laboratório.",
+    "crumbs": [
+      "LANAL/UFG",
+      "Infraestrutura",
+      "Instalações"
+    ]
   },
   {
     "objectID": "pages/apresentação/infraestrutura/instalacoes.html#layout-do-lanalufg",
     "href": "pages/apresentação/infraestrutura/instalacoes.html#layout-do-lanalufg",
     "title": "Instalações do LANAL/UFG",
     "section": "Layout do LANAL/UFG",
-    "text": "Layout do LANAL/UFG"
+    "text": "Layout do LANAL/UFG",
+    "crumbs": [
+      "LANAL/UFG",
+      "Infraestrutura",
+      "Instalações"
+    ]
   },
   {
     "objectID": "pages/agenda/index.html#reservas-para-uso-de-equipamentos-do-lanal",
@@ -977,28 +1044,44 @@
     "href": "equipe.html",
     "title": "Equipe do LANAL/UFG",
     "section": "",
-    "text": "Coordenadora do laboratório\nDoutora em Ciência dos Alimentos (USP)\nCurrículo Lattes\nFone: (62)3209-6270 Ramal 211"
+    "text": "Coordenadora do laboratório\nDoutora em Ciência dos Alimentos (USP)\nCurrículo Lattes\nFone: (62)3209-6270 Ramal 211",
+    "crumbs": [
+      "LANAL/UFG",
+      "Equipe"
+    ]
   },
   {
     "objectID": "equipe.html#tânia-aparecida-pinto-de-castro-ferreira",
     "href": "equipe.html#tânia-aparecida-pinto-de-castro-ferreira",
     "title": "Equipe do LANAL/UFG",
     "section": "",
-    "text": "Coordenadora do laboratório\nDoutora em Ciência dos Alimentos (USP)\nCurrículo Lattes\nFone: (62)3209-6270 Ramal 211"
+    "text": "Coordenadora do laboratório\nDoutora em Ciência dos Alimentos (USP)\nCurrículo Lattes\nFone: (62)3209-6270 Ramal 211",
+    "crumbs": [
+      "LANAL/UFG",
+      "Equipe"
+    ]
   },
   {
-    "objectID": "equipe.html#rodrigo-barbosa-monteiro-cavalcante",
-    "href": "equipe.html#rodrigo-barbosa-monteiro-cavalcante",
+    "objectID": "equipe.html#patrícia-amaral-souza-tette-vice-coordenadora",
+    "href": "equipe.html#patrícia-amaral-souza-tette-vice-coordenadora",
     "title": "Equipe do LANAL/UFG",
-    "section": "Rodrigo Barbosa Monteiro Cavalcante",
-    "text": "Rodrigo Barbosa Monteiro Cavalcante\nVice-coordenador do laboratório\nDoutor em Alimentos e Nutrição (UFPI).\nCurrículo Lattes\nFone: (62)3209-6270 Ramal 207"
+    "section": "Patrícia Amaral Souza Tette (Vice-coordenadora)",
+    "text": "Patrícia Amaral Souza Tette (Vice-coordenadora)\nVice-coordenadora do laboratório\nDoutora em Ciência de Alimentos (UFMG).\nCurrículo Lattes\nFone: (62)3209-6270 Ramal 239",
+    "crumbs": [
+      "LANAL/UFG",
+      "Equipe"
+    ]
   },
   {
     "objectID": "equipe.html#tiago-dias",
     "href": "equipe.html#tiago-dias",
     "title": "Equipe do LANAL/UFG",
     "section": "Tiago Dias",
-    "text": "Tiago Dias\nQuímico\nMestre em Ciência e Tecnologia de Alimentos (UFG)\nCurrículo Lattes\nFone: (62)3209-6270 Ramais 217 ou 219"
+    "text": "Tiago Dias\nQuímico\nMestre em Ciência e Tecnologia de Alimentos (UFG)\nCurrículo Lattes\nFone: (62)3209-6270 Ramais 217 ou 219",
+    "crumbs": [
+      "LANAL/UFG",
+      "Equipe"
+    ]
   },
   {
     "objectID": "about.html",
@@ -1012,42 +1095,66 @@
     "href": "index.html",
     "title": "LANAL/UFG",
     "section": "",
-    "text": "O Laboratório de Nutrição e Análise de Alimentos da Faculdade de Nutrição da UFG (LANAL/UFG) atende desde sua implantação, em 1995, à demanda do curso de Nutrição, com as atividades de ensino e pesquisa relacionadas às análises químicas e físicas de alimentos e dietas. A partir de 2007 as aulas práticas da disciplina Bromatologia, do curso de graduação em Nutrição, passaram a ser ministradas no LANAL/UFG, sob a responsabilidade de docente do curso de Nutrição. Em 2009, os projetos da linha de pesquisa Qualidade de Alimentos e Dietas e Segurança Alimentar e Nutricional do Mestrado em Nutrição e Saúde da Faculdade de Nutrição (FANUT/UFG) começaram a ser desenvolvidos total ou parcialmente no LANAL/UFG.\nA partir de 2010, o LANAL/UFG foi reestruturado em sua área física e recursos humanos e materiais com o propósito de melhorar a qualidade dos serviços e atender a um maior público interno da UFG. Atualmente, além das atividades de ensino e pesquisa da graduação e pós-graduação lato e stricto sensu da FANUT/UFG, o LANAL disponibiliza a sua estrutura para o desenvolvimento de pesquisas de alunos de graduação e pós-graduação e docentes de outras unidades da UFG. Acadêmicos do Programa de Pós-graduação em Ciência e Tecnologia de Alimentos da Escola de Agronomia – UFG também têm utilizado o suporte do LANAL para a realização de análises de alimentos.\nAs pesquisas são desenvolvidas no LANAL com a participação de alunos bolsistas e voluntários dos Programas de Iniciação Científica - PIBIC-PIVIC e BIBIT-PIVIT do CNPq, alunos de pós-graduação, docentes e servidores. A produção científica das equipes que trabalham no LANAL é significativa com a divulgação de resumos em Anais de eventos da área e artigos científicos publicados em periódicos especializados."
+    "text": "O Laboratório de Nutrição e Análise de Alimentos da Faculdade de Nutrição da UFG (LANAL/UFG) atende desde sua implantação, em 1995, à demanda do curso de Nutrição, com as atividades de ensino e pesquisa relacionadas às análises químicas e físicas de alimentos e dietas. A partir de 2007 as aulas práticas da disciplina Bromatologia, do curso de graduação em Nutrição, passaram a ser ministradas no LANAL/UFG, sob a responsabilidade de docente do curso de Nutrição. Em 2009, os projetos da linha de pesquisa Qualidade de Alimentos e Dietas e Segurança Alimentar e Nutricional do Mestrado em Nutrição e Saúde da Faculdade de Nutrição (FANUT/UFG) começaram a ser desenvolvidos total ou parcialmente no LANAL/UFG.\nA partir de 2010, o LANAL/UFG foi reestruturado em sua área física e recursos humanos e materiais com o propósito de melhorar a qualidade dos serviços e atender a um maior público interno da UFG. Atualmente, além das atividades de ensino e pesquisa da graduação e pós-graduação lato e stricto sensu da FANUT/UFG, o LANAL disponibiliza a sua estrutura para o desenvolvimento de pesquisas de alunos de graduação e pós-graduação e docentes de outras unidades da UFG. Acadêmicos do Programa de Pós-graduação em Ciência e Tecnologia de Alimentos da Escola de Agronomia – UFG também têm utilizado o suporte do LANAL para a realização de análises de alimentos.\nAs pesquisas são desenvolvidas no LANAL com a participação de alunos bolsistas e voluntários dos Programas de Iniciação Científica - PIBIC-PIVIC e BIBIT-PIVIT do CNPq, alunos de pós-graduação, docentes e servidores. A produção científica das equipes que trabalham no LANAL é significativa com a divulgação de resumos em Anais de eventos da área e artigos científicos publicados em periódicos especializados.",
+    "crumbs": [
+      "LANAL/UFG",
+      "Apresentação"
+    ]
   },
   {
     "objectID": "index.html#apresentação",
     "href": "index.html#apresentação",
     "title": "LANAL/UFG",
     "section": "",
-    "text": "O Laboratório de Nutrição e Análise de Alimentos da Faculdade de Nutrição da UFG (LANAL/UFG) atende desde sua implantação, em 1995, à demanda do curso de Nutrição, com as atividades de ensino e pesquisa relacionadas às análises químicas e físicas de alimentos e dietas. A partir de 2007 as aulas práticas da disciplina Bromatologia, do curso de graduação em Nutrição, passaram a ser ministradas no LANAL/UFG, sob a responsabilidade de docente do curso de Nutrição. Em 2009, os projetos da linha de pesquisa Qualidade de Alimentos e Dietas e Segurança Alimentar e Nutricional do Mestrado em Nutrição e Saúde da Faculdade de Nutrição (FANUT/UFG) começaram a ser desenvolvidos total ou parcialmente no LANAL/UFG.\nA partir de 2010, o LANAL/UFG foi reestruturado em sua área física e recursos humanos e materiais com o propósito de melhorar a qualidade dos serviços e atender a um maior público interno da UFG. Atualmente, além das atividades de ensino e pesquisa da graduação e pós-graduação lato e stricto sensu da FANUT/UFG, o LANAL disponibiliza a sua estrutura para o desenvolvimento de pesquisas de alunos de graduação e pós-graduação e docentes de outras unidades da UFG. Acadêmicos do Programa de Pós-graduação em Ciência e Tecnologia de Alimentos da Escola de Agronomia – UFG também têm utilizado o suporte do LANAL para a realização de análises de alimentos.\nAs pesquisas são desenvolvidas no LANAL com a participação de alunos bolsistas e voluntários dos Programas de Iniciação Científica - PIBIC-PIVIC e BIBIT-PIVIT do CNPq, alunos de pós-graduação, docentes e servidores. A produção científica das equipes que trabalham no LANAL é significativa com a divulgação de resumos em Anais de eventos da área e artigos científicos publicados em periódicos especializados."
+    "text": "O Laboratório de Nutrição e Análise de Alimentos da Faculdade de Nutrição da UFG (LANAL/UFG) atende desde sua implantação, em 1995, à demanda do curso de Nutrição, com as atividades de ensino e pesquisa relacionadas às análises químicas e físicas de alimentos e dietas. A partir de 2007 as aulas práticas da disciplina Bromatologia, do curso de graduação em Nutrição, passaram a ser ministradas no LANAL/UFG, sob a responsabilidade de docente do curso de Nutrição. Em 2009, os projetos da linha de pesquisa Qualidade de Alimentos e Dietas e Segurança Alimentar e Nutricional do Mestrado em Nutrição e Saúde da Faculdade de Nutrição (FANUT/UFG) começaram a ser desenvolvidos total ou parcialmente no LANAL/UFG.\nA partir de 2010, o LANAL/UFG foi reestruturado em sua área física e recursos humanos e materiais com o propósito de melhorar a qualidade dos serviços e atender a um maior público interno da UFG. Atualmente, além das atividades de ensino e pesquisa da graduação e pós-graduação lato e stricto sensu da FANUT/UFG, o LANAL disponibiliza a sua estrutura para o desenvolvimento de pesquisas de alunos de graduação e pós-graduação e docentes de outras unidades da UFG. Acadêmicos do Programa de Pós-graduação em Ciência e Tecnologia de Alimentos da Escola de Agronomia – UFG também têm utilizado o suporte do LANAL para a realização de análises de alimentos.\nAs pesquisas são desenvolvidas no LANAL com a participação de alunos bolsistas e voluntários dos Programas de Iniciação Científica - PIBIC-PIVIC e BIBIT-PIVIT do CNPq, alunos de pós-graduação, docentes e servidores. A produção científica das equipes que trabalham no LANAL é significativa com a divulgação de resumos em Anais de eventos da área e artigos científicos publicados em periódicos especializados.",
+    "crumbs": [
+      "LANAL/UFG",
+      "Apresentação"
+    ]
   },
   {
     "objectID": "index.html#serviços-oferecidos",
     "href": "index.html#serviços-oferecidos",
     "title": "LANAL/UFG",
     "section": "Serviços oferecidos",
-    "text": "Serviços oferecidos\nO LANAL/UFG disponibiliza apoio profissional e infraestrutura para a realização de atividades práticas de ensino e pesquisa em análise de alimentos. No laboratório, são realizadas aulas experimentais da disciplina de Bromatologia do curso de Nutrição e atividades de pesquisa sobre composição química dos alimentos. As atividades de pesquisa são realizadas por alunos de iniciação científica, mestrado e doutorado, sob orientação ou supervisão de professores vinculados ao LANAL/UFG, com o apoio do servidor técnico do laboratório. O laboratório não realiza análises por meio de prestação de serviços para empresas.\nA infraestrutura do LANAL/UFG é adequada para realizar análises de:\n\nDeterminação da composição química centesimal dos alimentos (umidade, cinzas, lipídeos, proteínas, fibras);\nDeterminação de compostos bioativos e antioxidantes, por métodos espectrofotométricos;\nRealização de análises fiscais para avaliação da qualidade físico-química de alimentos como méis, carnes, óleos e gorduras, bebidas açucaradas, e outros.\nDeterminação de propriedades físicas em alimentos, tais como índices de absorção de água ou óleo, índice de formação de espuma, densidade e outras.\n\nAlém dessas análises, dispomos de conhecimento e estrutura que possibilitam a implantação de outros métodos analíticos de acordo com a necessidade, considerando a aplicabilidade dos equipamentos do laboratório e a disponibilidade de reagentes e acessórios. Realizamos constantemente estudos para a implementação de novas metodologias no laboratório."
+    "text": "Serviços oferecidos\nO LANAL/UFG disponibiliza apoio profissional e infraestrutura para a realização de atividades práticas de ensino e pesquisa em análise de alimentos. No laboratório, são realizadas aulas experimentais da disciplina de Bromatologia do curso de Nutrição e atividades de pesquisa sobre composição química dos alimentos. As atividades de pesquisa são realizadas por alunos de iniciação científica, mestrado e doutorado, sob orientação ou supervisão de professores vinculados ao LANAL/UFG, com o apoio do servidor técnico do laboratório. O laboratório não realiza análises por meio de prestação de serviços para empresas.\nA infraestrutura do LANAL/UFG é adequada para realizar análises de:\n\nDeterminação da composição química centesimal dos alimentos (umidade, cinzas, lipídeos, proteínas, fibras);\nDeterminação de compostos bioativos e antioxidantes, por métodos espectrofotométricos;\nRealização de análises fiscais para avaliação da qualidade físico-química de alimentos como méis, carnes, óleos e gorduras, bebidas açucaradas, e outros.\nDeterminação de propriedades físicas em alimentos, tais como índices de absorção de água ou óleo, índice de formação de espuma, densidade e outras.\n\nAlém dessas análises, dispomos de conhecimento e estrutura que possibilitam a implantação de outros métodos analíticos de acordo com a necessidade, considerando a aplicabilidade dos equipamentos do laboratório e a disponibilidade de reagentes e acessórios. Realizamos constantemente estudos para a implementação de novas metodologias no laboratório.",
+    "crumbs": [
+      "LANAL/UFG",
+      "Apresentação"
+    ]
   },
   {
     "objectID": "index.html#atendimento",
     "href": "index.html#atendimento",
     "title": "LANAL/UFG",
     "section": "Atendimento",
-    "text": "Atendimento\nO expediente do laboratório é de segunda a sexta, das 8:00h às 12:00h e das 13:00h às 17:00h\nPara utilizar o laboratório, o aluno deverá ser cadastrado e solicitar a reserva antecipadamente.\n\nPreencha o cadastro para utilização do laboratório\nVerifique a agenda do laboratório e faça sua reserva aqui\n\nO atendimento pessoal com um membro da equipe deverá ser agendado, pessoalmente ou por telefone."
+    "text": "Atendimento\nO expediente do laboratório é de segunda a sexta, das 8:00h às 12:00h e das 13:00h às 17:00h\nPara utilizar o laboratório, o aluno deverá ser cadastrado e solicitar a reserva antecipadamente.\n\nPreencha o cadastro para utilização do laboratório\nVerifique a agenda do laboratório e faça sua reserva aqui\n\nO atendimento pessoal com um membro da equipe deverá ser agendado, pessoalmente ou por telefone.",
+    "crumbs": [
+      "LANAL/UFG",
+      "Apresentação"
+    ]
   },
   {
     "objectID": "index.html#localização",
     "href": "index.html#localização",
     "title": "LANAL/UFG",
     "section": "Localização",
-    "text": "Localização\nRua 227, Qd. 68. SN - Setor Leste Universitário - Goiânia/GO. CEP: 74610-070 Faculdade de Nutrição – Universidade Federal de Goiás"
+    "text": "Localização\nRua 227, Qd. 68. SN - Setor Leste Universitário - Goiânia/GO. CEP: 74610-070 Faculdade de Nutrição – Universidade Federal de Goiás",
+    "crumbs": [
+      "LANAL/UFG",
+      "Apresentação"
+    ]
   },
   {
     "objectID": "index.html#contatos",
     "href": "index.html#contatos",
     "title": "LANAL/UFG",
     "section": "Contatos",
-    "text": "Contatos\nTelefone: (62)3209-6270 Ramal 217\ne-mail: lanal.fanut@ufg.br\ninstagram: https://www.instagram.com/lanal.ufg"
+    "text": "Contatos\nTelefone: (62)3209-6270 Ramal 217\ne-mail: lanal.fanut@ufg.br\ninstagram: https://www.instagram.com/lanal.ufg",
+    "crumbs": [
+      "LANAL/UFG",
+      "Apresentação"
+    ]
   },
   {
     "objectID": "license.html",
@@ -1061,28 +1168,48 @@
     "href": "pages/apresentação/infraestrutura/equipamentos.html",
     "title": "Equipamentos do LANAL/UFG",
     "section": "",
-    "text": "Os principais equipamentos do LANAL/UFG são balanças analíticas, estufas (de secagem simples, com ventilação e a vácuo), blocos digestores, destiladores de nitrogênio, banhos-maria, centrífuga refrigerada, espectrofotômetro, evaporador rotativo, banho ultrassônico, capela de exaustão.\nConsulte abaixo a relação completa de equipamentos do laboratório:"
+    "text": "Os principais equipamentos do LANAL/UFG são balanças analíticas, estufas (de secagem simples, com ventilação e a vácuo), blocos digestores, destiladores de nitrogênio, banhos-maria, centrífuga refrigerada, espectrofotômetro, evaporador rotativo, banho ultrassônico, capela de exaustão.\nConsulte abaixo a relação completa de equipamentos do laboratório:",
+    "crumbs": [
+      "LANAL/UFG",
+      "Infraestrutura",
+      "Equipamentos"
+    ]
   },
   {
     "objectID": "pages/apresentação/infraestrutura/equipamentos.html#relação-de-equipamentos-do-lanalufg",
     "href": "pages/apresentação/infraestrutura/equipamentos.html#relação-de-equipamentos-do-lanalufg",
     "title": "Equipamentos do LANAL/UFG",
     "section": "Relação de equipamentos do LANAL/UFG",
-    "text": "Relação de equipamentos do LANAL/UFG"
+    "text": "Relação de equipamentos do LANAL/UFG",
+    "crumbs": [
+      "LANAL/UFG",
+      "Infraestrutura",
+      "Equipamentos"
+    ]
   },
   {
     "objectID": "pages/apresentação/infraestrutura/reagentes.html",
     "href": "pages/apresentação/infraestrutura/reagentes.html",
     "title": "Reagentes do LANAL/UFG",
     "section": "",
-    "text": "Nota\n\n\n\nEstoque atualizado em 10/02/2023"
+    "text": "Nota\n\n\n\nEstoque atualizado em 10/02/2023",
+    "crumbs": [
+      "LANAL/UFG",
+      "Infraestrutura",
+      "Reagentes"
+    ]
   },
   {
     "objectID": "pages/apresentação/infraestrutura/reagentes.html#estoque-de-reagentes-do-lanalufg",
     "href": "pages/apresentação/infraestrutura/reagentes.html#estoque-de-reagentes-do-lanalufg",
     "title": "Reagentes do LANAL/UFG",
     "section": "",
-    "text": "Nota\n\n\n\nEstoque atualizado em 10/02/2023"
+    "text": "Nota\n\n\n\nEstoque atualizado em 10/02/2023",
+    "crumbs": [
+      "LANAL/UFG",
+      "Infraestrutura",
+      "Reagentes"
+    ]
   },
   {
     "objectID": "pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html",
@@ -1103,7 +1230,11 @@
     "href": "pages/cadastro/novos.html",
     "title": "Cadastro de novos alunos",
     "section": "",
-    "text": "Carregando…"
+    "text": "Carregando…",
+    "crumbs": [
+      "Cadastro",
+      "Novos alunos"
+    ]
   },
   {
     "objectID": "pages/procedimentos/administrativos/pae001.html#planejamento-de-compras",
@@ -1173,7 +1304,11 @@
     "href": "pages/procedimentos/operacionais/pdr/index.html",
     "title": "Procedimentos de disposição de resíduos do LANAL/UFG",
     "section": "",
-    "text": "Ordenar por\n       Pré-selecionado\n         \n          Resíduo\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nResíduo\n\n\nGrupo\n\n\n\n\n\n\nLuvas usadas não contaminadas\n\n\nD - Lixo comum\n\n\n\n\nVidros Quebrados\n\n\nE - Perfurocortantes\n\n\n\n\n\n\nNenhum item correspondente"
+    "text": "Ordenar por\n       Padrão\n         \n          Resíduo\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nResíduo\n\n\nGrupo\n\n\n\n\n\n\nLuvas usadas não contaminadas\n\n\nD - Lixo comum\n\n\n\n\nVidros Quebrados\n\n\nE - Perfurocortantes\n\n\n\n\n\nSem itens correspondentes",
+    "crumbs": [
+      "Procedimentos",
+      "Disposição de resíduos"
+    ]
   },
   {
     "objectID": "pages/procedimentos/operacionais/pps/pps001.html",
@@ -1614,6 +1749,11 @@
     "href": "pages/seguranca/fds/index.html",
     "title": "Fichas com dados de segurança (FDS)",
     "section": "",
-    "text": "Ordenar por\n       Pré-selecionado\n         \n          Substância\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nSubstância\n\n\nEstado físico\n\n\nAdvertência\n\n\n\n\n\n\n2,2-di-(4-tert-octylphenyl)-1-picrylhydrayl\n\n\nSólido\n\n\n\n\n\n\n\n2,2-difenil-1-picrilhidrazil (DPPH)\n\n\nSólido\n\n\nPerigo\n\n\n\n\nAAPH - 2,2′-Azobis(2-methylpropionamidine) dihydrochloride\n\n\nSólido\n\n\nPerigo\n\n\n\n\nABTS - 2,2’-Azino-bis-(ácido-3-etilbenzotiazolina-6-sulfônico)-sal diamônio\n\n\nSólido\n\n\n\n\n\n\n\nAcetato de chumbo II tri-hidratado\n\n\nSólido\n\n\nPerigo\n\n\n\n\nAcetato de cobre II monohidratado\n\n\nSólido\n\n\nPerigo\n\n\n\n\nAcetato de etila\n\n\nLíquido\n\n\nPerigo\n\n\n\n\nAcetato de mercúrio II\n\n\nSólido\n\n\nPerigo\n\n\n\n\nAcetato de sódio anidro\n\n\nSólido\n\n\n\n\n\n\n\nAcetato de sódio trihidratado\n\n\nSólido\n\n\n\n\n\n\n\nAcetato de zinco dihidratado\n\n\nSólido\n\n\nAtenção\n\n\n\n\nAcetona\n\n\nLíquido\n\n\nPerigo\n\n\n\n\nAcido cólico\n\n\nSólido\n\n\nAtenção\n\n\n\n\nÁcido 2-tiobarbitúrico\n\n\nSólido\n\n\n\n\n\n\n\nÁcido Acético Glacial\n\n\nLíquido\n\n\nPerigo\n\n\n\n\nÁcido Etilenodiamino-tetracético, sal dissódico\n\n\nSólido\n\n\nAtenção\n\n\n\n\nÁcido gálico anidro\n\n\nSólido\n\n\nAtenção\n\n\n\n\n\n\nNenhum item correspondente"
+    "text": "Ordenar por\n       Padrão\n         \n          Substância\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nSubstância\n\n\nEstado físico\n\n\nAdvertência\n\n\n\n\n\n\n2,2-di-(4-tert-octylphenyl)-1-picrylhydrayl\n\n\nSólido\n\n\n \n\n\n\n\n2,2-difenil-1-picrilhidrazil (DPPH)\n\n\nSólido\n\n\nPerigo\n\n\n\n\nAAPH - 2,2′-Azobis(2-methylpropionamidine) dihydrochloride\n\n\nSólido\n\n\nPerigo\n\n\n\n\nABTS - 2,2’-Azino-bis-(ácido-3-etilbenzotiazolina-6-sulfônico)-sal diamônio\n\n\nSólido\n\n\n \n\n\n\n\nAcetato de chumbo II tri-hidratado\n\n\nSólido\n\n\nPerigo\n\n\n\n\nAcetato de cobre II monohidratado\n\n\nSólido\n\n\nPerigo\n\n\n\n\nAcetato de etila\n\n\nLíquido\n\n\nPerigo\n\n\n\n\nAcetato de mercúrio II\n\n\nSólido\n\n\nPerigo\n\n\n\n\nAcetato de sódio anidro\n\n\nSólido\n\n\n \n\n\n\n\nAcetato de sódio trihidratado\n\n\nSólido\n\n\n \n\n\n\n\nAcetato de zinco dihidratado\n\n\nSólido\n\n\nAtenção\n\n\n\n\nAcetona\n\n\nLíquido\n\n\nPerigo\n\n\n\n\nAcido cólico\n\n\nSólido\n\n\nAtenção\n\n\n\n\nÁcido 2-tiobarbitúrico\n\n\nSólido\n\n\n \n\n\n\n\nÁcido Acético Glacial\n\n\nLíquido\n\n\nPerigo\n\n\n\n\nÁcido Etilenodiamino-tetracético, sal dissódico\n\n\nSólido\n\n\nAtenção\n\n\n\n\nÁcido gálico anidro\n\n\nSólido\n\n\nAtenção\n\n\n\n\n\nSem itens correspondentes",
+    "crumbs": [
+      "Segurança",
+      "Segurança no LANAL/UFG",
+      "Fichas de segurança (FDS)"
+    ]
   }
 ]

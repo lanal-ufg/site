@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.433">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>LANAL/UFG - Blog do LANAL</title>
+<title>Blog do LANAL – LANAL/UFG</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -39,17 +39,17 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-5451ddad53adceda977c42d8fb03d90c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
   "algolia": {
     "application-id": "FTGUXGZRDK",
     "search-only-api-key": "082d80d81a39d75f3bdffe8acf2338fa",
@@ -58,6 +58,11 @@ ul.task-list li input[type="checkbox"] {
     "show-logo": true,
     "libDir": "site_libs"
   },
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
   "language": {
     "search-no-results-text": "Nenhum resultado",
     "search-matching-documents-text": "documentos correspondentes",
@@ -66,6 +71,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "mais correspondência neste documento",
     "search-more-matches-text": "mais correspondências neste documento",
     "search-clear-button-title": "Limpar",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancelar",
     "search-submit-button-title": "Enviar",
     "search-label": "Procurar"
@@ -121,14 +127,42 @@ i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
       }
 </style>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 <link rel="stylesheet" href="../../styles.css">
-<link rel="alternate" type="application/rss+xml" title="LANAL/UFG" href="index.xml"><meta property="og:title" content="LANAL/UFG - Blog do LANAL">
+<link rel="alternate" type="application/rss+xml" title="LANAL/UFG" href="index.xml" data-external="1"><meta property="og:title" content="Blog do LANAL – LANAL/UFG">
 <meta property="og:description" content="Notícias, dicas e comentários sobre o que acontece no LANAL/UFG">
 <meta property="og:image" content="https://lanal-ufg.github.io/lanal-ufg/pages/blog/posts/2020-08-25-principais-equipamentos-e-analises/post3.png">
-<meta property="og:site-name" content="LANAL/UFG">
+<meta property="og:site_name" content="LANAL/UFG">
+<meta property="og:image:alt" content="Montagem contendo cinco fotos mostrando as bancadas e equipamentos do Laboratório de Nutrição e Análise de Alimentos da UFG">
 <meta property="og:image:height" content="1080">
 <meta property="og:image:width" content="1080">
 </head>
@@ -136,70 +170,70 @@ i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a href="../../index.html" class="navbar-brand navbar-brand-logo">
     <img src="../../logo_LANAL.png" alt="Logo LANAL" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Procurar"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Alternar de navegação" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Alternar de navegação" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html" rel="" target="">
- <span class="menu-text">LANAL/UFG</span></a>
+    <a class="nav-link" href="../../index.html"> 
+<span class="menu-text">LANAL/UFG</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../pages/seguranca/index.html" rel="" target="">
- <span class="menu-text">Segurança</span></a>
+    <a class="nav-link" href="../../pages/seguranca/index.html"> 
+<span class="menu-text">Segurança</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../pages/cadastro/novos.html" rel="" target="">
- <span class="menu-text">Cadastro</span></a>
+    <a class="nav-link" href="../../pages/cadastro/novos.html"> 
+<span class="menu-text">Cadastro</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../pages/procedimentos/index.html" rel="" target="">
- <span class="menu-text">Procedimentos</span></a>
+    <a class="nav-link" href="../../pages/procedimentos/index.html"> 
+<span class="menu-text">Procedimentos</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../pages/agenda/index.html" rel="" target="">
- <span class="menu-text">Agenda</span></a>
+    <a class="nav-link" href="../../pages/agenda/index.html"> 
+<span class="menu-text">Agenda</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../pages/publicações/index.html" rel="" target="">
- <span class="menu-text">Publicações</span></a>
+    <a class="nav-link" href="../../pages/publicações/index.html"> 
+<span class="menu-text">Publicações</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../../pages/blog/index.html" rel="" target="" aria-current="page">
- <span class="menu-text">Blog</span></a>
+    <a class="nav-link active" href="../../pages/blog/index.html" aria-current="page"> 
+<span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-ajuda" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-ajuda" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Ajuda</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-ajuda">    
         <li>
-    <a class="dropdown-item" href="../../pages/faq/index.html" rel="" target=""><i class="bi bi-question-circle" role="img">
+    <a class="dropdown-item" href="../../pages/faq/index.html"><i class="bi bi-question-circle" role="img">
 </i> 
  <span class="dropdown-text">Perguntas frequentes</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="mailto://lanal.fanut@ufg.br" rel="" target=""><i class="bi bi-Envelope" role="img">
+    <a class="dropdown-item" href="mailto://lanal.fanut@ufg.br"><i class="bi bi-Envelope" role="img">
 </i> 
  <span class="dropdown-text">Envie-nos um e-mail</span></a>
   </li>  
     </ul>
   </li>
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
-    <a href="https://www.instagram.com/lanal.ufg" rel="" title="Instagram LANAL" class="quarto-navigation-tool px-1" aria-label="Instagram LANAL"><i class="bi bi-instagram"></i></a>
-</div>
           </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+    <a href="https://www.instagram.com/lanal.ufg" title="Instagram LANAL" class="quarto-navigation-tool px-1" aria-label="Instagram LANAL"><i class="bi bi-instagram"></i></a>
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -213,7 +247,7 @@ i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
   </div>
     
   
-  <div class="quarto-title-meta">
+  <div class="quarto-title-meta column-page-left">
 
       
     
@@ -226,7 +260,7 @@ i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Tudo <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Análises">Análises <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Equipamentos">Equipamentos <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Equipe">Equipe <span class="quarto-category-count">(1)</span></div><div class="category" data-category="História">História <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Laboratório">Laboratório <span class="quarto-category-count">(3)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todos <span class="quarto-category-count">(3)</span></div><div class="category" data-category="QW4lQzMlQTFsaXNlcw==">Análises <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RXF1aXBhbWVudG9z">Equipamentos <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RXF1aXBl">Equipe <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SGlzdCVDMyVCM3JpYQ==">História <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGFib3JhdCVDMyVCM3Jpbw==">Laboratório <span class="quarto-category-count">(3)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -237,40 +271,39 @@ i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
 
 
 
+
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Laboratório,Equipamentos,Análises" data-listing-date-sort="1598324400000" data-listing-file-modified-sort="1690293152000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="0" data-categories="TGFib3JhdCVDMyVCM3JpbyUyQ0VxdWlwYW1lbnRvcyUyQ0FuJUMzJUExbGlzZXM=" data-listing-date-sort="1598324400000" data-listing-file-modified-sort="1734656866265" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="203">
 <div class="thumbnail">
-<p><a href="../../pages/blog/posts/2020-08-25-principais-equipamentos-e-analises/index.html"> <img src="../../pages/blog/posts/2020-08-25-principais-equipamentos-e-analises/post3.png" class="thumbnail-image" alt="Montagem contendo cinco fotos mostrando as bancadas e equipamentos do Laboratório de Nutrição e Análise de Alimentos da UFG"> </a></p>
+<p><a href="../../pages/blog/posts/2020-08-25-principais-equipamentos-e-analises/index.html" class="no-external"></a></p><a href="../../pages/blog/posts/2020-08-25-principais-equipamentos-e-analises/index.html" class="no-external">
+<p><img loading="lazy" src="../../pages/blog/posts/2020-08-25-principais-equipamentos-e-analises/post3.png" class="thumbnail-image" alt="Montagem contendo cinco fotos mostrando as bancadas e equipamentos do Laboratório de Nutrição e Análise de Alimentos da UFG"></p>
+</a><p><a href="../../pages/blog/posts/2020-08-25-principais-equipamentos-e-analises/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../pages/blog/posts/2020-08-25-principais-equipamentos-e-analises/index.html">
 <h3 class="no-anchor listing-title">
-Principais equipamentos e análises realizadas no LANAL/UFG
+<a href="../../pages/blog/posts/2020-08-25-principais-equipamentos-e-analises/index.html" class="no-external">Principais equipamentos e análises realizadas no LANAL/UFG</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="../../pages/blog/posts/2020-08-25-principais-equipamentos-e-analises/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Laboratório'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('TGFib3JhdCVDMyVCM3Jpbw=='); return false;">
 Laboratório
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Equipamentos'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RXF1aXBhbWVudG9z'); return false;">
 Equipamentos
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Análises'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QW4lQzMlQTFsaXNlcw=='); return false;">
 Análises
 </div>
 </div>
-<a href="../../pages/blog/posts/2020-08-25-principais-equipamentos-e-analises/index.html">
 <div class="listing-description">
-<p>Conheça as principais análises realizadas no LANAL/UFG e os equipamentos disponíveis no laboratório</p>
+<a href="../../pages/blog/posts/2020-08-25-principais-equipamentos-e-analises/index.html" class="no-external">Conheça as principais análises realizadas no LANAL/UFG e os equipamentos disponíveis no laboratório </a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="../../pages/blog/posts/2020-08-25-principais-equipamentos-e-analises/index.html">
+<a href="../../pages/blog/posts/2020-08-25-principais-equipamentos-e-analises/index.html" class="no-external">
 <div class="listing-date">
 25 de ago. de 2020
 </div>
@@ -280,35 +313,33 @@ Tiago Dias
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="Laboratório,Equipe" data-listing-date-sort="1597892400000" data-listing-file-modified-sort="1690293086000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="1" data-categories="TGFib3JhdCVDMyVCM3JpbyUyQ0VxdWlwZQ==" data-listing-date-sort="1597892400000" data-listing-file-modified-sort="1734656866263" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="229">
 <div class="thumbnail">
-<p><a href="../../pages/blog/posts/2020-08-20-equipe-responsavel/index.html"> <img src="../../pages/blog/posts/2020-08-20-equipe-responsavel/post2.png" class="thumbnail-image" alt="Imagem de post contendo fotos do coordenador, da vice-coordenadora e do químico do LANAL/UFG"> </a></p>
+<p><a href="../../pages/blog/posts/2020-08-20-equipe-responsavel/index.html" class="no-external"></a></p><a href="../../pages/blog/posts/2020-08-20-equipe-responsavel/index.html" class="no-external">
+<p><img loading="lazy" src="../../pages/blog/posts/2020-08-20-equipe-responsavel/post2.png" class="thumbnail-image" alt="Imagem de post contendo fotos do coordenador, da vice-coordenadora e do químico do LANAL/UFG"></p>
+</a><p><a href="../../pages/blog/posts/2020-08-20-equipe-responsavel/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../pages/blog/posts/2020-08-20-equipe-responsavel/index.html">
 <h3 class="no-anchor listing-title">
-Equipe responsável pelo LANAL/UFG
+<a href="../../pages/blog/posts/2020-08-20-equipe-responsavel/index.html" class="no-external">Equipe responsável pelo LANAL/UFG</a>
 </h3>
 <div class="listing-subtitle">
-
+<a href="../../pages/blog/posts/2020-08-20-equipe-responsavel/index.html" class="no-external"></a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Laboratório'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('TGFib3JhdCVDMyVCM3Jpbw=='); return false;">
 Laboratório
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Equipe'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RXF1aXBl'); return false;">
 Equipe
 </div>
 </div>
-<a href="../../pages/blog/posts/2020-08-20-equipe-responsavel/index.html">
 <div class="listing-description">
-<p>Conheça a equipe responsável pelo Laboratório de Nutrição e Análise de Alimentos da UFG.</p>
+<a href="../../pages/blog/posts/2020-08-20-equipe-responsavel/index.html" class="no-external">Conheça a equipe responsável pelo Laboratório de Nutrição e Análise de Alimentos da UFG. </a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="../../pages/blog/posts/2020-08-20-equipe-responsavel/index.html">
+<a href="../../pages/blog/posts/2020-08-20-equipe-responsavel/index.html" class="no-external">
 <div class="listing-date">
 20 de ago. de 2020
 </div>
@@ -318,35 +349,33 @@ Rodrigo Cavalcante
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="Laboratório,História" data-listing-date-sort="1597028400000" data-listing-file-modified-sort="1690512767491" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<div class="quarto-post image-right" data-index="2" data-categories="TGFib3JhdCVDMyVCM3JpbyUyQ0hpc3QlQzMlQjNyaWE=" data-listing-date-sort="1597028400000" data-listing-file-modified-sort="1734656866261" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="249">
 <div class="thumbnail">
-<p><a href="../../pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html"> <img src="../../pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/post1.png" class="thumbnail-image" alt="Montagem contendo cinco fotos mostrando as bancadas e equipamentos do Laboratório de Nutrição e Análise de Alimentos da UFG"> </a></p>
+<p><a href="../../pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html" class="no-external"></a></p><a href="../../pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html" class="no-external">
+<p><img loading="lazy" src="../../pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/post1.png" class="thumbnail-image" alt="Montagem contendo cinco fotos mostrando as bancadas e equipamentos do Laboratório de Nutrição e Análise de Alimentos da UFG"></p>
+</a><p><a href="../../pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html">
 <h3 class="no-anchor listing-title">
-Conheça o LANAL/UFG
+<a href="../../pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html" class="no-external">Conheça o LANAL/UFG</a>
 </h3>
 <div class="listing-subtitle">
-Criação, ampliação e manutenção do LANAL: passado, presente e futuro
+<a href="../../pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html" class="no-external">Criação, ampliação e manutenção do LANAL: passado, presente e futuro</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Laboratório'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('TGFib3JhdCVDMyVCM3Jpbw=='); return false;">
 Laboratório
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('História'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('SGlzdCVDMyVCM3JpYQ=='); return false;">
 História
 </div>
 </div>
-<a href="../../pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html">
 <div class="listing-description">
-<p>Conheça o LANAL, Laboratório de Nutrição e Análise de Alimentos onde são realizadas atividades de ensino, pesquisa e extensão na área de alimentos.</p>
+<a href="../../pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html" class="no-external">Conheça o LANAL, Laboratório de Nutrição e Análise de Alimentos onde são realizadas atividades de ensino, pesquisa e extensão na área de alimentos. </a>
 </div>
-</a>
 </div>
 <div class="metadata">
-<a href="../../pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html">
+<a href="../../pages/blog/posts/2020-08-18-criacao-ampliacao-futuro/index.html" class="no-external">
 <div class="listing-date">
 10 de ago. de 2020
 </div>
@@ -358,7 +387,7 @@ Tânia Aparecida
 </div>
 </div>
 <div class="listing-no-matching d-none">
-Nenhum item correspondente
+Sem itens correspondentes
 </div>
 </div></main> <!-- /main -->
 <script type="text/javascript">
@@ -408,18 +437,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -451,11 +469,48 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
-  function tippyHover(el, contentFn) {
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/lanal-ufg\.github\.io\/lanal-ufg");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -465,8 +520,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -478,7 +542,129 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -522,6 +708,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -547,6 +734,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -615,13 +828,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link" href="../../about.html">Sobre</a>
+    <a class="nav-link" href="../../about.html">
+<p>Sobre</p>
+</a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="../../pages/faq/index.html">Perguntas frequentes</a>
+    <a class="nav-link" href="../../pages/faq/index.html">
+<p>Perguntas frequentes</p>
+</a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="../../informação.html">Acesso à informação</a>
+    <a class="nav-link" href="../../informação.html">
+<p>Acesso à informação</p>
+</a>
   </li>  
 </ul>
     </div>
@@ -630,6 +849,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+
 
 
 

@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.433">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Tiago Dias">
 
-<title>LANAL/UFG - Procedimentos Operacionais dos Equipamentos do LANAL/UFG</title>
+<title>Procedimentos Operacionais dos Equipamentos do LANAL/UFG – LANAL/UFG</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -42,17 +42,17 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../../../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../../../site_libs/bootstrap/bootstrap-5451ddad53adceda977c42d8fb03d90c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
   "algolia": {
     "application-id": "FTGUXGZRDK",
     "search-only-api-key": "082d80d81a39d75f3bdffe8acf2338fa",
@@ -61,6 +61,11 @@ ul.task-list li input[type="checkbox"] {
     "show-logo": true,
     "libDir": "site_libs"
   },
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
   "language": {
     "search-no-results-text": "Nenhum resultado",
     "search-matching-documents-text": "documentos correspondentes",
@@ -69,6 +74,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "mais correspondência neste documento",
     "search-more-matches-text": "mais correspondências neste documento",
     "search-clear-button-title": "Limpar",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancelar",
     "search-submit-button-title": "Enviar",
     "search-label": "Procurar"
@@ -119,107 +125,134 @@ i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
   })
   </script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 <link rel="stylesheet" href="../../../../styles.css">
-<meta property="og:title" content="LANAL/UFG - Procedimentos Operacionais dos Equipamentos do LANAL/UFG">
+<meta property="og:title" content="Procedimentos Operacionais dos Equipamentos do LANAL/UFG – LANAL/UFG">
 <meta property="og:description" content="PEQ">
 <meta property="og:image" content="https://lanal-ufg.github.io/lanal-ufg/pages/procedimentos/operacionais/peq/fotos/001.jpg">
-<meta property="og:site-name" content="LANAL/UFG">
+<meta property="og:site_name" content="LANAL/UFG">
 </head>
 
 <body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a href="../../../../index.html" class="navbar-brand navbar-brand-logo">
     <img src="../../../../logo_LANAL.png" alt="Logo LANAL" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Procurar"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Alternar de navegação" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Alternar de navegação" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../../../index.html" rel="" target="">
- <span class="menu-text">LANAL/UFG</span></a>
+    <a class="nav-link" href="../../../../index.html"> 
+<span class="menu-text">LANAL/UFG</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../pages/seguranca/index.html" rel="" target="">
- <span class="menu-text">Segurança</span></a>
+    <a class="nav-link" href="../../../../pages/seguranca/index.html"> 
+<span class="menu-text">Segurança</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../pages/cadastro/novos.html" rel="" target="">
- <span class="menu-text">Cadastro</span></a>
+    <a class="nav-link" href="../../../../pages/cadastro/novos.html"> 
+<span class="menu-text">Cadastro</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../../../../pages/procedimentos/index.html" rel="" target="" aria-current="page">
- <span class="menu-text">Procedimentos</span></a>
+    <a class="nav-link active" href="../../../../pages/procedimentos/index.html" aria-current="page"> 
+<span class="menu-text">Procedimentos</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../pages/agenda/index.html" rel="" target="">
- <span class="menu-text">Agenda</span></a>
+    <a class="nav-link" href="../../../../pages/agenda/index.html"> 
+<span class="menu-text">Agenda</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../pages/publicações/index.html" rel="" target="">
- <span class="menu-text">Publicações</span></a>
+    <a class="nav-link" href="../../../../pages/publicações/index.html"> 
+<span class="menu-text">Publicações</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../../../pages/blog/index.html" rel="" target="">
- <span class="menu-text">Blog</span></a>
+    <a class="nav-link" href="../../../../pages/blog/index.html"> 
+<span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-ajuda" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-ajuda" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Ajuda</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-ajuda">    
         <li>
-    <a class="dropdown-item" href="../../../../pages/faq/index.html" rel="" target=""><i class="bi bi-question-circle" role="img">
+    <a class="dropdown-item" href="../../../../pages/faq/index.html"><i class="bi bi-question-circle" role="img">
 </i> 
  <span class="dropdown-text">Perguntas frequentes</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="mailto://lanal.fanut@ufg.br" rel="" target=""><i class="bi bi-Envelope" role="img">
+    <a class="dropdown-item" href="mailto://lanal.fanut@ufg.br"><i class="bi bi-Envelope" role="img">
 </i> 
  <span class="dropdown-text">Envie-nos um e-mail</span></a>
   </li>  
     </ul>
   </li>
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
-    <a href="https://www.instagram.com/lanal.ufg" rel="" title="Instagram LANAL" class="quarto-navigation-tool px-1" aria-label="Instagram LANAL"><i class="bi bi-instagram"></i></a>
-</div>
           </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+    <a href="https://www.instagram.com/lanal.ufg" title="Instagram LANAL" class="quarto-navigation-tool px-1" aria-label="Instagram LANAL"><i class="bi bi-instagram"></i></a>
+</div>
       </div> <!-- /container-fluid -->
     </nav>
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../../pages/procedimentos/index.html">Procedimentos</a></li><li class="breadcrumb-item"><a href="../../../../pages/procedimentos/operacionais/peq/index.html">Operação de equipamentos</a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../../pages/procedimentos/index.html">Procedimentos</a></li><li class="breadcrumb-item"><a href="../../../../pages/procedimentos/operacionais/peq/index.html">Operação de equipamentos</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
     </div>
   </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a href="../../../../pages/procedimentos/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Procedimentos</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Alternar seção">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Alternar seção">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -253,15 +286,15 @@ i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
     </ul>
     </div>
 </nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Tudo <span class="quarto-category-count">(58)</span></div><div class="category" data-category="Agitação">Agitação <span class="quarto-category-count">(6)</span></div><div class="category" data-category="Aquecimento">Aquecimento <span class="quarto-category-count">(10)</span></div><div class="category" data-category="Carbonização">Carbonização <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Centrifugação">Centrifugação <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Cinzas">Cinzas <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Condutimetria">Condutimetria <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Destilação de nitrogênio">Destilação de nitrogênio <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Destilação de água">Destilação de água <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Digestão">Digestão <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Dispersão">Dispersão <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Espectrofotometria">Espectrofotometria <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Evaporação">Evaporação <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Exaustão">Exaustão <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Extração">Extração <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Homogeneização">Homogeneização <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Medição de pH">Medição de pH <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Medição de temperatura">Medição de temperatura <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Moagem">Moagem <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Pesagem">Pesagem <span class="quarto-category-count">(7)</span></div><div class="category" data-category="Purificação de água">Purificação de água <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Refratometria">Refratometria <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Resfriamento">Resfriamento <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Secagem">Secagem <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Ultrassom">Ultrassom <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Volumetria">Volumetria <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Vácuo">Vácuo <span class="quarto-category-count">(3)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todos <span class="quarto-category-count">(58)</span></div><div class="category" data-category="QWdpdGElQzMlQTclQzMlQTNv">Agitação <span class="quarto-category-count">(6)</span></div><div class="category" data-category="QXF1ZWNpbWVudG8=">Aquecimento <span class="quarto-category-count">(10)</span></div><div class="category" data-category="Q2FyYm9uaXphJUMzJUE3JUMzJUEzbw==">Carbonização <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q2VudHJpZnVnYSVDMyVBNyVDMyVBM28=">Centrifugação <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q2luemFz">Cinzas <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Q29uZHV0aW1ldHJpYQ==">Condutimetria <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGVzdGlsYSVDMyVBNyVDMyVBM28lMjBkZSUyMG5pdHJvZyVDMyVBQW5pbw==">Destilação de nitrogênio <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RGVzdGlsYSVDMyVBNyVDMyVBM28lMjBkZSUyMCVDMyVBMWd1YQ==">Destilação de água <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGlnZXN0JUMzJUEzbw==">Digestão <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RGlzcGVycyVDMyVBM28=">Dispersão <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RXNwZWN0cm9mb3RvbWV0cmlh">Espectrofotometria <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RXZhcG9yYSVDMyVBNyVDMyVBM28=">Evaporação <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RXhhdXN0JUMzJUEzbw==">Exaustão <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RXh0cmElQzMlQTclQzMlQTNv">Extração <span class="quarto-category-count">(4)</span></div><div class="category" data-category="SG9tb2dlbmVpemElQzMlQTclQzMlQTNv">Homogeneização <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWVkaSVDMyVBNyVDMyVBM28lMjBkZSUyMHBI">Medição de pH <span class="quarto-category-count">(4)</span></div><div class="category" data-category="TWVkaSVDMyVBNyVDMyVBM28lMjBkZSUyMHRlbXBlcmF0dXJh">Medição de temperatura <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TW9hZ2Vt">Moagem <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGVzYWdlbQ==">Pesagem <span class="quarto-category-count">(7)</span></div><div class="category" data-category="UHVyaWZpY2ElQzMlQTclQzMlQTNvJTIwZGUlMjAlQzMlQTFndWE=">Purificação de água <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVmcmF0b21ldHJpYQ==">Refratometria <span class="quarto-category-count">(4)</span></div><div class="category" data-category="UmVzZnJpYW1lbnRv">Resfriamento <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2VjYWdlbQ==">Secagem <span class="quarto-category-count">(5)</span></div><div class="category" data-category="VWx0cmFzc29t">Ultrassom <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Vm9sdW1ldHJpYQ==">Volumetria <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ViVDMyVBMWN1bw==">Vácuo <span class="quarto-category-count">(3)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../../pages/procedimentos/index.html">Procedimentos</a></li><li class="breadcrumb-item"><a href="../../../../pages/procedimentos/operacionais/peq/index.html">Operação de equipamentos</a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title">Procedimentos Operacionais dos Equipamentos do LANAL/UFG</h1>
 <p class="subtitle lead">PEQ</p>
@@ -281,7 +314,7 @@ i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
     <div>
     <div class="quarto-title-meta-heading">Data de Publicação</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">27/07/2023</p>
+      <p class="date">13/02/2025</p>
     </div>
   </div>
   
@@ -289,7 +322,9 @@ i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
   </div>
   
 
+
 </header>
+
 
 
 
@@ -301,7 +336,7 @@ i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
      <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
      <select id="listing-listing-sort" class="form-select" aria-label="Ordenar por" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
        <option value="" disabled="" selected="" hidden="">Ordenar por</option>
-       <option value="index" data-direction="asc">Pré-selecionado</option>
+       <option value="index" data-direction="asc">Padrão</option>
          <option value="listing-title" data-direction="asc">
           Equipamento
         </option>
@@ -309,1652 +344,1594 @@ i.async=1,i.src=n,c.parentNode.insertBefore(i,c)
   </div>
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
+      <input type="text" class="search form-control" placeholder="Filtro">
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-left" data-index="0" data-categories="Agitação,Aquecimento" data-listing-date-sort="1690914236000" data-listing-file-modified-sort="1690914236000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="0" data-categories="QWdpdGElQzMlQTclQzMlQTNvJTJDQXF1ZWNpbWVudG8=" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq001.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/001.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq001.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq001.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/001.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq001.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq001.html">
 <h3 class="no-anchor listing-title">
-Agitador magnético com aquecimento
+<a href="../../../../pages/procedimentos/operacionais/peq/peq001.html" class="no-external">Agitador magnético com aquecimento</a>
 </h3>
 <div class="listing-subtitle">
-Marca: FANEM, Modelo: 258 - São Paulo/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq001.html" class="no-external">Marca: FANEM, Modelo: 258 - São Paulo/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Agitação'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QWdpdGElQzMlQTclQzMlQTNv'); return false;">
 Agitação
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Aquecimento'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXF1ZWNpbWVudG8='); return false;">
 Aquecimento
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq001.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq001.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq001.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq001.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-001
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="1" data-categories="Agitação,Aquecimento" data-listing-date-sort="1690914257000" data-listing-file-modified-sort="1690914257000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="1" data-categories="QWdpdGElQzMlQTclQzMlQTNvJTJDQXF1ZWNpbWVudG8=" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq002.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/002.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq002.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq002.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/002.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq002.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq002.html">
 <h3 class="no-anchor listing-title">
-Agitador magnético com aquecimento
+<a href="../../../../pages/procedimentos/operacionais/peq/peq002.html" class="no-external">Agitador magnético com aquecimento</a>
 </h3>
 <div class="listing-subtitle">
-Marca: LOGEN, Modelo: LS59
+<a href="../../../../pages/procedimentos/operacionais/peq/peq002.html" class="no-external">Marca: LOGEN, Modelo: LS59</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Agitação'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QWdpdGElQzMlQTclQzMlQTNv'); return false;">
 Agitação
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Aquecimento'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXF1ZWNpbWVudG8='); return false;">
 Aquecimento
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq002.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq002.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq002.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq002.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-002
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="2" data-categories="Agitação,Aquecimento" data-listing-date-sort="1690914276000" data-listing-file-modified-sort="1690914276000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="2" data-categories="QWdpdGElQzMlQTclQzMlQTNvJTJDQXF1ZWNpbWVudG8=" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq003.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/003.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq003.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq003.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/003.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq003.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq003.html">
 <h3 class="no-anchor listing-title">
-Agitador magnético com aquecimento
+<a href="../../../../pages/procedimentos/operacionais/peq/peq003.html" class="no-external">Agitador magnético com aquecimento</a>
 </h3>
 <div class="listing-subtitle">
-Marca: IKA, Modelo: RT10 - São Paulo/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq003.html" class="no-external">Marca: IKA, Modelo: RT10 - São Paulo/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Agitação'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QWdpdGElQzMlQTclQzMlQTNv'); return false;">
 Agitação
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Aquecimento'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXF1ZWNpbWVudG8='); return false;">
 Aquecimento
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq003.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq003.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq003.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq003.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-003
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="3" data-categories="Agitação" data-listing-date-sort="1690914293000" data-listing-file-modified-sort="1690914293000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="3" data-categories="QWdpdGElQzMlQTclQzMlQTNv" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq004.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/004.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq004.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq004.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/004.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq004.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq004.html">
 <h3 class="no-anchor listing-title">
-Agitador mecânico
+<a href="../../../../pages/procedimentos/operacionais/peq/peq004.html" class="no-external">Agitador mecânico</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Fisatom, Modelo: 710 - São Paulo/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq004.html" class="no-external">Marca: Fisatom, Modelo: 710 - São Paulo/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Agitação'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QWdpdGElQzMlQTclQzMlQTNv'); return false;">
 Agitação
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq004.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq004.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq004.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq004.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-004
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="4" data-categories="Agitação" data-listing-date-sort="1690914497000" data-listing-file-modified-sort="1690914497000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="4" data-categories="QWdpdGElQzMlQTclQzMlQTNv" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq005.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/005.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq005.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq005.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/005.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq005.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq005.html">
 <h3 class="no-anchor listing-title">
-Agitador vórtex
+<a href="../../../../pages/procedimentos/operacionais/peq/peq005.html" class="no-external">Agitador vórtex</a>
 </h3>
 <div class="listing-subtitle">
-Marca: B. Braun Biotech, Modelo: Certomat - Melsungen/Alemanha
+<a href="../../../../pages/procedimentos/operacionais/peq/peq005.html" class="no-external">Marca: B. Braun Biotech, Modelo: Certomat - Melsungen/Alemanha</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Agitação'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QWdpdGElQzMlQTclQzMlQTNv'); return false;">
 Agitação
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq005.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq005.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq005.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq005.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-005
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="5" data-categories="Pesagem" data-listing-date-sort="1690914482000" data-listing-file-modified-sort="1690914482000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="5" data-categories="UGVzYWdlbQ==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq008.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/007.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq008.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq008.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/007.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq008.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq008.html">
 <h3 class="no-anchor listing-title">
-Balança Analítica
+<a href="../../../../pages/procedimentos/operacionais/peq/peq008.html" class="no-external">Balança Analítica</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Scientech, Modelo: SA210 - Boulder/EUA
+<a href="../../../../pages/procedimentos/operacionais/peq/peq008.html" class="no-external">Marca: Scientech, Modelo: SA210 - Boulder/EUA</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Pesagem'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('UGVzYWdlbQ=='); return false;">
 Pesagem
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq008.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq008.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq008.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq008.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-008
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="6" data-categories="Pesagem" data-listing-date-sort="1690914310000" data-listing-file-modified-sort="1690914310000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="6" data-categories="UGVzYWdlbQ==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq006.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/006.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq006.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq006.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/006.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq006.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq006.html">
 <h3 class="no-anchor listing-title">
-Balança Analítica Edutec
+<a href="../../../../pages/procedimentos/operacionais/peq/peq006.html" class="no-external">Balança Analítica Edutec</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Edutec - Curitiba/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq006.html" class="no-external">Marca: Edutec - Curitiba/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Pesagem'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('UGVzYWdlbQ=='); return false;">
 Pesagem
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq006.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq006.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq006.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq006.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-006
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="7" data-categories="Pesagem" data-listing-date-sort="1690914183000" data-listing-file-modified-sort="1690914183000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="7" data-categories="UGVzYWdlbQ==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq007.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/007.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq007.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq007.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/007.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq007.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq007.html">
 <h3 class="no-anchor listing-title">
-Balança analítica
+<a href="../../../../pages/procedimentos/operacionais/peq/peq007.html" class="no-external">Balança analítica</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Marte, Modelo: AY-220 - São Paulo/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq007.html" class="no-external">Marca: Marte, Modelo: AY-220 - São Paulo/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Pesagem'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('UGVzYWdlbQ=='); return false;">
 Pesagem
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq007.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq007.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq007.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq007.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-007
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="8" data-categories="Pesagem" data-listing-date-sort="1690914624000" data-listing-file-modified-sort="1690914624000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="8" data-categories="UGVzYWdlbQ==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq009.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/009.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq009.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq009.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/009.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq009.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq009.html">
 <h3 class="no-anchor listing-title">
-Balança analítica
+<a href="../../../../pages/procedimentos/operacionais/peq/peq009.html" class="no-external">Balança analítica</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Shimadzu, Modelo: AY220 - Quioto/Japão
+<a href="../../../../pages/procedimentos/operacionais/peq/peq009.html" class="no-external">Marca: Shimadzu, Modelo: AY220 - Quioto/Japão</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Pesagem'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('UGVzYWdlbQ=='); return false;">
 Pesagem
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq009.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq009.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq009.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq009.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-009
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="9" data-categories="Pesagem" data-listing-date-sort="1690915565000" data-listing-file-modified-sort="1690915565000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="9" data-categories="UGVzYWdlbQ==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq010.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/010.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq010.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq010.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/010.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq010.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq010.html">
 <h3 class="no-anchor listing-title">
-Balança comercial
+<a href="../../../../pages/procedimentos/operacionais/peq/peq010.html" class="no-external">Balança comercial</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Balmak, Modelo: ELP-30, Santa Bárbara d’Oeste/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq010.html" class="no-external">Marca: Balmak, Modelo: ELP-30, Santa Bárbara d’Oeste/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Pesagem'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('UGVzYWdlbQ=='); return false;">
 Pesagem
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq010.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq010.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq010.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq010.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-010
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="10" data-categories="Pesagem" data-listing-date-sort="1690918984000" data-listing-file-modified-sort="1690918984000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="10" data-categories="UGVzYWdlbQ==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq011.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/011.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq011.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq011.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/011.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq011.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq011.html">
 <h3 class="no-anchor listing-title">
-Balança semi analítica
+<a href="../../../../pages/procedimentos/operacionais/peq/peq011.html" class="no-external">Balança semi analítica</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Gehaka, Modelo: BG-440 - São Paulo/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq011.html" class="no-external">Marca: Gehaka, Modelo: BG-440 - São Paulo/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Pesagem'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('UGVzYWdlbQ=='); return false;">
 Pesagem
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq011.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq011.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq011.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq011.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-011
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="11" data-categories="Aquecimento" data-listing-date-sort="1690919050000" data-listing-file-modified-sort="1690919050000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="11" data-categories="QXF1ZWNpbWVudG8=" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq012.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/012.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq012.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq012.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/012.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq012.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq012.html">
 <h3 class="no-anchor listing-title">
-Banho Maria
+<a href="../../../../pages/procedimentos/operacionais/peq/peq012.html" class="no-external">Banho Maria</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Fanem, Modelo: 100 - São Paulo/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq012.html" class="no-external">Marca: Fanem, Modelo: 100 - São Paulo/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Aquecimento'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXF1ZWNpbWVudG8='); return false;">
 Aquecimento
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq012.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq012.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq012.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq012.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-012
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="12" data-categories="Aquecimento" data-listing-date-sort="1690919535000" data-listing-file-modified-sort="1690919535000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="12" data-categories="QXF1ZWNpbWVudG8=" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq013.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/013.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq013.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq013.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/013.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq013.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq013.html">
 <h3 class="no-anchor listing-title">
-Banho tipo Dubnoff
+<a href="../../../../pages/procedimentos/operacionais/peq/peq013.html" class="no-external">Banho tipo Dubnoff</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Nova Técnica, Modelo: NT-232 - Piracicaba/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq013.html" class="no-external">Marca: Nova Técnica, Modelo: NT-232 - Piracicaba/Brasil </a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Aquecimento'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXF1ZWNpbWVudG8='); return false;">
 Aquecimento
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq013.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq013.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq013.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq013.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-013
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="13" data-categories="Aquecimento" data-listing-date-sort="1690919527000" data-listing-file-modified-sort="1690919527000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="13" data-categories="QXF1ZWNpbWVudG8=" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq014.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/014.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq014.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq014.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/014.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq014.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq014.html">
 <h3 class="no-anchor listing-title">
-Banho tipo Dubnoff
+<a href="../../../../pages/procedimentos/operacionais/peq/peq014.html" class="no-external">Banho tipo Dubnoff</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Tecnal, Modelo: TE-053 - Piracicaba/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq014.html" class="no-external">Marca: Tecnal, Modelo: TE-053 - Piracicaba/Brasil </a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Aquecimento'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXF1ZWNpbWVudG8='); return false;">
 Aquecimento
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq014.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq014.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq014.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq014.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-014
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="14" data-categories="Ultrassom" data-listing-date-sort="1690919634000" data-listing-file-modified-sort="1690919634000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="14" data-categories="VWx0cmFzc29t" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq015.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/015.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq015.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq015.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/015.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq015.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq015.html">
 <h3 class="no-anchor listing-title">
-Banho ultrassônico
+<a href="../../../../pages/procedimentos/operacionais/peq/peq015.html" class="no-external">Banho ultrassônico</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Alt, Modelo: Altsonic Clean - Ribeirão Preto/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq015.html" class="no-external">Marca: Alt, Modelo: Altsonic Clean - Ribeirão Preto/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Ultrassom'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('VWx0cmFzc29t'); return false;">
 Ultrassom
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq015.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq015.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq015.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq015.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-015
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="15" data-categories="Ultrassom" data-listing-date-sort="1690940615000" data-listing-file-modified-sort="1690940615666" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="15" data-categories="VWx0cmFzc29t" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq058.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/058.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq058.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq058.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/058.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq058.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq058.html">
 <h3 class="no-anchor listing-title">
-Banho ultrassônico
+<a href="../../../../pages/procedimentos/operacionais/peq/peq058.html" class="no-external">Banho ultrassônico</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Unique, Modelo: USC-2800A - Indaiatuba/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq058.html" class="no-external">Marca: Unique, Modelo: USC-2800A - Indaiatuba/Brasil </a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Ultrassom'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('VWx0cmFzc29t'); return false;">
 Ultrassom
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq058.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq058.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq058.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq058.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-058
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="16" data-categories="Aquecimento,Resfriamento" data-listing-date-sort="1690919717000" data-listing-file-modified-sort="1690919717000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="16" data-categories="QXF1ZWNpbWVudG8lMkNSZXNmcmlhbWVudG8=" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq016.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/016.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq016.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq016.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/016.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq016.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq016.html">
 <h3 class="no-anchor listing-title">
-Banho ultratermostático
+<a href="../../../../pages/procedimentos/operacionais/peq/peq016.html" class="no-external">Banho ultratermostático</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Cienlab - Campinas/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq016.html" class="no-external">Marca: Cienlab - Campinas/Brasil </a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Aquecimento'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXF1ZWNpbWVudG8='); return false;">
 Aquecimento
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Resfriamento'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('UmVzZnJpYW1lbnRv'); return false;">
 Resfriamento
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq016.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq016.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq016.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq016.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-016
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="17" data-categories="Extração" data-listing-date-sort="1690919972000" data-listing-file-modified-sort="1690919972000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="17" data-categories="RXh0cmElQzMlQTclQzMlQTNv" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq017.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/017.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq017.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq017.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/017.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq017.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq017.html">
 <h3 class="no-anchor listing-title">
-Bateria para extração de lipídeos
+<a href="../../../../pages/procedimentos/operacionais/peq/peq017.html" class="no-external">Bateria para extração de lipídeos</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Quimis
+<a href="../../../../pages/procedimentos/operacionais/peq/peq017.html" class="no-external">Marca: Quimis</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Extração'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RXh0cmElQzMlQTclQzMlQTNv'); return false;">
 Extração
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq017.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq017.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq017.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq017.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-017
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="18" data-categories="Digestão" data-listing-date-sort="1690920097000" data-listing-file-modified-sort="1690920097000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="18" data-categories="RGlnZXN0JUMzJUEzbw==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq018.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/018.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq018.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq018.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/018.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq018.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq018.html">
 <h3 class="no-anchor listing-title">
-Bloco digestor
+<a href="../../../../pages/procedimentos/operacionais/peq/peq018.html" class="no-external">Bloco digestor</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Tecnal, Modelo: TE-040/25 - Piracicaba/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq018.html" class="no-external">Marca: Tecnal, Modelo: TE-040/25 - Piracicaba/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Digestão'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RGlnZXN0JUMzJUEzbw=='); return false;">
 Digestão
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq018.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq018.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq018.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq018.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-018
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="19" data-categories="Digestão" data-listing-date-sort="1690920146000" data-listing-file-modified-sort="1690920146000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="19" data-categories="RGlnZXN0JUMzJUEzbw==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq019.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/019.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq019.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq019.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/019.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq019.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq019.html">
 <h3 class="no-anchor listing-title">
-Bloco digestor
+<a href="../../../../pages/procedimentos/operacionais/peq/peq019.html" class="no-external">Bloco digestor</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Tecnal, Modelo: TE-040/25 - Piracicaba/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq019.html" class="no-external">Marca: Tecnal, Modelo: TE-040/25 - Piracicaba/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Digestão'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RGlnZXN0JUMzJUEzbw=='); return false;">
 Digestão
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq019.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq019.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq019.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq019.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-019
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="20" data-categories="Vácuo" data-listing-date-sort="1690920192000" data-listing-file-modified-sort="1690920192000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="20" data-categories="ViVDMyVBMWN1bw==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq020.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/020.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq020.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq020.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/020.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq020.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq020.html">
 <h3 class="no-anchor listing-title">
-Bomba de vácuo
+<a href="../../../../pages/procedimentos/operacionais/peq/peq020.html" class="no-external">Bomba de vácuo</a>
 </h3>
 <div class="listing-subtitle">
-Marca: TECNAL , Modelo: TE-0581 - Piracicaba/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq020.html" class="no-external">Marca: TECNAL , Modelo: TE-0581 - Piracicaba/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Vácuo'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('ViVDMyVBMWN1bw=='); return false;">
 Vácuo
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq020.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq020.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq020.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq020.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-020
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="21" data-categories="Vácuo" data-listing-date-sort="1690920261000" data-listing-file-modified-sort="1690920261000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="21" data-categories="ViVDMyVBMWN1bw==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq021.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/021.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq021.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq021.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/021.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq021.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq021.html">
 <h3 class="no-anchor listing-title">
-Bomba de vácuo
+<a href="../../../../pages/procedimentos/operacionais/peq/peq021.html" class="no-external">Bomba de vácuo</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Fisatom , Modelo: 826T - São Paulo/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq021.html" class="no-external">Marca: Fisatom , Modelo: 826T - São Paulo/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Vácuo'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('ViVDMyVBMWN1bw=='); return false;">
 Vácuo
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq021.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq021.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq021.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq021.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-021
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="22" data-categories="Volumetria" data-listing-date-sort="1690920326000" data-listing-file-modified-sort="1690920326000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="22" data-categories="Vm9sdW1ldHJpYQ==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq022.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/022.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq022.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq022.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/022.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq022.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq022.html">
 <h3 class="no-anchor listing-title">
-Bureta digital
+<a href="../../../../pages/procedimentos/operacionais/peq/peq022.html" class="no-external">Bureta digital</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Brand, Modelo: Tittrete - Wertheim/Alemanha
+<a href="../../../../pages/procedimentos/operacionais/peq/peq022.html" class="no-external">Marca: Brand, Modelo: Tittrete - Wertheim/Alemanha</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Volumetria'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Vm9sdW1ldHJpYQ=='); return false;">
 Volumetria
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq022.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq022.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq022.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq022.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-022
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="23" data-categories="Exaustão" data-listing-date-sort="1690920380000" data-listing-file-modified-sort="1690920380000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="23" data-categories="RXhhdXN0JUMzJUEzbw==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq023.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/023.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq023.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq023.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/023.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq023.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq023.html">
 <h3 class="no-anchor listing-title">
-Capela de exaustão de gases
+<a href="../../../../pages/procedimentos/operacionais/peq/peq023.html" class="no-external">Capela de exaustão de gases</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Oxicamp - Campinas/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq023.html" class="no-external">Marca: Oxicamp - Campinas/Brasil </a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Exaustão'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RXhhdXN0JUMzJUEzbw=='); return false;">
 Exaustão
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq023.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq023.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq023.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq023.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-023
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="24" data-categories="Centrifugação" data-listing-date-sort="1690920507000" data-listing-file-modified-sort="1690920507000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="24" data-categories="Q2VudHJpZnVnYSVDMyVBNyVDMyVBM28=" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq025.html"> <img src="../../../../pages/procedimentos/operacionais/peq/fotos/025.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq025.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq025.html" class="no-external">
+<p><img loading="lazy" src="../../../../pages/procedimentos/operacionais/peq/fotos/025.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq025.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq025.html">
 <h3 class="no-anchor listing-title">
-Centrífuga
+<a href="../../../../pages/procedimentos/operacionais/peq/peq025.html" class="no-external">Centrífuga</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Sigma, Modelo: 2-3 - Osterode am Harz/Alemanha
+<a href="../../../../pages/procedimentos/operacionais/peq/peq025.html" class="no-external">Marca: Sigma, Modelo: 2-3 - Osterode am Harz/Alemanha</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Centrifugação'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Q2VudHJpZnVnYSVDMyVBNyVDMyVBM28='); return false;">
 Centrifugação
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq025.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq025.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq025.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq025.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-025
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="25" data-categories="Centrifugação" data-listing-date-sort="1690920439000" data-listing-file-modified-sort="1690920439000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="25" data-categories="Q2VudHJpZnVnYSVDMyVBNyVDMyVBM28=" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq024.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/024.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq024.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq024.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/024.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq024.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq024.html">
 <h3 class="no-anchor listing-title">
-Centrífuga Refrigerada
+<a href="../../../../pages/procedimentos/operacionais/peq/peq024.html" class="no-external">Centrífuga Refrigerada</a>
 </h3>
 <div class="listing-subtitle">
-Marca: MPW, Modelo: 350-R - Varsóvia/Polônia
+<a href="../../../../pages/procedimentos/operacionais/peq/peq024.html" class="no-external">Marca: MPW, Modelo: 350-R - Varsóvia/Polônia</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Centrifugação'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Q2VudHJpZnVnYSVDMyVBNyVDMyVBM28='); return false;">
 Centrifugação
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq024.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq024.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq024.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq024.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-024
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="26" data-categories="Aquecimento" data-listing-date-sort="1690920581000" data-listing-file-modified-sort="1690920581000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="26" data-categories="QXF1ZWNpbWVudG8=" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq026.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/026.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq026.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq026.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/026.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq026.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq026.html">
 <h3 class="no-anchor listing-title">
-Chapa aquecedora
+<a href="../../../../pages/procedimentos/operacionais/peq/peq026.html" class="no-external">Chapa aquecedora</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Tecnal, Modelo: TE-018 - Piracicaba/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq026.html" class="no-external">Marca: Tecnal, Modelo: TE-018 - Piracicaba/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Aquecimento'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXF1ZWNpbWVudG8='); return false;">
 Aquecimento
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq026.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq026.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq026.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq026.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-026
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="27" data-categories="Condutimetria" data-listing-date-sort="1690920738000" data-listing-file-modified-sort="1690920738000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="27" data-categories="Q29uZHV0aW1ldHJpYQ==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq027.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/027.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq027.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq027.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/027.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq027.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq027.html">
 <h3 class="no-anchor listing-title">
-Condutivímetro
+<a href="../../../../pages/procedimentos/operacionais/peq/peq027.html" class="no-external">Condutivímetro</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Schott, Modelo: LF-1 - Mitterteich/Alemanha
+<a href="../../../../pages/procedimentos/operacionais/peq/peq027.html" class="no-external">Marca: Schott, Modelo: LF-1 - Mitterteich/Alemanha </a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Condutimetria'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Q29uZHV0aW1ldHJpYQ=='); return false;">
 Condutimetria
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq027.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq027.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq027.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq027.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-027
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="28" data-categories="Destilação de nitrogênio" data-listing-date-sort="1690920937000" data-listing-file-modified-sort="1690920937000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="28" data-categories="RGVzdGlsYSVDMyVBNyVDMyVBM28lMjBkZSUyMG5pdHJvZyVDMyVBQW5pbw==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq029.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/029.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq029.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq029.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/029.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq029.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq029.html">
 <h3 class="no-anchor listing-title">
-Destilador de Nitrogênio
+<a href="../../../../pages/procedimentos/operacionais/peq/peq029.html" class="no-external">Destilador de Nitrogênio</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Tecnal, Modelo: TE-036 - Piracicaba/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq029.html" class="no-external">Marca: Tecnal, Modelo: TE-036 - Piracicaba/Brasil </a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Destilação de nitrogênio'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RGVzdGlsYSVDMyVBNyVDMyVBM28lMjBkZSUyMG5pdHJvZyVDMyVBQW5pbw=='); return false;">
 Destilação de nitrogênio
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq029.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq029.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq029.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq029.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-029
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="29" data-categories="Destilação de nitrogênio" data-listing-date-sort="1690920927000" data-listing-file-modified-sort="1690920927000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="29" data-categories="RGVzdGlsYSVDMyVBNyVDMyVBM28lMjBkZSUyMG5pdHJvZyVDMyVBQW5pbw==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq030.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/030.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq030.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq030.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/030.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq030.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq030.html">
 <h3 class="no-anchor listing-title">
-Destilador de Nitrogênio
+<a href="../../../../pages/procedimentos/operacionais/peq/peq030.html" class="no-external">Destilador de Nitrogênio</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Tecnal, Modelo: TE-0363 - Piracicaba/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq030.html" class="no-external">Marca: Tecnal, Modelo: TE-0363 - Piracicaba/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Destilação de nitrogênio'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RGVzdGlsYSVDMyVBNyVDMyVBM28lMjBkZSUyMG5pdHJvZyVDMyVBQW5pbw=='); return false;">
 Destilação de nitrogênio
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq030.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq030.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq030.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq030.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-030
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="30" data-categories="Destilação de água" data-listing-date-sort="1690935353000" data-listing-file-modified-sort="1690935353300" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="30" data-categories="RGVzdGlsYSVDMyVBNyVDMyVBM28lMjBkZSUyMCVDMyVBMWd1YQ==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq028.html"> <img data-src="fotos/lanal-blog-v2.png" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq028.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq028.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq028.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq028.html">
 <h3 class="no-anchor listing-title">
-Destilador de água
+<a href="../../../../pages/procedimentos/operacionais/peq/peq028.html" class="no-external">Destilador de água</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Tecnal, Modelo: TE-0275 - Piracicaba/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq028.html" class="no-external">Marca: Tecnal, Modelo: TE-0275 - Piracicaba/Brasil </a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Destilação de água'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RGVzdGlsYSVDMyVBNyVDMyVBM28lMjBkZSUyMCVDMyVBMWd1YQ=='); return false;">
 Destilação de água
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq028.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq028.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq028.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq028.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-028
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="31" data-categories="Secagem,Pesagem" data-listing-date-sort="1690936036000" data-listing-file-modified-sort="1690936036572" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="31" data-categories="U2VjYWdlbSUyQ1Blc2FnZW0=" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq031.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/031.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq031.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq031.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/031.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq031.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq031.html">
 <h3 class="no-anchor listing-title">
-Determinador de umidade por infravermelho
+<a href="../../../../pages/procedimentos/operacionais/peq/peq031.html" class="no-external">Determinador de umidade por infravermelho</a>
 </h3>
 <div class="listing-subtitle">
-Marca: BEL - Monza/Itália
+<a href="../../../../pages/procedimentos/operacionais/peq/peq031.html" class="no-external">Marca: BEL - Monza/Itália </a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Secagem'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('U2VjYWdlbQ=='); return false;">
 Secagem
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Pesagem'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('UGVzYWdlbQ=='); return false;">
 Pesagem
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq031.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq031.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq031.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq031.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-031
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="32" data-categories="Espectrofotometria" data-listing-date-sort="1690936448000" data-listing-file-modified-sort="1690936448390" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="32" data-categories="RXNwZWN0cm9mb3RvbWV0cmlh" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq032.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/032.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq032.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq032.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/032.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq032.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq032.html">
 <h3 class="no-anchor listing-title">
-Espectrofotômetro UV-Visível
+<a href="../../../../pages/procedimentos/operacionais/peq/peq032.html" class="no-external">Espectrofotômetro UV-Visível</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Jasco, Modelo: V-630 - Tóquio/Japão
+<a href="../../../../pages/procedimentos/operacionais/peq/peq032.html" class="no-external">Marca: Jasco, Modelo: V-630 - Tóquio/Japão</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Espectrofotometria'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RXNwZWN0cm9mb3RvbWV0cmlh'); return false;">
 Espectrofotometria
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq032.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq032.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq032.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq032.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-032
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="33" data-categories="Secagem,Vácuo" data-listing-date-sort="1690936611000" data-listing-file-modified-sort="1690936611778" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="33" data-categories="U2VjYWdlbSUyQ1YlQzMlQTFjdW8=" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq033.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/033.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq033.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq033.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/033.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq033.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq033.html">
 <h3 class="no-anchor listing-title">
-Estufa a vácuo
+<a href="../../../../pages/procedimentos/operacionais/peq/peq033.html" class="no-external">Estufa a vácuo</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Tecnal, Modelo: TE-395 - Piracicaba/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq033.html" class="no-external">Marca: Tecnal, Modelo: TE-395 - Piracicaba/Brasil </a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Secagem'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('U2VjYWdlbQ=='); return false;">
 Secagem
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Vácuo'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('ViVDMyVBMWN1bw=='); return false;">
 Vácuo
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq033.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq033.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq033.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq033.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-033
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="34" data-categories="Secagem" data-listing-date-sort="1690936687000" data-listing-file-modified-sort="1690936687225" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="34" data-categories="U2VjYWdlbQ==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq034.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/034.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq034.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq034.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/034.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq034.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq034.html">
 <h3 class="no-anchor listing-title">
-Estufa com circulação de ar
+<a href="../../../../pages/procedimentos/operacionais/peq/peq034.html" class="no-external">Estufa com circulação de ar</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Tecnal, Modelo: TE-394/1 - Piracicaba/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq034.html" class="no-external">Marca: Tecnal, Modelo: TE-394/1 - Piracicaba/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Secagem'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('U2VjYWdlbQ=='); return false;">
 Secagem
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq034.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq034.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq034.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq034.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-034
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="35" data-categories="Secagem" data-listing-date-sort="1690937108000" data-listing-file-modified-sort="1690937108011" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="35" data-categories="U2VjYWdlbQ==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq035.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/035.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq035.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq035.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/035.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq035.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq035.html">
 <h3 class="no-anchor listing-title">
-Estufa de secagem e esterilização
+<a href="../../../../pages/procedimentos/operacionais/peq/peq035.html" class="no-external">Estufa de secagem e esterilização</a>
 </h3>
 <div class="listing-subtitle">
-Marca: FANEM, Modelo: 315-SE - São Paulo/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq035.html" class="no-external">Marca: FANEM, Modelo: 315-SE - São Paulo/Brasil </a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Secagem'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('U2VjYWdlbQ=='); return false;">
 Secagem
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq035.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq035.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq035.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq035.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-035
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="36" data-categories="Secagem" data-listing-date-sort="1690935803000" data-listing-file-modified-sort="1690935803236" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="36" data-categories="U2VjYWdlbQ==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq036.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/036.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq036.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq036.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/036.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq036.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq036.html">
 <h3 class="no-anchor listing-title">
-Estufa de secagem e esterilização
+<a href="../../../../pages/procedimentos/operacionais/peq/peq036.html" class="no-external">Estufa de secagem e esterilização</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Tecnal, Modelo: TE 393/1 - São Paulo/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq036.html" class="no-external">Marca: Tecnal, Modelo: TE 393/1 - São Paulo/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Secagem'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('U2VjYWdlbQ=='); return false;">
 Secagem
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq036.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq036.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq036.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq036.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-036
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="37" data-categories="Evaporação" data-listing-date-sort="1690935941000" data-listing-file-modified-sort="1690935941475" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="37" data-categories="RXZhcG9yYSVDMyVBNyVDMyVBM28=" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq037.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/037.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq037.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq037.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/037.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq037.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq037.html">
 <h3 class="no-anchor listing-title">
-Evaporador rotativo
+<a href="../../../../pages/procedimentos/operacionais/peq/peq037.html" class="no-external">Evaporador rotativo</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Tecnal, Modelo: TE-211 - Piracicaba/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq037.html" class="no-external">Marca: Tecnal, Modelo: TE-211 - Piracicaba/Brasil </a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Evaporação'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RXZhcG9yYSVDMyVBNyVDMyVBM28='); return false;">
 Evaporação
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq037.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq037.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq037.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq037.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-037
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="38" data-categories="Extração" data-listing-date-sort="1690940685000" data-listing-file-modified-sort="1690940685680" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="38" data-categories="RXh0cmElQzMlQTclQzMlQTNv" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq038.html"> <img data-src="fotos/lanal-blog-v2.png" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq038.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq038.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq038.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq038.html">
 <h3 class="no-anchor listing-title">
-Extrator de lipídeos
+<a href="../../../../pages/procedimentos/operacionais/peq/peq038.html" class="no-external">Extrator de lipídeos</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Foss, Modelo: 2055 Soxhtec - Hillerød/Dinamarca
+<a href="../../../../pages/procedimentos/operacionais/peq/peq038.html" class="no-external">Marca: Foss, Modelo: 2055 Soxhtec - Hillerød/Dinamarca</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Extração'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RXh0cmElQzMlQTclQzMlQTNv'); return false;">
 Extração
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq038.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq038.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq038.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq038.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-038
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="39" data-categories="Extração" data-listing-date-sort="1690937207000" data-listing-file-modified-sort="1690937207762" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="39" data-categories="RXh0cmElQzMlQTclQzMlQTNv" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq039.html"> <img data-src="fotos/lanal-blog-v2.png" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq039.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq039.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq039.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq039.html">
 <h3 class="no-anchor listing-title">
-Extrator de lipídeos
+<a href="../../../../pages/procedimentos/operacionais/peq/peq039.html" class="no-external">Extrator de lipídeos</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Tecnal, Modelo: TE 044-5/50 - Piracicaba/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq039.html" class="no-external">Marca: Tecnal, Modelo: TE 044-5/50 - Piracicaba/Brasil </a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Extração'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RXh0cmElQzMlQTclQzMlQTNv'); return false;">
 Extração
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq039.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq039.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq039.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq039.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-039
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="40" data-categories="Carbonização" data-listing-date-sort="1690940560000" data-listing-file-modified-sort="1690940560541" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="40" data-categories="Q2FyYm9uaXphJUMzJUE3JUMzJUEzbw==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq057.html"> <img data-src="fotos/lanal-blog-v2.png" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq057.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq057.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq057.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq057.html">
 <h3 class="no-anchor listing-title">
-Fogão com duas bocas de baixa pressão
+<a href="../../../../pages/procedimentos/operacionais/peq/peq057.html" class="no-external">Fogão com duas bocas de baixa pressão</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Yanes
+<a href="../../../../pages/procedimentos/operacionais/peq/peq057.html" class="no-external">Marca: Yanes</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Carbonização'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Q2FyYm9uaXphJUMzJUE3JUMzJUEzbw=='); return false;">
 Carbonização
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq057.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq057.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq057.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq057.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-057
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="41" data-categories="Cinzas" data-listing-date-sort="1690937620000" data-listing-file-modified-sort="1690937620924" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="41" data-categories="Q2luemFz" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq041.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/041.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq041.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq041.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/041.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq041.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq041.html">
 <h3 class="no-anchor listing-title">
-Forno Mufla
+<a href="../../../../pages/procedimentos/operacionais/peq/peq041.html" class="no-external">Forno Mufla</a>
 </h3>
 <div class="listing-subtitle">
-Marca: EDG, Modelo: 10P - São Carlos/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq041.html" class="no-external">Marca: EDG, Modelo: 10P - São Carlos/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Cinzas'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Q2luemFz'); return false;">
 Cinzas
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq041.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq041.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq041.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq041.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-041
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="42" data-categories="Cinzas" data-listing-date-sort="1690937671000" data-listing-file-modified-sort="1690937671711" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="42" data-categories="Q2luemFz" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq042.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/042.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq042.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq042.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/042.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq042.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq042.html">
 <h3 class="no-anchor listing-title">
-Forno Mufla
+<a href="../../../../pages/procedimentos/operacionais/peq/peq042.html" class="no-external">Forno Mufla</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Nova Técnica - Piracicaba/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq042.html" class="no-external">Marca: Nova Técnica - Piracicaba/Brasil </a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Cinzas'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('Q2luemFz'); return false;">
 Cinzas
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq042.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq042.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq042.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq042.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-042
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="43" data-categories="Aquecimento" data-listing-date-sort="1690937524000" data-listing-file-modified-sort="1690937524588" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="43" data-categories="QXF1ZWNpbWVudG8=" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq040.html"> <img data-src="fotos/lanal-blog-v2.png" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq040.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq040.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq040.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq040.html">
 <h3 class="no-anchor listing-title">
-Forno elétrico
+<a href="../../../../pages/procedimentos/operacionais/peq/peq040.html" class="no-external">Forno elétrico</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Layr, Modelo: Crystal 1.75 Top Class - Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq040.html" class="no-external">Marca: Layr, Modelo: Crystal 1.75 Top Class - Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Aquecimento'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXF1ZWNpbWVudG8='); return false;">
 Aquecimento
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq040.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq040.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq040.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq040.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-040
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="44" data-categories="Homogeneização,Agitação" data-listing-date-sort="1690937806000" data-listing-file-modified-sort="1690937806142" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="44" data-categories="SG9tb2dlbmVpemElQzMlQTclQzMlQTNvJTJDQWdpdGElQzMlQTclQzMlQTNv" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq043.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/043.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq043.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq043.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/043.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq043.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq043.html">
 <h3 class="no-anchor listing-title">
-Homogeneizador de amostras
+<a href="../../../../pages/procedimentos/operacionais/peq/peq043.html" class="no-external">Homogeneizador de amostras</a>
 </h3>
 <div class="listing-subtitle">
-Marca: UFG, Modelo: 2001 - Goiânia/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq043.html" class="no-external">Marca: UFG, Modelo: 2001 - Goiânia/Brasil </a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Homogeneização'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('SG9tb2dlbmVpemElQzMlQTclQzMlQTNv'); return false;">
 Homogeneização
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Agitação'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QWdpdGElQzMlQTclQzMlQTNv'); return false;">
 Agitação
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq043.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq043.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq043.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq043.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-043
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="45" data-categories="Aquecimento" data-listing-date-sort="1690938199000" data-listing-file-modified-sort="1690938199268" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="45" data-categories="QXF1ZWNpbWVudG8=" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq044.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/044.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq044.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq044.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/044.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq044.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq044.html">
 <h3 class="no-anchor listing-title">
-Manta aquecedora
+<a href="../../../../pages/procedimentos/operacionais/peq/peq044.html" class="no-external">Manta aquecedora</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Fisatom, Modelo: 202 - São Paulo/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq044.html" class="no-external">Marca: Fisatom, Modelo: 202 - São Paulo/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Aquecimento'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('QXF1ZWNpbWVudG8='); return false;">
 Aquecimento
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq044.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq044.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq044.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq044.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-044
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="46" data-categories="Medição de pH" data-listing-date-sort="1690938271000" data-listing-file-modified-sort="1690938271630" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="46" data-categories="TWVkaSVDMyVBNyVDMyVBM28lMjBkZSUyMHBI" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq045.html"> <img data-src="fotos/lanal-blog-v2.png" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq045.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq045.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq045.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq045.html">
 <h3 class="no-anchor listing-title">
-Medidor de pH
+<a href="../../../../pages/procedimentos/operacionais/peq/peq045.html" class="no-external">Medidor de pH</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Alpax, Modelo: PA 200 - Diadema/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq045.html" class="no-external">Marca: Alpax, Modelo: PA 200 - Diadema/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Medição de pH'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('TWVkaSVDMyVBNyVDMyVBM28lMjBkZSUyMHBI'); return false;">
 Medição de pH
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq045.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq045.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq045.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq045.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-045
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="47" data-categories="Medição de pH" data-listing-date-sort="1690938401000" data-listing-file-modified-sort="1690938401561" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="47" data-categories="TWVkaSVDMyVBNyVDMyVBM28lMjBkZSUyMHBI" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq046.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/046.png" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq046.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq046.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/046.png" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq046.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq046.html">
 <h3 class="no-anchor listing-title">
-Medidor de pH
+<a href="../../../../pages/procedimentos/operacionais/peq/peq046.html" class="no-external">Medidor de pH</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Adwa, Modelo: AD1000 - Szeged/Hungria
+<a href="../../../../pages/procedimentos/operacionais/peq/peq046.html" class="no-external">Marca: Adwa, Modelo: AD1000 - Szeged/Hungria</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Medição de pH'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('TWVkaSVDMyVBNyVDMyVBM28lMjBkZSUyMHBI'); return false;">
 Medição de pH
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq046.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq046.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq046.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq046.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-046
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="48" data-categories="Medição de pH" data-listing-date-sort="1690938652000" data-listing-file-modified-sort="1690938652490" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="48" data-categories="TWVkaSVDMyVBNyVDMyVBM28lMjBkZSUyMHBI" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq047.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/047.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq047.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq047.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/047.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq047.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq047.html">
 <h3 class="no-anchor listing-title">
-Medidor de pH
+<a href="../../../../pages/procedimentos/operacionais/peq/peq047.html" class="no-external">Medidor de pH</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Bel, Modelo: W3B - Ítália
+<a href="../../../../pages/procedimentos/operacionais/peq/peq047.html" class="no-external">Marca: Bel, Modelo: W3B - Ítália</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Medição de pH'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('TWVkaSVDMyVBNyVDMyVBM28lMjBkZSUyMHBI'); return false;">
 Medição de pH
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq047.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq047.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq047.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq047.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-047
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="49" data-categories="Medição de pH" data-listing-date-sort="1690939549000" data-listing-file-modified-sort="1690939549878" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="49" data-categories="TWVkaSVDMyVBNyVDMyVBM28lMjBkZSUyMHBI" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq048.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/048.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq048.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq048.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/048.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq048.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq048.html">
 <h3 class="no-anchor listing-title">
-Medidor de pH
+<a href="../../../../pages/procedimentos/operacionais/peq/peq048.html" class="no-external">Medidor de pH</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Hanna, Modelo: HI-8314 - Woonsocket/EUA
+<a href="../../../../pages/procedimentos/operacionais/peq/peq048.html" class="no-external">Marca: Hanna, Modelo: HI-8314 - Woonsocket/EUA </a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Medição de pH'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('TWVkaSVDMyVBNyVDMyVBM28lMjBkZSUyMHBI'); return false;">
 Medição de pH
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq048.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq048.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq048.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq048.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-048
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="50" data-categories="Moagem" data-listing-date-sort="1690939664000" data-listing-file-modified-sort="1690939664184" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="50" data-categories="TW9hZ2Vt" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq049.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/049.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq049.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq049.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/049.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq049.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq049.html">
 <h3 class="no-anchor listing-title">
-Micromoinho analítico
+<a href="../../../../pages/procedimentos/operacionais/peq/peq049.html" class="no-external">Micromoinho analítico</a>
 </h3>
 <div class="listing-subtitle">
-Marca: IKA, Modelo: A11 Basic - Staufen/Alemanha
+<a href="../../../../pages/procedimentos/operacionais/peq/peq049.html" class="no-external">Marca: IKA, Modelo: A11 Basic - Staufen/Alemanha</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Moagem'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('TW9hZ2Vt'); return false;">
 Moagem
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq049.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq049.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq049.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq049.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-049
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="51" data-categories="Purificação de água" data-listing-date-sort="1690939738000" data-listing-file-modified-sort="1690939738405" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="51" data-categories="UHVyaWZpY2ElQzMlQTclQzMlQTNvJTIwZGUlMjAlQzMlQTFndWE=" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq050.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/050.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq050.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq050.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/050.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq050.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq050.html">
 <h3 class="no-anchor listing-title">
-Purificador de água
+<a href="../../../../pages/procedimentos/operacionais/peq/peq050.html" class="no-external">Purificador de água</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Merck Millipore, Modelo: Direct-Q3 - São Paulo/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq050.html" class="no-external">Marca: Merck Millipore, Modelo: Direct-Q3 - São Paulo/Brasil </a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Purificação de água'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('UHVyaWZpY2ElQzMlQTclQzMlQTNvJTIwZGUlMjAlQzMlQTFndWE='); return false;">
 Purificação de água
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq050.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq050.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq050.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq050.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-050
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="52" data-categories="Refratometria" data-listing-date-sort="1690939800000" data-listing-file-modified-sort="1690939800555" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="52" data-categories="UmVmcmF0b21ldHJpYQ==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq051.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/051.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq051.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq051.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/051.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq051.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq051.html">
 <h3 class="no-anchor listing-title">
-Refratômetro de bancada
+<a href="../../../../pages/procedimentos/operacionais/peq/peq051.html" class="no-external">Refratômetro de bancada</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Quimis, Modelo: Q76780 - Diadema/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq051.html" class="no-external">Marca: Quimis, Modelo: Q76780 - Diadema/Brasil </a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Refratometria'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('UmVmcmF0b21ldHJpYQ=='); return false;">
 Refratometria
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq051.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq051.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq051.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq051.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-051
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="53" data-categories="Refratometria" data-listing-date-sort="1690939863000" data-listing-file-modified-sort="1690939863280" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="53" data-categories="UmVmcmF0b21ldHJpYQ==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq052.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/052.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq052.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq052.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/052.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq052.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq052.html">
 <h3 class="no-anchor listing-title">
-Refratômetro portátil com escala entre 0-30%
+<a href="../../../../pages/procedimentos/operacionais/peq/peq052.html" class="no-external">Refratômetro portátil com escala entre 0-30%</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Instrutherm - São Paulo/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq052.html" class="no-external">Marca: Instrutherm - São Paulo/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Refratometria'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('UmVmcmF0b21ldHJpYQ=='); return false;">
 Refratometria
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq052.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq052.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq052.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq052.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-052
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="54" data-categories="Refratometria" data-listing-date-sort="1690939938000" data-listing-file-modified-sort="1690939938819" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="54" data-categories="UmVmcmF0b21ldHJpYQ==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq053.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/053.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq053.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq053.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/053.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq053.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq053.html">
 <h3 class="no-anchor listing-title">
-Refratômetro portátil com escala entre 0-50%
+<a href="../../../../pages/procedimentos/operacionais/peq/peq053.html" class="no-external">Refratômetro portátil com escala entre 0-50%</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Atago, Modelo: N-3E - Bellevue/EUA
+<a href="../../../../pages/procedimentos/operacionais/peq/peq053.html" class="no-external">Marca: Atago, Modelo: N-3E - Bellevue/EUA </a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Refratometria'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('UmVmcmF0b21ldHJpYQ=='); return false;">
 Refratometria
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq053.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq053.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq053.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq053.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-053
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="55" data-categories="Refratometria" data-listing-date-sort="1690940267000" data-listing-file-modified-sort="1690940267332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="55" data-categories="UmVmcmF0b21ldHJpYQ==" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq054.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/054.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq054.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq054.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/054.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq054.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq054.html">
 <h3 class="no-anchor listing-title">
-Refratômetro portátil com escala entre 58-90%
+<a href="../../../../pages/procedimentos/operacionais/peq/peq054.html" class="no-external">Refratômetro portátil com escala entre 58-90%</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Atago, Modelo: N-50e - Bellevue/EUA
+<a href="../../../../pages/procedimentos/operacionais/peq/peq054.html" class="no-external">Marca: Atago, Modelo: N-50e - Bellevue/EUA</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Refratometria'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('UmVmcmF0b21ldHJpYQ=='); return false;">
 Refratometria
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq054.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq054.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq054.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq054.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-054
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="56" data-categories="Medição de temperatura" data-listing-date-sort="1690940411000" data-listing-file-modified-sort="1690940411715" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="56" data-categories="TWVkaSVDMyVBNyVDMyVBM28lMjBkZSUyMHRlbXBlcmF0dXJh" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq055.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/055.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq055.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq055.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/055.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq055.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq055.html">
 <h3 class="no-anchor listing-title">
-Termômetro digital portátil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq055.html" class="no-external">Termômetro digital portátil</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Oregon Scientific, Modelo: AW-268 - Tualatin/EUA
+<a href="../../../../pages/procedimentos/operacionais/peq/peq055.html" class="no-external">Marca: Oregon Scientific, Modelo: AW-268 - Tualatin/EUA</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Medição de temperatura'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('TWVkaSVDMyVBNyVDMyVBM28lMjBkZSUyMHRlbXBlcmF0dXJh'); return false;">
 Medição de temperatura
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq055.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq055.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq055.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq055.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-055
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="57" data-categories="Dispersão,Extração" data-listing-date-sort="1690940489000" data-listing-file-modified-sort="1690940489886" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-left" data-index="57" data-categories="RGlzcGVycyVDMyVBM28lMkNFeHRyYSVDMyVBNyVDMyVBM28=" data-listing-date-sort="1734656866000" data-listing-file-modified-sort="1734656866332" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <div class="thumbnail">
-<p><a href="../../../../pages/procedimentos/operacionais/peq/peq056.html"> <img data-src="../../../../pages/procedimentos/operacionais/peq/fotos/056.jpg" class="thumbnail-image"> </a></p>
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq056.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq056.html" class="no-external">
+<p><img loading="lazy" data-src="../../../../pages/procedimentos/operacionais/peq/fotos/056.jpg" class="thumbnail-image"></p>
+</a><p><a href="../../../../pages/procedimentos/operacionais/peq/peq056.html" class="no-external"></a></p>
 </div>
 <div class="body">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq056.html">
 <h3 class="no-anchor listing-title">
-Ultradispersor de amostras
+<a href="../../../../pages/procedimentos/operacionais/peq/peq056.html" class="no-external">Ultradispersor de amostras</a>
 </h3>
 <div class="listing-subtitle">
-Marca: Gehaka, Modelo: DU-15 - São Paulo/Brasil
+<a href="../../../../pages/procedimentos/operacionais/peq/peq056.html" class="no-external">Marca: Gehaka, Modelo: DU-15 - São Paulo/Brasil</a>
 </div>
-</a>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Dispersão'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RGlzcGVycyVDMyVBM28='); return false;">
 Dispersão
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('Extração'); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('RXh0cmElQzMlQTclQzMlQTNv'); return false;">
 Extração
 </div>
 </div>
-<a href="../../../../pages/procedimentos/operacionais/peq/peq056.html"> </a>
 </div>
 <div class="metadata">
-<a href="../../../../pages/procedimentos/operacionais/peq/peq056.html">
+<p><a href="../../../../pages/procedimentos/operacionais/peq/peq056.html" class="no-external"></a></p><a href="../../../../pages/procedimentos/operacionais/peq/peq056.html" class="no-external">
 <div class="metadata-value listing-procedimento">
 PEQ-056
 </div>
@@ -1963,7 +1940,7 @@ PEQ-056
 </div>
 </div>
 <div class="listing-no-matching d-none">
-Nenhum item correspondente
+Sem itens correspondentes
 </div>
 <nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
   <ul class="pagination"></ul>
@@ -2016,18 +1993,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -2059,11 +2025,48 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
-  function tippyHover(el, contentFn) {
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/lanal-ufg\.github\.io\/lanal-ufg");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -2073,8 +2076,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -2086,7 +2098,129 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -2130,6 +2264,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -2155,6 +2290,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -2216,12 +2377,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../../../../pages/procedimentos/analiticos/index.html" class="pagination-link">
+      <a href="../../../../pages/procedimentos/analiticos/index.html" class="pagination-link" aria-label="Métodos Analíticos">
         <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Métodos Analíticos</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../../../pages/procedimentos/operacionais/pps/index.html" class="pagination-link">
+      <a href="../../../../pages/procedimentos/operacionais/pps/index.html" class="pagination-link" aria-label="Preparo de soluções">
         <span class="nav-page-text">Preparo de soluções</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
@@ -2235,13 +2396,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link" href="../../../../about.html">Sobre</a>
+    <a class="nav-link" href="../../../../about.html">
+<p>Sobre</p>
+</a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="../../../../pages/faq/index.html">Perguntas frequentes</a>
+    <a class="nav-link" href="../../../../pages/faq/index.html">
+<p>Perguntas frequentes</p>
+</a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="../../../../informação.html">Acesso à informação</a>
+    <a class="nav-link" href="../../../../informação.html">
+<p>Acesso à informação</p>
+</a>
   </li>  
 </ul>
     </div>
@@ -2250,6 +2417,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </div>
   </div>
 </footer>
+
 
 
 
